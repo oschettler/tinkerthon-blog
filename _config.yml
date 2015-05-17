@@ -1,0 +1,7 @@
+#
+timezone: Europe/Berlin
+
+# index of related posts
+lsi: true
+name: Lenas Uhr
+#disqus_shortname: olav
