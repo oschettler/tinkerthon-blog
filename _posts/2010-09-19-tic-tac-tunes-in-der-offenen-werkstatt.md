@@ -1,8 +1,10 @@
 ---
 title: Tic Tac Tunes in der offenen Werkstatt
 author: olav
+published: 19.09.2010
 layout: post
 permalink: /2010/09/tic-tac-tunes-in-der-offenen-werkstatt/
+thumbnail: /wp-content/uploads/2010/09/Tic-Tac-Tunes-Now-with-Tic-Tac-Beat-Box-212x212.jpg
 aktt_notify_twitter:
   - no
 categories:

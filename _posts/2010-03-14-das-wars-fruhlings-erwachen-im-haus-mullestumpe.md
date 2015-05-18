@@ -1,6 +1,7 @@
 ---
 title: 'Das wars: Frühlings Erwachen im Haus Müllestumpe'
 author: olav
+published: 14.03.2010
 layout: post
 permalink: /2010/03/das-wars-fruhlings-erwachen-im-haus-mullestumpe/
 aktt_notify_twitter:

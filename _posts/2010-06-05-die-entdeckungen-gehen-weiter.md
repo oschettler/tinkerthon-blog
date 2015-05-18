@@ -1,6 +1,7 @@
 ---
 title: Die Entdeckungen gehen weiter
 author: olav
+published: 05.06.2010
 layout: post
 permalink: /2010/06/die-entdeckungen-gehen-weiter/
 aktt_notify_twitter:
@@ -14,7 +15,7 @@ tags:
 &#8230; noch [Samstag und Sonntag][1]. Am Sonntag um 14 Uhr ist eine kleine Ausstellung mit den erschaffenen Werken.
 
 Für die Gesamtveranstaltung wird es sicher bald auf der Website von Haus Müllestumpe Videoauschnitte geben. Hier schon einmal etwas zum Anschauen zum Thema &#8220;Elektronische Kuschetiere&#8221;:  
-  
+
 PICAXE-Microcontroller sind super. Und man braucht eigentlich gar keine Platinen, um damit coole Schaltungen zu bauen.
 
 Romeos Drahtigel z.B. unterbricht sein Augenblinken, wenn man den Fotowiderstand abdunktelt und spielt dann ein Schlaflied. Das alles mit einem 8-Pin-Microcontroller und ein paar Zeilen kinderleichtem BASIC gesteuert.

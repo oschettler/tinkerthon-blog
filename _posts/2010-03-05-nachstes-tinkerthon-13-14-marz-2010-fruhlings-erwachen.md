@@ -1,6 +1,7 @@
 ---
 title: 'Nächstes Tinkerthon: 13./14. März 2010: Frühlings Erwachen'
 author: olav
+published: 05.03.2010
 layout: post
 permalink: /2010/03/nachstes-tinkerthon-13-14-marz-2010-fruhlings-erwachen/
 aktt_notify_twitter:

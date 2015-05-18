@@ -1,6 +1,10 @@
 ---
 title: 'Projektideen aus Büchern: Ein heißer Tipp'
 author: olav
+published: 16.05.2015
+thumbnail: /wp-content/uploads/2015/05/Tinkering__Kids_Learn_by_Making_Stuff__Amazon_de__Curt_Gabrielson__Fremdsprachige_Bücher-212x212.png
+excerpt: >
+    Das Buch Tinkering: Kids Learn by Making Stuff von Curt Gabrielson hat den interessanten Untertitel “Kinder lernen durch Bastelprojekte”. Ich bin auf dieses Buch bei meiner Suche nach der günstigsten Plattform für Internet-Of-Things Projekte gestoßen.
 layout: post
 permalink: /2015/05/projektideen-aus-buechern-ein-heisser-tipp/
 ks_metadata:

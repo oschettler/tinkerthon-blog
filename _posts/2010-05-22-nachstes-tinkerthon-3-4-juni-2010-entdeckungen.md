@@ -1,6 +1,7 @@
 ---
 title: 'Nächstes Tinkerthon: 3./4. Juni 2010: Entdeckungen'
 author: olav
+published: 22.05.2010
 layout: post
 permalink: /2010/05/nachstes-tinkerthon-3-4-juni-2010-entdeckungen/
 aktt_notify_twitter:

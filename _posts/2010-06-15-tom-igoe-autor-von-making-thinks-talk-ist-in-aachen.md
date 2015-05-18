@@ -1,6 +1,7 @@
 ---
 title: Tom Igoe, Autor von “Making Thinks Talk” ist in Aachen
 author: olav
+published: 15.06.2010
 layout: post
 permalink: /2010/06/tom-igoe-autor-von-making-thinks-talk-ist-in-aachen/
 aktt_notify_twitter:

@@ -1,6 +1,7 @@
 ---
 title: 'Tag Zwei: Volles Haus. Der Generalanzeiger berichtet'
 author: olav
+published: 23.02.2010
 layout: post
 permalink: /2010/02/tag-zwei-volles-haus-der-generalanzeiger-berichtet/
 aktt_notify_twitter:

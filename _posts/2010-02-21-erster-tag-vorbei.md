@@ -1,6 +1,7 @@
 ---
 title: Erster Tag vorbei
 author: olav
+published: 21.02.2010
 layout: post
 permalink: /2010/02/erster-tag-vorbei/
 aktt_notify_twitter:

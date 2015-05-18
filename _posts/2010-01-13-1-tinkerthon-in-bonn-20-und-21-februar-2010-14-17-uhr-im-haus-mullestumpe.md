@@ -1,5 +1,6 @@
 ---
 title: '1. Tinkerthon in Bonn: 20. und 21. Februar 2010 (14-17 Uhr) im Haus Müllestumpe'
+published: 13.01.2010
 author: olav
 layout: post
 permalink: /2010/01/1-tinkerthon-in-bonn-20-und-21-februar-2010-14-17-uhr-im-haus-mullestumpe/

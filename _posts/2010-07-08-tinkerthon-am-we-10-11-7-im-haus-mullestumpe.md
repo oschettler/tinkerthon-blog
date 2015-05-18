@@ -1,6 +1,7 @@
 ---
 title: Tinkerthon am WE 10./11.7. im Haus Müllestumpe
 author: olav
+published: 08.07.2010
 layout: post
 permalink: /2010/07/tinkerthon-am-we-10-11-7-im-haus-mullestumpe/
 aktt_notify_twitter:

@@ -1,6 +1,7 @@
 ---
 title: Details zu Workshop am 3./4.6.
 author: olav
+published: 02.06.2010
 layout: post
 permalink: /2010/06/details-zu-workshop-am-3-4-6/
 aktt_notify_twitter:

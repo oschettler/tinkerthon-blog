@@ -1,6 +1,7 @@
 ---
 title: Relaunch der Website
 author: olav
+published: 07.10.2010
 layout: post
 permalink: /2010/10/relaunch-der-website/
 aktt_notify_twitter:

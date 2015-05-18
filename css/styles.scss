@@ -23,12 +23,39 @@ body {
     }
 }
 
+.thumbnail {
+    overflow: hidden;
+
+    .image {
+        position: relative;
+        margin-bottom: 10px;
+
+        h4 {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            margin-bottom: -4px;
+            padding: 10px;
+            background-color: rgba(255, 255, 255, 0.5);
+            color: black;
+
+            a {
+                color: inherit;
+            }
+        }
+    }
+}
+
 span.published {
     font-style: italic;
 
     &:after {
         content: " - ";
     }
+
+    display: block;
+    float: left;
+    margin-right: 0.4em;
 }
 
 footer {

@@ -1,6 +1,7 @@
 ---
 title: Aserbaidschan mit LED-Kleidchen
 author: olav
+published: 29.05.2010
 layout: post
 permalink: /2010/05/aserbaidschan-mit-led-kleidchen/
 aktt_notify_twitter:

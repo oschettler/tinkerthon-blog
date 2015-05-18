@@ -1,6 +1,10 @@
 ---
 title: Wecker + Stimmungslampe
 author: olav
+published: 09.12.2014
+thumbnail: /wp-content/uploads/2014/12/Neuen_Beitrag_erstellen_‹_Tinkerthon_—_WordPress-212x212.png
+excerpt: >
+    Ich habe gerade zwei neue Blinkstick-Varianten bekommen und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die Uhrensoftware integrieren.
 layout: post
 permalink: /2014/12/wecker-stimmungslampe/
 ks_metadata:

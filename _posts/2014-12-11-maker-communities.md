@@ -1,6 +1,10 @@
 ---
 title: Maker-Communities
 author: olav
+published: 11.12.2014
+thumbnail: /wp-content/uploads/2014/12/62H-Kopie-212x212.jpg
+excerpt: >
+    Nach den ersten, unabhängigen Websites mit Anleitungen wie Instructables oder der deutsche Nachbau Expli kamen auch Händler auf die Idee, Community-Websites aufzusetzen und damit ihren Vertrieb anzukurbeln. Frühe Beispiel sind element14 von Farnell und learn von Adafruit. Jetzt ist auch Conrad auf diesen Zug aufgesprungen und hat seine eigene Community gestartet.
 layout: post
 permalink: /2014/12/maker-communities/
 ks_metadata:

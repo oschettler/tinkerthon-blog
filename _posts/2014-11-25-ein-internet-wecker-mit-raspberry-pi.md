@@ -1,6 +1,10 @@
 ---
 title: Ein Internet-Wecker mit Raspberry PI
 author: olav
+published: 25.11.2014
+thumbnail: /wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986033782-212x212.jpg
+excerpt: >
+    Letzten Freitag erwähnte Lena, dass sie gerne einen eigenen Wecker hätte. Ungefähr zur gleichen Zeit stolperte ich über den 2,8” LCD-Touchscreen für das Raspberry Pi von Watterott. Das Display ist einfach auf die GPIO-Pins des Pi aufsteckbar und es gibt für beides sogar ein passendes Gehäuse.
 layout: post
 permalink: /2014/11/ein-internet-wecker-mit-raspberry-pi/
 ks_metadata:
@@ -12,7 +16,7 @@ Letzten Freitag erwähnte Lena, dass sie gerne einen eigenen Wecker hätte. Unge
 
 <div id="attachment_960" style="width: 310px" class="wp-caption alignnone">
   <a href="http://tinkerthon.de/wp-content/uploads/2014/11/20110750_1.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-960 size-medium" src="http://tinkerthon.de/wp-content/uploads/2014/11/20110750_1-300x216.jpg" alt="20110750_1" width="300" height="216" /></a>
-  
+
   <p class="wp-caption-text">
     Raspberry Pi mit aufgestecktem Display (Bild: Watterott)
   </p>
@@ -20,7 +24,7 @@ Letzten Freitag erwähnte Lena, dass sie gerne einen eigenen Wecker hätte. Unge
 
 <div id="attachment_961" style="width: 310px" class="wp-caption alignnone">
   <a href="http://tinkerthon.de/wp-content/uploads/2014/11/20110803.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-961 size-medium" src="http://tinkerthon.de/wp-content/uploads/2014/11/20110803-300x187.jpg" alt="20110803" width="300" height="187" /></a>
-  
+
   <p class="wp-caption-text">
     Passendes TEX Berry Gehäuse (Bild: Watterott)
   </p>
@@ -88,28 +92,28 @@ Sehr interessant fand ich QML. Das hätte auch fast funktioniert, scheiterte am 
   <div>
     QT_QPA_PLATFORM=linuxfb:fb=/dev/fb1 /usr/lib/arm-linux-gnueabihf/qt5/bin/qmlscene webkit.qml
   </div>
-  
+
   <div>
   </div>
-  
+
   <div>
     &#8230; bricht aber leider wegen mangelnder OpenGL-Unterstützung ab.
   </div>
-  
+
   <div>
   </div>
-  
+
   <div>
     Letztlich läuft der RaspberryPi jetzt mit einem normalen X11 mit Chromium-Browser im Kiosk Mode. Die Anleitung dafür liefert <a href="https://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/">Dan Purdy</a>.  Den Startschirm bildet eine HTML-Seite mit <a href="http://randomibis.com/coolclock/demos/demo2.html">CoolClock</a>. Es sollen weitere Seiten mit Weckeinstellungen und einer einfachen Steuerung des MPD folgen. Damit hätte ich auch endlich eine bedienbare Alternative zu meinem ersten <a href="http://tinkerthon.de/2013/04/internet-radio-mit-raspberrypi-2-zeiligem-rgb-lcd-und-5-tasten/">Projekt mit dem Music Player Demon</a> gefunden.
   </div>
-  
+
   <div>
   </div>
-  
+
   <div>
     <div id="attachment_958" style="width: 310px" class="wp-caption alignnone">
       <a href="http://tinkerthon.de/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986351267.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-958 size-medium" src="http://tinkerthon.de/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986033782-300x242.jpg" alt="2014-11-25 08.04.14" width="300" height="242" /></a>
-      
+
       <p class="wp-caption-text">
         Die Uhr als HTML-Seite. Rechts das Menü macht noch nichts
       </p>
