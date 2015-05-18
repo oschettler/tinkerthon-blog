@@ -1,0 +1,78 @@
+#include <SoftwareSerial.h>
+
+#define txPin 5
+SoftwareSerial LCD = SoftwareSerial(0, txPin);
+
+#define LINES 21
+char* lines[][2] = {
+  {"Personal Blog", "olav.net"},
+  {"Online CVs", "cv8.me"},
+  {"PhyCom-Workshops", "tinkerthon.de"},
+  {"Drupal Hosting", "drupalsite.de"},
+  {"O'Reilly Book", "drupalbuch.de"},
+  {"PHP Framework", "contenite.com"},
+  {"Social Site", "browniepoints.de"},
+  {"Event Management", "aktivezeit.de"},
+  {"Brand Wholesale", "topmarken.de"},
+  {"Shopping Club", "gooddeals.de"},
+  {"Social Site", "d-i-n-e.de"},
+  {"File Sharing", "dropster.org"},
+  {"Shopping Guide", "ladentipp.com"},
+  {"Apple Blog", "ipat.me"},
+  {"Q. and Answers", "knowfox.de"},
+  {"Book Shop", "libretta.de"},
+  {"Childrens' Books", "vorlesebuch.de"},
+  {"Technology Blog", "syndicate.it"},
+  {"Social Site", "tribe.de"},
+  {"Music Store", "tunes.de"},
+  {"Lunch Tips", "dreitipps.de"},
+  {"Local Sites", "regional.net"},
+  {"Social Site", "vieni.de"},
+};
+int i = 0;
+
+void setup() {
+  pinMode(txPin, OUTPUT); 
+  LCD.begin(9600);
+}
+
+void
+lcd_cls() {
+  // Clear screen
+  LCD.print(0xFE, BYTE);
+  LCD.print(0x01, BYTE);
+}
+
+void
+lcd_line1(char* line) {
+  // Line 1
+  LCD.print(0xFE, BYTE);
+  LCD.print(128, BYTE);
+  LCD.print(line);
+}
+
+void
+lcd_line2(char* line) {
+  // Line 2
+  LCD.print(0xFE, BYTE);
+  LCD.print(192, BYTE);
+  LCD.print(line);
+}
+
+void loop() {
+  lcd_cls();
+  lcd_line1(lines[i][0]);
+  lcd_line2(lines[i++][1]);
+  
+  if (i == LINES) {
+    i = 0;
+  }
+  delay(4000);
+
+  lcd_cls();
+  lcd_line1("  Olav Schettler");
+  lcd_line2("   mail@olav.net");
+  delay(3000);
+}
+
+

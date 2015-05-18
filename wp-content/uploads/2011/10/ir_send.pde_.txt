@@ -1,0 +1,52 @@
+/*
+ * IRremote: IRsendDemo - demonstrates sending IR codes with IRsend
+ * An IR LED must be connected to Arduino PWM pin 3.
+ * Version 0.1 July, 2009
+ * Copyright 2009 Ken Shirriff
+ * http://arcfn.com
+ */
+
+#include <IRremote.h>
+
+IRsend irsend;
+int in = 0;
+
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop() {
+  if (Serial.available() > 0) {
+    in = Serial.read();
+
+/* Button Box
+1: C308F7
+2: C38877
+3: C348B7
+4: C3C837
+5: C330CF
+6: C3B04F
+7: C3708F
+8: C3F00F
+9: C310EF
+10: C3906F
+11: C350AF
+12: C3D02F
+*/
+
+    Serial.println(in, HEX);
+    switch (in) {
+      case 0x31:
+        irsend.sendNEC(0xC308F7, 32);
+        break;
+      case 0x32:
+        irsend.sendNEC(0xC38877, 32);
+        break;
+      case 0x33:
+        irsend.sendNEC(0xC348B7, 32);
+        break;
+    } 
+  }  
+}
+

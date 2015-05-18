@@ -1,0 +1,103 @@
+; Lenas Computer
+' Lies eine Taste von einer angeschlossenen PS/2 Tastatur
+; und gebe sie an der seriellen Schnittstelle aus
+#picaxe 14m2
+symbol raw_char = b1
+symbol row = b2
+symbol col = b3
+symbol decoded_char = b4
+symbol blink = b5
+
+pause 2000
+; autobaud
+serout C.4, T2400_4, ("U")
+serin C.3, T2400_4, b1
+
+; font size
+serout C.4, T2400_4, ("F", $01)
+serin C.3, T2400_4, b1
+; opaque text
+serout C.4, T2400_4, ("O", $01)
+serin C.3, T2400_4, b1
+
+gosub clearscreen
+
+keyled %10000000
+
+blink = 0
+
+do
+
+blinkc:
+	if blink = 0 then
+		serout C.4, T2400_4, ("T", " ", col, row, $FF, $FF)
+		serin C.3, T2400_4, b1
+		blink = 1
+	else
+		serout C.4, T2400_4, ("T", "_", col, row, $FF, $FF)
+		serin C.3, T2400_4, b1
+		blink = 0
+	endif
+	
+	kbin [500,blinkc], raw_char
+	sertxd (#raw_char)
+	
+	if raw_char = 102 then
+		; backspace
+		serout C.4, T2400_4, ("T", " ", col, row, $FF, $FF)
+		serin C.3, T2400_4, b1
+		if col = 0 then
+			if row > 1 then
+				dec row
+				col = 11
+			endif
+		else
+			dec col
+		endif
+	elseif raw_char = 94 then
+		gosub clearscreen
+	else
+		read raw_char, decoded_char
+	
+		; string at 0x0 in 8x8 font, white 
+		serout C.4, T2400_4, ("T", decoded_char, col, row, $FF, $FF)
+		serin C.3, T2400_4, b1
+	
+		inc col
+		if col = 12 then
+			if row < 8 then
+				inc row
+				col = 0
+			endif
+		endif
+	endif
+
+	keyled %10000001
+	pause 200
+	keyled %10000000
+loop
+
+clearscreen:
+	; erase
+	serout C.4, T2400_4, ("E")
+	serin C.3, T2400_4, b1
+	serout C.4, T2400_4, ("s", 0, 0, $01, $F8, $FF, "_HALLO LENA_", $00)
+	serin C.3, T2400_4, b1
+
+	row = 1
+	col = 0
+
+	return
+
+
+' load memory with lookup table
+' of keyboard to ASCII conversion
+
+EEPROM $00,("?9?5312C?A864?'?")	' Function keys
+EEPROM $10,("?????Q1???YSAW2?")	' Main keyboard keys
+EEPROM $20,("?CXDE43?? VFTR5?")
+EEPROM $30,("?NBHGZ6???MJU78?")
+EEPROM $40,("?,KIO09??./L;P-?")
+EEPROM $50,("??'?[=?????]????")
+EEPROM $60,("?????????1?47???")	' Numeric keypad keys
+EEPROM $70,("0.2568??B+3-*9??")	' 
