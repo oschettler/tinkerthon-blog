@@ -1,28 +1,65 @@
 ---
+title: 'November-Workshop &#8211; Cyberpets zuende'
+author: olav
 layout: post
-status: publish
-published: true
-title: November-Workshop - Cyberpets zuende
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 314
-wordpress_url: http://tinkerthon.de/?p=314
-date: '2010-11-28 19:46:20 +0100'
-date_gmt: '2010-11-28 18:46:20 +0100'
+permalink: /2010/11/november-workshop-cyberpets-zuende/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Workshops
+  - Workshops
 tags:
-- Bericht
-- PICAXE 08M
-- '2010-11-27'
-comments: []
+  - 2010-11-27
+  - Bericht
+  - PICAXE 08M
 ---
-<p>Leider, leider, keine <a href="http:&#47;&#47;www.instructables.com&#47;id&#47;Piecax-the-Poltergeist-A-Troublesome-Spirit-in-a&#47;">Poltergeister<&#47;a>, was ich eigentlich vorhatte. Das Paket aus <a href="http:&#47;&#47;www.techsupplies.co.uk&#47;PICAXE">Bath<&#47;a> mit den Feldeffekttransistoren zum Antreiben der Motoren kam leider nicht mehr rechtzeitig. F&uuml;r die <a href="http:&#47;&#47;jonathanjamieson.com&#47;projects&#47;electronics&#47;perpetual-ball-roller&#47;">Murmelbahn<&#47;a> h&auml;tte ich Teile gehabt, aber die Konstruktion w&auml;re zu schwierig gewesen. Da muss ich noch einmal ein paar mehr Prototypen bauen, bevor das f&uuml;r einen Workshop taugt.</p>
-<p>Wir haben also dieses Mal noch einmal Cyberpets gebaut. Davon hatte ich gl&uuml;cklicherweise noch gen&uuml;gend Exemplare. Es haben - trotz Tag der offenen T&uuml;r in einigen umliegenden Schulen - wieder sieben Kinder teilgenommen; eine ganz angenehme Zahl. Die j&uuml;ngste Teilnehmerin war in der ersten Klasse. Sie brauchte zwar ein wenig mehr Hilfe, hat das L&ouml;ten aber tapfer bew&auml;ltigt und am Ende ihr fertig programmiertes Cyber-Kuscheltier mit nach Hause genommen. Auch alle anderen Teilnehmer haben erfolgreich ihr elektronisches Kuscheltier fertig gel&ouml;tet und am Ende mit dem Rentier-Programm programmiert. Damit spielt das kleine Platinchen je nach Raumhelligkeit auf Knopfdruck vier verschiedene Weihnachtslieder ab. Nach Weihnachten kann man das Programm l&ouml;schen und durch etwas anderes ersetzen.</p>
-<p>Zwei Jungen hatten am Ende noch begonnen, inspiriert von <a href="http:&#47;&#47;tinkerthon.de&#47;2010&#47;07&#47;lilypad-arduino-mit-10-leds&#47;">meiner Lilypad-Schnecke<&#47;a>, einen Drahrring mit weiteren LEDs zu biegen und an die Ausg&auml;nge des PICAXE-08M anzuschlie&szlig;en. Leider hatten wir zum Ende des Workshops nur einen der beiden Ringe fertig, da flossen dann auch ein paar Tr&auml;nen. Wenn ihr mit dem mitgegebenen Draht und Widerst&auml;nden den LED-Ring nicht zuhause fertig bekommt, k&ouml;nnen wir das in einer der n&auml;chsten Offenen Werkst&auml;tten nachholen. Schaut f&uuml;r Termine bitte auf den <a href="http:&#47;&#47;www.muellestumpe.de&#47;">Seiten des Haus M&uuml;llestumpe<&#47;a> nach.</p>
-<p>[gallery link="file" columns="3"]</p>
+Leider, leider, keine [Poltergeister][1], was ich eigentlich vorhatte. Das Paket aus [Bath][2] mit den Feldeffekttransistoren zum Antreiben der Motoren kam leider nicht mehr rechtzeitig. Für die [Murmelbahn][3] hätte ich Teile gehabt, aber die Konstruktion wäre zu schwierig gewesen. Da muss ich noch einmal ein paar mehr Prototypen bauen, bevor das für einen Workshop taugt.
+
+Wir haben also dieses Mal noch einmal Cyberpets gebaut. Davon hatte ich glücklicherweise noch genügend Exemplare. Es haben &#8211; trotz Tag der offenen Tür in einigen umliegenden Schulen &#8211; wieder sieben Kinder teilgenommen; eine ganz angenehme Zahl. Die jüngste Teilnehmerin war in der ersten Klasse. Sie brauchte zwar ein wenig mehr Hilfe, hat das Löten aber tapfer bewältigt und am Ende ihr fertig programmiertes Cyber-Kuscheltier mit nach Hause genommen. Auch alle anderen Teilnehmer haben erfolgreich ihr elektronisches Kuscheltier fertig gelötet und am Ende mit dem Rentier-Programm programmiert. Damit spielt das kleine Platinchen je nach Raumhelligkeit auf Knopfdruck vier verschiedene Weihnachtslieder ab. Nach Weihnachten kann man das Programm löschen und durch etwas anderes ersetzen.
+
+Zwei Jungen hatten am Ende noch begonnen, inspiriert von [meiner Lilypad-Schnecke][4], einen Drahrring mit weiteren LEDs zu biegen und an die Ausgänge des PICAXE-08M anzuschließen. Leider hatten wir zum Ende des Workshops nur einen der beiden Ringe fertig, da flossen dann auch ein paar Tränen. Wenn ihr mit dem mitgegebenen Draht und Widerständen den LED-Ring nicht zuhause fertig bekommt, können wir das in einer der nächsten Offenen Werkstätten nachholen. Schaut für Termine bitte auf den [Seiten des Haus Müllestumpe][5] nach.
+
+<!-- see gallery_shortcode() in wp-includes/media.php -->
+
+<div id='gallery-5' class='gallery galleryid-314 gallery-columns-3 gallery-size-thumbnail'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-e1291011026329.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-150x150.jpg" class="attachment-thumbnail" alt="Aushang im Restaurantbereich des Haus Müllestumpe" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-e1291099068706.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Stückliste des Kuschetiers" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-e1291011052248.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-150x150.jpg" class="attachment-thumbnail" alt="IMG_0673" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-e1291011069355.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-150x150.jpg" class="attachment-thumbnail" alt="IMG_0672" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-e1291011085509.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-150x150.jpg" class="attachment-thumbnail" alt="IMG_0671" /></a>
+    </dt>
+  </dl>
+  
+  <br style='clear: both;' />
+</div>
+
+ [1]: http://www.instructables.com/id/Piecax-the-Poltergeist-A-Troublesome-Spirit-in-a/
+ [2]: http://www.techsupplies.co.uk/PICAXE
+ [3]: http://jonathanjamieson.com/projects/electronics/perpetual-ball-roller/
+ [4]: http://tinkerthon.de/2010/07/lilypad-arduino-mit-10-leds/
+ [5]: http://www.muellestumpe.de/

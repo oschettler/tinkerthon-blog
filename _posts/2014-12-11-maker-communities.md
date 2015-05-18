@@ -1,22 +1,17 @@
 ---
-layout: post
-status: publish
-published: true
 title: Maker-Communities
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 969
-wordpress_url: http://tinkerthon.de/?p=969
-date: '2014-12-11 08:15:45 +0100'
-date_gmt: '2014-12-11 07:15:45 +0100'
+author: olav
+layout: post
+permalink: /2014/12/maker-communities/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:44:"und,auch,auf,beispiel,community,von,websites";s:19:"keywords_autoupdate";i:1;s:11:"description";s:0:"";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 categories:
-- Allgemein
-tags: []
-comments: []
+  - Allgemein
 ---
-<p>Nach den ersten, unabh&auml;ngigen Websites mit Anleitungen (Beispiel: <a href="http:&#47;&#47;www.instructables.com&#47;in">Instructables<&#47;a>, deutscher Nachbau: <a href="http:&#47;&#47;www.expli.de&#47;">Expli<&#47;a>) kamen auch H&auml;ndler auf die Idee, Community-Websites aufzusetzen und damit ihren Vertrieb anzukurbeln. Fr&uuml;he Beispiel sind <a href="http:&#47;&#47;www.element14.com&#47;">element14<&#47;a> von Farnell und <a href="https:&#47;&#47;learn.adafruit.com&#47;">learn<&#47;a> von Adafruit. Jetzt ist auch Conrad auf diesen Zug aufgesprungen und hat seine&nbsp;eigene <a href="https:&#47;&#47;community.conrad.de&#47;">Community<&#47;a> gestartet.</p>
+Nach den ersten, unabhängigen Websites mit Anleitungen (Beispiel: [Instructables][1], deutscher Nachbau: [Expli][2]) kamen auch Händler auf die Idee, Community-Websites aufzusetzen und damit ihren Vertrieb anzukurbeln. Frühe Beispiel sind [element14][3] von Farnell und [learn][4] von Adafruit. Jetzt ist auch Conrad auf diesen Zug aufgesprungen und hat seine eigene [Community][5] gestartet.
+
+ [1]: http://www.instructables.com/in
+ [2]: http://www.expli.de/
+ [3]: http://www.element14.com/
+ [4]: https://learn.adafruit.com/
+ [5]: https://community.conrad.de/

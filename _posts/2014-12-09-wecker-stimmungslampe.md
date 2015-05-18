@@ -1,24 +1,20 @@
 ---
-layout: post
-status: publish
-published: true
 title: Wecker + Stimmungslampe
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 965
-wordpress_url: http://tinkerthon.de/?p=965
-date: '2014-12-09 00:44:03 +0100'
-date_gmt: '2014-12-08 23:44:03 +0100'
+author: olav
+layout: post
+permalink: /2014/12/wecker-stimmungslampe/
+ks_metadata:
+  - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:41:"und,blinkstick,das,die,ich,einen,den,habe";s:19:"keywords_autoupdate";i:1;s:11:"description";s:150:"und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die Uhrensoftware integrieren. So sieht das Ergebnis aus:";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
 categories:
-- Allgemein
-tags: []
-comments: []
+  - Allgemein
 ---
-<p>Ich habe gerade&nbsp;zwei&nbsp;neue&nbsp;Blinkstick-Varianten&nbsp;bekommen&nbsp;und&nbsp;musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die <a href="http:&#47;&#47;tinkerthon.de&#47;2014&#47;11&#47;ein-internet-wecker-mit-raspberry-pi&#47;">Uhrensoftware<&#47;a> integrieren. So sieht das Ergebnis aus:</p>
-<p>[embed]https:&#47;&#47;www.youtube.com&#47;watch?v=5N10kAwQbTM[&#47;embed]</p>
-<p>Das <a href="https:&#47;&#47;www.blinkstick.com&#47;products&#47;blinkstick-square">Blinkstick Square<&#47;a> ist eine kleine Platine mit acht superhellen LEDs, die &uuml;ber einen kleinen MicroController (ein ATtiny 85) direkt und ohne Treiber &uuml;ber einen USB-Port gesteuert werden k&ouml;nnen. Der Anbieter bietet&nbsp;ein Kommandozeilenprogramm und jede Menge APIs zur Steuerung. F&uuml;r mein Mood Light habe ich die <a href="https:&#47;&#47;github.com&#47;arvydas&#47;blinkstick-node">NodeJS-API<&#47;a> benutzt. Das Programm findet ihr auf <a href="https:&#47;&#47;bitbucket.org&#47;olav&#47;lenas-uhr">BitBucket<&#47;a>. Zu den Details des Kiosk-Browsers schreibe ich sp&auml;ter noch was.</p>
+Ich habe gerade zwei neue Blinkstick-Varianten bekommen und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die [Uhrensoftware][1] integrieren. So sieht das Ergebnis aus:
+
+<span class='embed-youtube' style='text-align:center; display: block;'></span>
+
+Das [Blinkstick Square][2] ist eine kleine Platine mit acht superhellen LEDs, die über einen kleinen MicroController (ein ATtiny 85) direkt und ohne Treiber über einen USB-Port gesteuert werden können. Der Anbieter bietet ein Kommandozeilenprogramm und jede Menge APIs zur Steuerung. Für mein Mood Light habe ich die [NodeJS-API][3] benutzt. Das Programm findet ihr auf [BitBucket][4]. Zu den Details des Kiosk-Browsers schreibe ich später noch was.
+
+ [1]: http://tinkerthon.de/2014/11/ein-internet-wecker-mit-raspberry-pi/
+ [2]: https://www.blinkstick.com/products/blinkstick-square
+ [3]: https://github.com/arvydas/blinkstick-node
+ [4]: https://bitbucket.org/olav/lenas-uhr

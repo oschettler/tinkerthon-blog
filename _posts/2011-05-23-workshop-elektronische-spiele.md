@@ -1,25 +1,47 @@
 ---
+title: 'Nächster Workshop am 2.7.2011 &#8211; Elektronische Spiele'
+author: olav
 layout: post
-status: publish
-published: true
-title: N&auml;chster Workshop am 2.7.2011 - Elektronische Spiele
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 509
-wordpress_url: http://tinkerthon.de/?p=509
-date: '2011-05-23 08:00:34 +0200'
-date_gmt: '2011-05-23 06:00:34 +0200'
+permalink: /2011/05/workshop-elektronische-spiele/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Workshops
-- PICAXE
-tags: []
-comments: []
+  - PICAXE
+  - Workshops
 ---
-<p>Bei unserem n&auml;chsten Workshop werden wir eine etwas umfangreichere Schaltung bauen und damit elektronische Spiele programmieren.<br />
-Aber keine Angst: Es gibt wieder eine Platine und das L&ouml;ten ist nicht schwieriger als unsere bisherigen Projekte. Nur der verwendete PICAXE18-Chip hat gleich 10 Beinchen mehr und damit nat&uuml;rlich viel mehr M&ouml;glichkeiten als unsere kleine PICAXE8, Leuchtdioden und Schalter anzuschliessen. Die Platine sieht daher auch gleich 5 LEDs vor, genug Ausg&auml;nge f&uuml;r spannende Spielideen. Programmiert wird der Chip wie gewohnt in einfachem Basic oder &uuml;ber Flussdiagramme.</p>
-<p>[gallery link="file"]</p>
+Bei unserem nächsten Workshop werden wir eine etwas umfangreichere Schaltung bauen und damit elektronische Spiele programmieren.  
+Aber keine Angst: Es gibt wieder eine Platine und das Löten ist nicht schwieriger als unsere bisherigen Projekte. Nur der verwendete PICAXE18-Chip hat gleich 10 Beinchen mehr und damit natürlich viel mehr Möglichkeiten als unsere kleine PICAXE8, Leuchtdioden und Schalter anzuschliessen. Die Platine sieht daher auch gleich 5 LEDs vor, genug Ausgänge für spannende Spielideen. Programmiert wird der Chip wie gewohnt in einfachem Basic oder über Flussdiagramme.
+
+<!-- see gallery_shortcode() in wp-includes/media.php -->
+
+<div id='gallery-12' class='gallery galleryid-509 gallery-columns-3 gallery-size-thumbnail'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0130-e1306130224650.jpg' rel="lightbox[509]" title="Nächster Workshop am 2.7.2011 - Elektronische Spiele"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0130-e1306130224650-150x150.jpg" class="attachment-thumbnail" alt="Die Testpilotin ist noch skeptisch" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/Bildschirmfoto-2011-05-23-um-07.48.20.png' rel="lightbox[509]" title="Nächster Workshop am 2.7.2011 - Elektronische Spiele"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/Bildschirmfoto-2011-05-23-um-07.48.20-150x150.png" class="attachment-thumbnail" alt="Die Schaltung des elektronischen Spiels" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0126-e1306179655773.jpg' rel="lightbox[509]" title="Nächster Workshop am 2.7.2011 - Elektronische Spiele"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0126-150x150.jpg" class="attachment-thumbnail" alt="Ein mögliches Gehäuse. Eigene Fantasie ist gefragt" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0127-e1306179614263.jpg' rel="lightbox[509]" title="Nächster Workshop am 2.7.2011 - Elektronische Spiele"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/05/IMG_0127-150x150.jpg" class="attachment-thumbnail" alt="Teile für das elektronische Spiel" /></a>
+    </dt>
+  </dl>
+  
+  <br style='clear: both;' />
+</div>

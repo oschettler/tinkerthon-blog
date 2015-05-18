@@ -1,0 +1,51 @@
+;
+symbol zaehler = b0
+symbol zeit = b1
+symbol schluss = b2
+
+symbol anfang = b3
+symbol licht = b4
+
+
+setint %00001000, 00001000
+
+zeit = 30
+schluss = 0
+
+readadc 1, anfang
+anfang = anfang - 30
+
+do 
+	sound 2,(84,10)
+	wait 1
+	zeit = zeit - 1
+	
+	readadc 1, licht
+	if licht < anfang then
+		schluss = 1
+	endif
+
+loop until zeit = 0 or schluss = 1
+
+tune 2, 20, (90, 70, 60)
+
+do
+	high 0
+	pause 100
+	low 0
+	pause 400
+	zaehler = zaehler - 1
+loop until zaehler  = 0
+
+end
+
+interrupt:
+	setint %00001000, 00001000
+	high 0
+	sound 2,(84,10,89,10)
+	zaehler = zaehler + 1
+	pause 500
+	low 0
+	pause 500
+	return
+	

@@ -1,38 +1,71 @@
 ---
-layout: post
-status: publish
-published: true
 title: Senso-Spiel mit PIC Microcontroller
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 460
-wordpress_url: http://tinkerthon.de/?p=460
-date: '2011-03-22 08:03:20 +0100'
-date_gmt: '2011-03-22 07:03:20 +0100'
+author: olav
+layout: post
+permalink: /2011/03/micro-senso/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Allgemein
-tags: []
-comments:
-- id: 140
-  author: Aladins Lampen | Tinkerthon
-  author_email: ''
-  author_url: http://tinkerthon.de/2011/10/aladins-lampen/
-  date: '2011-10-02 23:46:11 +0200'
-  date_gmt: '2011-10-02 21:46:11 +0200'
-  content: '[...] prima als Projekt zur Realisierung mit Microcontrollern eignet.
-    Das Spielfeld besteht, &auml;hnlich wie Senso, aus Tastern und beigeordneten Lampen.
-    Ziel des Spiel ist es, von einer gegebenen Ausgangssituation [...]'
+  - Allgemein
 ---
-<p>Am letzten Wochenende musste der Workshop leider mangels Anmeldungen ausfallen. Ich habe die Zeit genutzt und einen ersten Prototypen f&uuml;r den <strong>n&auml;chsten Workshop am 9. April im Haus M&uuml;llestumpe<&#47;strong> gebaut. Es ist ein Spiel nach dem Vorbild des bekannten Senso. Senso. Senso - oder Simons - wie das amerikanische Original auch heisst - wurde in den 60er Jahren von<a href="http:&#47;&#47;www.ralphbaer.com&#47;"> Ralph H. Baer<&#47;a> erfunden und war eines der ersten, erfolgreichen Spielekonsolen. </p>
-<p>Meine Version ist ein Nachbau des Projektes des <a href="http:&#47;&#47;www.waitingforfriday.com&#47;">Schweden Simon Inns<&#47;a>, der Schaltung und Spieleprogrammierung auf einem PIC 12F683-Microcontroller realisierte und als <a href="http:&#47;&#47;www.instructables.com&#47;id&#47;MicroSimon&#47;">Instructable<&#47;a> ver&ouml;ffentlichte. </p>
-<p>Ich habe die Schaltung zun&auml;chst auf einer Lochrasterplatine mit einem PIC im DIL-Geh&auml;use aufgebaut. Die Software von Simon ist in C programmiert und ben&ouml;tigt daher ein PIC-Programmierger&auml;t, um es auf den Microcontroller zu bringen.</p>
-<p>Der PIC 12F683 ist derselbe Microcontroller, der auch hinter unserem bekannten PICAXE 08M steckt. Es ist also reizvoll zu schauen, ob sich das Spiel auch in PICAXE-Basic programmieren l&auml;sst und dann als Projekt f&uuml;r einen tinkerthon-Workshop taugt.</p>
-<p>Unver&auml;ndert l&auml;sst sich die Schaltung jedenfalls nicht mit einem PICAXE-Controller betreiben. Da st&ouml;rt schon der Piezo-Summer an Pin 2, welcher beim PICAXE f&uuml;r die Programmierschnittstelle reserviert ist. </p>
-<p>[gallery link="file"]</p>
-<p>Hier noch ein Video eines Spiels:</p>
-<p><iframe title="YouTube video player" width="640" height="390" src="http:&#47;&#47;www.youtube.com&#47;embed&#47;Bt6VE0NwHpM" frameborder="0" allowfullscreen><&#47;iframe></p>
+Am letzten Wochenende musste der Workshop leider mangels Anmeldungen ausfallen. Ich habe die Zeit genutzt und einen ersten Prototypen für den **nächsten Workshop am 9. April im Haus Müllestumpe** gebaut. Es ist ein Spiel nach dem Vorbild des bekannten Senso. Senso. Senso &#8211; oder Simons &#8211; wie das amerikanische Original auch heisst &#8211; wurde in den 60er Jahren von[ Ralph H. Baer][1] erfunden und war eines der ersten, erfolgreichen Spielekonsolen. 
+
+Meine Version ist ein Nachbau des Projektes des [Schweden Simon Inns][2], der Schaltung und Spieleprogrammierung auf einem PIC 12F683-Microcontroller realisierte und als [Instructable][3] veröffentlichte. 
+
+Ich habe die Schaltung zunächst auf einer Lochrasterplatine mit einem PIC im DIL-Gehäuse aufgebaut. Die Software von Simon ist in C programmiert und benötigt daher ein PIC-Programmiergerät, um es auf den Microcontroller zu bringen.
+
+Der PIC 12F683 ist derselbe Microcontroller, der auch hinter unserem bekannten PICAXE 08M steckt. Es ist also reizvoll zu schauen, ob sich das Spiel auch in PICAXE-Basic programmieren lässt und dann als Projekt für einen tinkerthon-Workshop taugt.
+
+Unverändert lässt sich die Schaltung jedenfalls nicht mit einem PICAXE-Controller betreiben. Da stört schon der Piezo-Summer an Pin 2, welcher beim PICAXE für die Programmierschnittstelle reserviert ist. 
+
+<!-- see gallery_shortcode() in wp-includes/media.php -->
+
+<div id='gallery-10' class='gallery galleryid-460 gallery-columns-3 gallery-size-thumbnail'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0095-e1300777577112.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0095-150x150.jpg" class="attachment-thumbnail" alt="IMG_0095" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0094-e1300777527781.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="IMG_0094" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0093-e1300777547884.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0093-150x150.jpg" class="attachment-thumbnail" alt="IMG_0093" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/Simon_game.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/Simon_game-150x150.jpg" class="attachment-thumbnail" alt="Simon_game" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0076.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0076-150x150.jpg" class="attachment-thumbnail" alt="Kleiner Drahtigel zum Anschluss des Microcontrollers an das Programmiergerät" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0075-e1300790314409.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0075-150x150.jpg" class="attachment-thumbnail" alt="Programmierung des Microcontrollers mit dem PICkit 2" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" /> <br style='clear: both;' />
+</div>
+
+Hier noch ein Video eines Spiels:
+
+ [1]: http://www.ralphbaer.com/
+ [2]: http://www.waitingforfriday.com/
+ [3]: http://www.instructables.com/id/MicroSimon/

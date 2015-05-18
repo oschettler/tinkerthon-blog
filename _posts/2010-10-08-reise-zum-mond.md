@@ -1,22 +1,16 @@
 ---
-layout: post
-status: publish
-published: true
 title: Reise zum Mond
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 257
-wordpress_url: http://tinkerthon.de/?p=257
-date: '2010-10-08 10:11:08 +0200'
-date_gmt: '2010-10-08 08:11:08 +0200'
+author: olav
+layout: post
+permalink: /2010/10/reise-zum-mond/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Allgemein
-tags: []
-comments: []
+  - Allgemein
 ---
-<p>Google sponsort privat finanzierte Projekte, um einen <a title="Google Xprize" href="http:&#47;&#47;www.googlelunarxprize.org&#47;">Roboter zum Mond<&#47;a> zu schicken. Ein Ziel des Projektes ist es, auch Kinder f&uuml;r Naturwissenschaft zu begeistern. In diesem Rahmen gibt es einige <a href="http:&#47;&#47;www.googlelunarxprize.org&#47;lunar&#47;education&#47;learning-guides">Anleitungen und Aktivit&auml;ten<&#47;a>.</p>
+Google sponsort privat finanzierte Projekte, um einen [Roboter zum Mond][1] zu schicken. Ein Ziel des Projektes ist es, auch Kinder für Naturwissenschaft zu begeistern. In diesem Rahmen gibt es einige [Anleitungen und Aktivitäten][2].
+
+ [1]: http://www.googlelunarxprize.org/ "Google Xprize"
+ [2]: http://www.googlelunarxprize.org/lunar/education/learning-guides

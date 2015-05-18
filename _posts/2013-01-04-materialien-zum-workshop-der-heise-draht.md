@@ -1,39 +1,24 @@
 ---
+title: 'Materialien zum Workshop &#8220;Der heiße Draht&#8221;'
+author: olav
 layout: post
-status: publish
-published: true
-title: Materialien zum Workshop "Der hei&szlig;e Draht"
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 791
-wordpress_url: http://tinkerthon.de/?p=791
-date: '2013-01-04 16:32:40 +0100'
-date_gmt: '2013-01-04 15:32:40 +0100'
+permalink: /2013/01/materialien-zum-workshop-der-heise-draht/
 categories:
-- Workshops
-- PICAXE
-tags: []
-comments:
-- id: 338
-  author: Workshop &#8220;Hei&szlig;er Draht&#8221; im Herbst 2013 | Tinkerthon
-  author_email: ''
-  author_url: http://tinkerthon.de/2013/10/heisser-draht-im-deutschen-museum/
-  date: '2013-10-24 22:18:46 +0200'
-  date_gmt: '2013-10-24 20:18:46 +0200'
-  content: '[&#8230;] paar Materialien f&uuml;r die Teilnehmer hatte ich schon in
-    meinem Artikel vom Januar [&#8230;]'
+  - PICAXE
+  - Workshops
 ---
-<p>Das war's. Alle Spiele sind fertig geworden. Da wir auch einige Kabel verkauft haben, hoffe ich, dass auch einige Teilnehmer sich zu Hause in der PICAXE-Programmierung versuchen werden.</p>
-<p>Hier noch ein paar Informationen f&uuml;r den Start:</p>
-<ul>
-<li>Die PICAXE-Seiten findet ihr unter <a href="http:&#47;&#47;picaxe.com">picaxe.com<&#47;a>. Dort gibt es auch die kostenlose Software zum Programmieren unter dem Men&uuml;punkte "Software". Diese gibt es f&uuml;r Windows, Macs und Linux.<&#47;li>
-<li>Die ganzen Basic-Befehle sind im <a href="http:&#47;&#47;www.picaxe.com&#47;Getting-Started&#47;PICAXE-Manuals&#47;">PICAXE-Handbuch<&#47;a><br />
-aufgelistet.<&#47;li></p>
-<li>Die Programbeispiele f&uuml;r den Hei&szlig;en Draht findet ihr auf <a href="https:&#47;&#47;github.com&#47;tinkerthon&#47;Der-heisse-Draht">Github<&#47;a>. Dort k&ouml;nnt ihr sie als Archiv herunterladen.<&#47;li>
-<li>Die <a href="http:&#47;&#47;tinkerthon.de&#47;uploads&#47;heisser_draht_2013-01.pdf">Pr&auml;sentation mit Code-Beispielen<&#47;a> und weiteren Erkl&auml;rungen ebenso wie der <a href="http:&#47;&#47;tinkerthon.de&#47;uploads&#47;heisserdraht_cheatsheet.pdf">Spickzettel<&#47;a> gibt es als PDF-Datei ebenfalls online.<&#47;li><br />
-<&#47;ul></p>
+Das war&#8217;s. Alle Spiele sind fertig geworden. Da wir auch einige Kabel verkauft haben, hoffe ich, dass auch einige Teilnehmer sich zu Hause in der PICAXE-Programmierung versuchen werden.
+
+Hier noch ein paar Informationen für den Start:
+
+  * Die PICAXE-Seiten findet ihr unter [picaxe.com][1]. Dort gibt es auch die kostenlose Software zum Programmieren unter dem Menüpunkte &#8220;Software&#8221;. Diese gibt es für Windows, Macs und Linux.
+  * Die ganzen Basic-Befehle sind im [PICAXE-Handbuch][2]  
+    aufgelistet.
+  * Die Programbeispiele für den Heißen Draht findet ihr auf [Github][3]. Dort könnt ihr sie als Archiv herunterladen.
+  * Die [Präsentation mit Code-Beispielen][4] und weiteren Erklärungen ebenso wie der [Spickzettel][5] gibt es als PDF-Datei ebenfalls online.
+
+ [1]: http://picaxe.com
+ [2]: http://www.picaxe.com/Getting-Started/PICAXE-Manuals/
+ [3]: https://github.com/tinkerthon/Der-heisse-Draht
+ [4]: http://tinkerthon.de/uploads/heisser_draht_2013-01.pdf
+ [5]: http://tinkerthon.de/uploads/heisserdraht_cheatsheet.pdf

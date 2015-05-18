@@ -1,0 +1,112 @@
+; Heisser Draht "in a box"
+; cf: http://www.youtube.com/watch?v=dzjq7W4WSE8
+
+symbol wire = pin3
+symbol ldr = 4
+symbol ledgruen = 0
+symbol ledrot = 1
+
+symbol zaehler = b0
+symbol zeit = b1
+symbol fourth = b2
+symbol aeon = b3
+symbol started = b4
+symbol val = b5
+
+symbol tick = w3
+
+start:
+	started = 0
+	zaehler = 0
+	zeit = 0
+	aeon = 10
+
+	gosub soundup
+
+	setint %00001000, 00001000
+
+	; Warte auf START
+	do
+		low ledrot
+		low ledgruen
+		readadc ldr, val
+	loop until val < 50
+
+	started = 1
+	low ledgruen
+	high ledrot
+	gosub soundup
+
+	do
+		pause 100
+
+		readadc ldr, val
+		if val < 50 then goto finish
+
+		high ledgruen
+		low ledrot
+		tick = tick + 1
+		if tick = aeon then
+			zeit = zeit + 1
+			tick = 0
+			fourth = zeit // 4
+			if fourth = 0 then
+				high ledrot
+				low ledgruen
+				sound 2, (50, 5)
+				high ledgruen
+				low ledrot
+				;sertxd (#zaehler, ", Zeit:", #zeit, lf)
+				aeon = aeon - 1
+
+				if aeon = 0 then
+					goto finish
+				endif
+			else
+				sound 2, (100, 5)
+			endif
+		endif
+	loop
+
+finish:
+	;sertxd (#zaehler, ", Zeit:", #zeit, lf, "Leider verloren", lf)
+	tune 0,2,(89, 87, 85, 83, 82, 80)
+	;play 1,1
+	low ledgruen
+	low ledrot
+	pause 1000
+
+	if zaehler > 10 then
+		zaehler = 10
+	endif
+	for val = 1 to zaehler
+		high ledrot
+		pause 100
+		low ledrot
+		pause 300
+	next
+	goto start
+
+interrupt:
+	setint %00001000, 00001000
+	high ledrot
+	low ledgruen
+	if started = 0 then
+		return
+	endif
+	zaehler = zaehler + 1
+	gosub sounddown
+	pause 200
+	low ledrot
+	do
+		; warte, bis Kontakt getrennt
+	loop until wire = 0
+	return
+
+soundup:
+	tune 0,2,(84,89)
+	return
+
+sounddown:
+	tune 0,2,(89,84)
+	return

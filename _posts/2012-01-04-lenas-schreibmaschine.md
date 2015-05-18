@@ -1,28 +1,50 @@
 ---
-layout: post
-status: publish
-published: true
 title: Lenas Schreibmaschine
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 684
-wordpress_url: http://tinkerthon.de/?p=684
-date: '2012-01-04 19:12:57 +0100'
-date_gmt: '2012-01-04 18:12:57 +0100'
+author: olav
+layout: post
+permalink: /2012/01/lenas-schreibmaschine/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Projektideen
-- PICAXE
-tags: []
-comments: []
+  - PICAXE
+  - Projektideen
 ---
-<p>Lena entwickelte in der letzten Zeit an starkes Interesse daran, Briefe am Computer zu schreiben. Wie sch&ouml;n, dass es bei Conrad gerade PS&#47;2-Tastaturen f&uuml;r unter 3&euro; zu kaufen gibt. Grund genug, eine kleine Schreibmaschine f&uuml;r Lena zu basteln. Die aktuelle Version lebt noch auf einem Breadboard, aber das l&auml;sst sich sicher noch &auml;ndern. Lena findet's gut:</p>
-<p><iframe src="http:&#47;&#47;www.youtube.com&#47;embed&#47;kY14lr_lSS4" frameborder="0" width="560" height="315"><&#47;iframe></p>
-<p>Die Schaltung ist sehr einfach und besteht neben dem Elektronenhirn, einem <a title="PICAXE-14M2 Microcontroller" href="http:&#47;&#47;www.picaxe.com&#47;Hardware&#47;PICAXE-Chips&#47;PICAXE-14M2-microcontroller&#47;">PICAXE-14M2<&#47;a>, aus einem <a title="&micro;OLED-96-G1(SGC) von 4D Systems" href="http:&#47;&#47;www.4dsystems.com.au&#47;prod.php?id=77">kleinen Display<&#47;a> und eben der PS&#47;2-Tastatur.</p>
-<p>Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl des Microcontrollers, dekodiert die Tasten &uuml;be eine Datentabelle im EEPROM und gibt die so ermittelten ASCII-Codes auf dem seriellen Display aus. Zwei spezielle Tasten-Codes werden bisher interpretiert: BACKSPACE zum L&ouml;schen des letzten Zeichens und PAGELOCK zum L&ouml;schen des Bildschirminhaltes.</p>
-<p>[gallery link="file"]</p>
-<p>Hier ist das Programm bisher:&nbsp;<a href="http:&#47;&#47;tinkerthon.de&#47;wp-content&#47;uploads&#47;2012&#47;01&#47;echo_keyb.bas_.txt">echo_keyb.bas<&#47;a></p>
+Lena entwickelte in der letzten Zeit an starkes Interesse daran, Briefe am Computer zu schreiben. Wie schön, dass es bei Conrad gerade PS/2-Tastaturen für unter 3€ zu kaufen gibt. Grund genug, eine kleine Schreibmaschine für Lena zu basteln. Die aktuelle Version lebt noch auf einem Breadboard, aber das lässt sich sicher noch ändern. Lena findet&#8217;s gut:
+
+
+
+Die Schaltung ist sehr einfach und besteht neben dem Elektronenhirn, einem [PICAXE-14M2][1], aus einem [kleinen Display][2] und eben der PS/2-Tastatur.
+
+Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl des Microcontrollers, dekodiert die Tasten übe eine Datentabelle im EEPROM und gibt die so ermittelten ASCII-Codes auf dem seriellen Display aus. Zwei spezielle Tasten-Codes werden bisher interpretiert: BACKSPACE zum Löschen des letzten Zeichens und PAGELOCK zum Löschen des Bildschirminhaltes.
+
+<!-- see gallery_shortcode() in wp-includes/media.php -->
+
+<div id='gallery-15' class='gallery galleryid-684 gallery-columns-3 gallery-size-thumbnail'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-e1325702193243.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-150x150.jpg" class="attachment-thumbnail" alt="kids_typewriter" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-e1325700960283.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-e1325700939981.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" /> <br style='clear: both;' />
+</div>
+
+Hier ist das Programm bisher: [echo_keyb.bas][3]
+
+ [1]: http://www.picaxe.com/Hardware/PICAXE-Chips/PICAXE-14M2-microcontroller/ "PICAXE-14M2 Microcontroller"
+ [2]: http://www.4dsystems.com.au/prod.php?id=77 "µOLED-96-G1(SGC) von 4D Systems"
+ [3]: http://tinkerthon.de/wp-content/uploads/2012/01/echo_keyb.bas_.txt

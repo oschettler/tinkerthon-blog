@@ -1,23 +1,75 @@
 ---
-layout: post
-status: publish
-published: true
 title: Klangkunst in der Bonner Altstadt
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 522
-wordpress_url: http://tinkerthon.de/?p=522
-date: '2011-07-04 09:33:16 +0200'
-date_gmt: '2011-07-04 07:33:16 +0200'
+author: olav
+layout: post
+permalink: /2011/07/klangkunst-der-bonner-altstadt/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Allgemein
-tags: []
-comments: []
+  - Allgemein
 ---
-<p>Am Samstag <a title="Ein Aktionstag rund um das H&ouml;ren" href="http:&#47;&#47;www.bonnhoeren.de&#47;?page_id=1459">pr&auml;sentierte<&#47;a> die Marienschule die Ergebnisse einer Projektwoche, in der Klangobjekte gebastelt wurden. Mit dabei waren <a href="http:&#47;&#47;www.ralfschreiber.com&#47;">Ralf Schreiber<&#47;a> und der <a href="http:&#47;&#47;www.bonnhoeren.de&#47;">Bonner Stadtklangk&uuml;nstler Erwin Stache<&#47;a>.</p>
-<p>[gallery link="file"]</p>
+Am Samstag [präsentierte][1] die Marienschule die Ergebnisse einer Projektwoche, in der Klangobjekte gebastelt wurden. Mit dabei waren [Ralf Schreiber][2] und der [Bonner Stadtklangkünstler Erwin Stache][3].
+
+<!-- see gallery_shortcode() in wp-includes/media.php -->
+
+<div id='gallery-13' class='gallery galleryid-522 gallery-columns-3 gallery-size-thumbnail'>
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0860.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0860-150x150.jpg" class="attachment-thumbnail" alt="IMG_0860" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0861.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0861-150x150.jpg" class="attachment-thumbnail" alt="IMG_0861" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0862.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0862-150x150.jpg" class="attachment-thumbnail" alt="IMG_0862" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0864.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0864-150x150.jpg" class="attachment-thumbnail" alt="IMG_0864" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0865.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0865-150x150.jpg" class="attachment-thumbnail" alt="IMG_0865" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0868.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0868-150x150.jpg" class="attachment-thumbnail" alt="IMG_0868" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0866.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0866-150x150.jpg" class="attachment-thumbnail" alt="IMG_0866" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0867.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0867-150x150.jpg" class="attachment-thumbnail" alt="IMG_0867" /></a>
+    </dt>
+  </dl>
+  
+  <br style='clear: both;' />
+</div>
+
+ [1]: http://www.bonnhoeren.de/?page_id=1459 "Ein Aktionstag rund um das Hören"
+ [2]: http://www.ralfschreiber.com/
+ [3]: http://www.bonnhoeren.de/

@@ -1,35 +1,40 @@
 ---
+title: Velleman-Bausätze bei Conrad
+author: olav
 layout: post
-status: publish
-published: true
-title: Velleman-Baus&auml;tze bei Conrad
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 363
-wordpress_url: http://tinkerthon.de/?p=363
-date: '2011-01-22 09:57:51 +0100'
-date_gmt: '2011-01-22 08:57:51 +0100'
+permalink: /2011/01/velleman-bausatze-bei-conrad/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Allgemein
+  - Allgemein
 tags:
-- Bezugsquelle
-- Baus&auml;tze
-comments: []
+  - Bausätze
+  - Bezugsquelle
 ---
-<p>Conrad hat einige Produkte der <a href="http:&#47;&#47;www.vellemanprojects.eu&#47;distributor&#47;contact&#47;">belgischen Firma Velleman<&#47;a> neu in <a title="Liste der Velleman-Produkte bei Conrad" href="http:&#47;&#47;www.conrad.de&#47;ce&#47;de&#47;FastSearch.html?search=velleman">sein Sortiment<&#47;a> aufgenommen und verkauft sie ab Februar 2011. Ein preiswertes Beispiel ist der <a href="http:&#47;&#47;www.conrad.de&#47;ce&#47;de&#47;product&#47;071147&#47;KIT-MICROBUG-COUREUR&#47;2420180">laufende Miniroboter<&#47;a>. Die Anleitung hierf&uuml;r gibt es allerdings z.Zt. nur in Niederl&auml;ndisch. Die programmierbaren Baus&auml;tze wie z.B. der <a href="http:&#47;&#47;www.conrad.de&#47;ce&#47;de&#47;product&#47;191003&#47;USB-EXPERIMENT-INTERFACE-BOARD-BAUSATZ">Bausatz f&uuml;r ein USB-Interface<&#47;a> scheinen nur auf die Programmierbarkeit unter Windows ausgelegt. Von der Themenstellung hat Velleman einige Baus&auml;tze im Angebot, die sehr an popul&auml;re Arduino- , Make-, oder Solarbotics-Projekte erinnern:</p>
-<ul>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=383920">Solarinsekt<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=346299">Laufender Microbug<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=346576">Kriechender Microbug<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=354186">Elektronisches Spiel<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=348565">Magische Nachricht<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=351314">Kriechender Microbug mit Geh&auml;use<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=361258">Elektronisches Teelicht<&#47;a><&#47;li>
-<li><a href="https:&#47;&#47;www.velleman.eu&#47;distributor&#47;products&#47;view&#47;?id=366626">LED-Chaser<&#47;a><&#47;li><br />
-<&#47;ul><br />
-Das ist eine interessante neue Quelle f&uuml;r moderne Baus&auml;tze in Europa.</p>
+Conrad hat einige Produkte der [belgischen Firma Velleman][1] neu in [sein Sortiment][2] aufgenommen und verkauft sie ab Februar 2011. Ein preiswertes Beispiel ist der [laufende Miniroboter][3]. Die Anleitung hierfür gibt es allerdings z.Zt. nur in Niederländisch. Die programmierbaren Bausätze wie z.B. der [Bausatz für ein USB-Interface][4] scheinen nur auf die Programmierbarkeit unter Windows ausgelegt. Von der Themenstellung hat Velleman einige Bausätze im Angebot, die sehr an populäre Arduino- , Make-, oder Solarbotics-Projekte erinnern:
+
+  * [Solarinsekt][5]
+  * [Laufender Microbug][6]
+  * [Kriechender Microbug][7]
+  * [Elektronisches Spiel][8]
+  * [Magische Nachricht][9]
+  * [Kriechender Microbug mit Gehäuse][10]
+  * [Elektronisches Teelicht][11]
+  * [LED-Chaser][12]
+
+Das ist eine interessante neue Quelle für moderne Bausätze in Europa.
+
+ [1]: http://www.vellemanprojects.eu/distributor/contact/
+ [2]: http://www.conrad.de/ce/de/FastSearch.html?search=velleman "Liste der Velleman-Produkte bei Conrad"
+ [3]: http://www.conrad.de/ce/de/product/071147/KIT-MICROBUG-COUREUR/2420180
+ [4]: http://www.conrad.de/ce/de/product/191003/USB-EXPERIMENT-INTERFACE-BOARD-BAUSATZ
+ [5]: https://www.velleman.eu/distributor/products/view/?id=383920
+ [6]: https://www.velleman.eu/distributor/products/view/?id=346299
+ [7]: https://www.velleman.eu/distributor/products/view/?id=346576
+ [8]: https://www.velleman.eu/distributor/products/view/?id=354186
+ [9]: https://www.velleman.eu/distributor/products/view/?id=348565
+ [10]: https://www.velleman.eu/distributor/products/view/?id=351314
+ [11]: https://www.velleman.eu/distributor/products/view/?id=361258
+ [12]: https://www.velleman.eu/distributor/products/view/?id=366626

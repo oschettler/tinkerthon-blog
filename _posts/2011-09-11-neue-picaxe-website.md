@@ -1,22 +1,19 @@
 ---
-layout: post
-status: publish
-published: true
 title: Neue PICAXE-Website
-author:
-  display_name: olav
-  login: olav
-  email: olav@schettler.net
-  url: ''
-author_login: olav
-author_email: olav@schettler.net
-wordpress_id: 572
-wordpress_url: http://tinkerthon.de/?p=572
-date: '2011-09-11 23:32:54 +0200'
-date_gmt: '2011-09-11 21:32:54 +0200'
+author: olav
+layout: post
+permalink: /2011/09/neue-picaxe-website/
+aktt_notify_twitter:
+  - yes
+aktt_tweeted:
+  - 1
 categories:
-- Allgemein
-tags: []
-comments: []
+  - Allgemein
 ---
-<p>Revolution Education, die Entwickler der PICAXE-Microcontroller haben&nbsp;<a href="http:&#47;&#47;picaxe.com">ihre Website<&#47;a> in das 21. Jahrhundert katapultiert. Die Seite wurde von <a href="http:&#47;&#47;www.storm-consultancy.com&#47;">Storm aus Bath<&#47;a> gebaut. Die Seite hat sich wirklich gemausert und lohnt einen Blick, auch wenn sie nach wie vor nur in Englisch gehalten ist. Viele Informationen, die bisher nur in umfangreichen PDF-Dateien versteckt waren, sind jetzt direkt als Seiten verf&uuml;gbar. So findet man schnell die <a href="http:&#47;&#47;www.picaxe.com&#47;What-is-PICAXE&#47;PICAXE-Pinouts&#47;">Anschlusspl&auml;ne seiner Lieblingschips<&#47;a>, es gibt ein <a href="http:&#47;&#47;www.picaxe.com&#47;BASIC-Commands">Verzeichnis aller BASIC-Befehle<&#47;a>, ein neues, <a href="http:&#47;&#47;www.picaxe.com&#47;Hardware&#47;Teaching-Systems&#47;Create-Starter-Pack&#47;">modulares Hardware-Konzept<&#47;a> l&auml;dt zum Experimentieren ohne L&ouml;ten ein. Ein gelungener Relaunch!</p>
+Revolution Education, die Entwickler der PICAXE-Microcontroller haben [ihre Website][1] in das 21. Jahrhundert katapultiert. Die Seite wurde von [Storm aus Bath][2] gebaut. Die Seite hat sich wirklich gemausert und lohnt einen Blick, auch wenn sie nach wie vor nur in Englisch gehalten ist. Viele Informationen, die bisher nur in umfangreichen PDF-Dateien versteckt waren, sind jetzt direkt als Seiten verfügbar. So findet man schnell die [Anschlusspläne seiner Lieblingschips][3], es gibt ein [Verzeichnis aller BASIC-Befehle][4], ein neues, [modulares Hardware-Konzept][5] lädt zum Experimentieren ohne Löten ein. Ein gelungener Relaunch!
+
+ [1]: http://picaxe.com
+ [2]: http://www.storm-consultancy.com/
+ [3]: http://www.picaxe.com/What-is-PICAXE/PICAXE-Pinouts/
+ [4]: http://www.picaxe.com/BASIC-Commands
+ [5]: http://www.picaxe.com/Hardware/Teaching-Systems/Create-Starter-Pack/
