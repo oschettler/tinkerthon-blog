@@ -1,6 +1,8 @@
 ---
 title: 'Workshop &#8220;Rentiere&#8221; zuende'
 author: olav
+published: 23.10.2010
+thumbnail: /wp-content/uploads/2010/10/IMG_0031-212x212.jpg
 layout: post
 permalink: /2010/10/workshop-rentiere-zuende/
 aktt_notify_twitter:
@@ -17,7 +19,7 @@ Sieben Teilnehmer, Kinder von 9 &#8211; 13 und ein Erwachsener haben erfolgreich
 
 Der [Bausatz][1] stammt übrigens aus Bath in England, wo die Hersteller der PICAXE-Microcontroller arbeiten. Wer noch einmal alle Details nachlesen will: Die deutsche Firma roboter-teile.de hat das Anleitungsheft für eine ganz ähnliche Platine übersetzt und [ins Netz gestellt][2].
 
-Das Tolle an diesen Rentieren ist, dass ihr Verhalten am Notebook in der einfachen Sprache BASIC mit kostenloser Programmierumgebung verändert werden kann. Und so hat jeder der Teilnehmer neben dreieinhalb Stunden Bastelspaß mit den Platinen vielleicht auch den Einstieg in die spannende Welt des Physical Computing mit nach Hause genommen und Lust bekommen, noch tiefer in dieses Gebiet einzutauchen. 
+Das Tolle an diesen Rentieren ist, dass ihr Verhalten am Notebook in der einfachen Sprache BASIC mit kostenloser Programmierumgebung verändert werden kann. Und so hat jeder der Teilnehmer neben dreieinhalb Stunden Bastelspaß mit den Platinen vielleicht auch den Einstieg in die spannende Welt des Physical Computing mit nach Hause genommen und Lust bekommen, noch tiefer in dieses Gebiet einzutauchen.
 
 Dabei sind sie in guter Gesellschaft. Immer mehr Künstler und Medienaktivisten entdecken die neue Welle der supereinfach zu handhabenden Microcontroller wie Arduino oder die von uns eingesetzte PICAXE-Familie für ihre Kreationen. Ganz nebenbei haben die jungen Teilnehmer vielleicht noch ein paar Eindrücke davon mit genommen, wie unterhaltsam und kreativ MINT-Themen (MINT ist neumodisch für Mathe/Informatik/Naturwissenschaften/Technik) sein können.
 
@@ -43,27 +45,27 @@ Und hier noch ein paar Fotos von unserem Workshop heute:
       <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0030-2/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_00301-150x150.jpg" class="attachment-thumbnail" alt="IMG_0030" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0031/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0031-150x150.jpg" class="attachment-thumbnail" alt="IMG_0031" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0032/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0032-150x150.jpg" class="attachment-thumbnail" alt="IMG_0032" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0033/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0033-150x150.jpg" class="attachment-thumbnail" alt="IMG_0033" /></a>
     </dt>
   </dl>
-  
+
   <br style='clear: both;' />
 </div>
 

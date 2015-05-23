@@ -1,6 +1,10 @@
 ---
 title: Blinkstick Pro mit Scratch steuern
 author: olav
+published: 20.09.2014
+thumbnail: /wp-content/uploads/2014/09/Scratch_2_Offline_Editor-212x212.png
+excerpt: >
+    Im letzen Beitrag habe ich den Blinkstick Pro als einfaches Lötprojekt für Kinder beschrieben. Der Blinkstick kommt schon von Hause aus mit einer reichen Unterstützung für die unterschiedlichsten Programmiersprachen. Auch eine Steuerung aus dem Web ist möglich.
 layout: post
 permalink: /2014/09/blinkstick-pro-mit-scratch-steuern/
 categories:

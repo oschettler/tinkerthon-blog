@@ -1,6 +1,8 @@
 ---
 title: Physical Computing im Deutschen Museum in Bonn
 author: olav
+published: 17.06.2011
+thumbnail: /wp-content/uploads/2011/06/Bildschirmfoto-2011-07-05-um-14.49.57-212x212.png
 layout: post
 permalink: /2011/06/physical-computing-im-deutschen-museum-bonn/
 aktt_notify_twitter:

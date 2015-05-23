@@ -1,6 +1,10 @@
 ---
 title: Raspberry Pi lehrt Web-Programmierung
 author: olav
+published: 12.09.2013
+thumbnail: /wp-content/uploads/2013/09/Vollbild_12.09.13_23_21-212x212.png
+excerpt: >
+    Ein paar Google-Mitarbeiter haben mit Coder ein ziemlich geniales Stück Software herausgebracht, das ich gerade einmal auf einem Raspberry PI installiert habe. Der kostenlose Download enthält einen Installer, mit dem man auf einfachste Weise eine SD-Karte für einen Raspberry Pi Minicomputer schreiben kann.
 layout: post
 permalink: /2013/09/raspberry-pi-lehrt-web-programmierung/
 categories:

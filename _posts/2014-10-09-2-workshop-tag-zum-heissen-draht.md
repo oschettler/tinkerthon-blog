@@ -1,6 +1,8 @@
 ---
 title: 2. Workshop-Tag zum Heißen Draht
 author: olav
+published: 09.10.2014
+thumbnail: /wp-content/uploads/2014/10/IMG_0848-212x212.jpg
 layout: post
 permalink: /2014/10/2-workshop-tag-zum-heissen-draht/
 categories:

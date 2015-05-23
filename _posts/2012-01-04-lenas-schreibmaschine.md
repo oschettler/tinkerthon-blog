@@ -1,6 +1,8 @@
 ---
 title: Lenas Schreibmaschine
 author: olav
+published: 04.01.2012
+thumbnail: /wp-content/uploads/2012/01/BILD0486-212x212.jpg
 layout: post
 permalink: /2012/01/lenas-schreibmaschine/
 aktt_notify_twitter:
@@ -27,19 +29,19 @@ Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl d
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-e1325702193243.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-150x150.jpg" class="attachment-thumbnail" alt="kids_typewriter" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-e1325700960283.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-e1325700939981.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" /> <br style='clear: both;' />
 </div>
 

@@ -1,6 +1,8 @@
 ---
 title: 'Einsteiger-Workshop &#8220;Physical-Computing&#8221; am 23.10. in Bonn'
 author: olav
+published: 18.10.2010
+thumbnail: /wp-content/uploads/2010/10/IMG_0030-212x212.jpg
 layout: post
 permalink: /2010/10/einsteiger-workshop-physical-computing-am-samstag-23-10-in-bonn/
 aktt_notify_twitter:
@@ -36,27 +38,27 @@ AKTUELL: Die Bausätze sind rechtzeitig aus England eingetroffen. Wir werden Rud
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0030-e1287694398350.jpg' rel="lightbox[271]" title="Einsteiger-Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0030-150x150.jpg" class="attachment-thumbnail" alt="Die fertig gelötete Platine des Rentiers. Unten links der PICAXE-08M" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0028-e1287694424753.jpg' rel="lightbox[271]" title="Einsteiger-Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0028-150x150.jpg" class="attachment-thumbnail" alt="Bauteile für das Rentier" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/102426.jpg' rel="lightbox[271]" title="Einsteiger-Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/102426-150x150.jpg" class="attachment-thumbnail" alt="Rentier-Platine" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0661-e1287478069235.jpg' rel="lightbox[271]" title="Einsteiger-Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0661-150x150.jpg" class="attachment-thumbnail" alt="Werbung für kleines Budget" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" /> <br style='clear: both;' />
 </div>
 

@@ -1,6 +1,8 @@
 ---
 title: Velleman-Bausätze bei Conrad
 author: olav
+published: 22.01.2011
+thumbnail: /wp-content/uploads/2011/01/mk185_hand-212x212.jpg
 layout: post
 permalink: /2011/01/velleman-bausatze-bei-conrad/
 aktt_notify_twitter:

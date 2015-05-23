@@ -1,6 +1,10 @@
 ---
 title: Raspberry Pi in Museum und Schule
 author: olav
+published: 02.03.2012
+thumbnail: /wp-content/uploads/2012/03/modelb_blue_label-212x212.png
+excerpt: >
+    Seit Mitte der Woche ist der Rasberry Pi verfügbar, ein scheckkartengrosser, vollwertiger Computer für um die 35€. Der Rasberry Pi wurde über 6-jährige von der Rasberry Pi Foundation in England entwickelt, um insbesondere Kindern eine kostengünstige Umgebung zum Programmieren lernen zu bieten.
 layout: post
 permalink: /2012/03/raspberry-pi-museum-und-schule/
 aktt_notify_twitter:
@@ -12,7 +16,7 @@ categories:
   - Projektideen
   - Rasberry Pi
 ---
-Seit Mitte der Woche ist der Rasberry Pi verfügbar, ein scheckkartengrosser, vollwertiger Computer für um die 35€. Der Rasberry Pi wurde in 6-jähriger Entwicklung von der [Rasberry Pi Foundation][1] in England entwickelt, um insbesondere Kindern eine kostengünstige Umgebung zum Programmieren lernen zu bieten. Die Nachfrage war am Tag des Verkaufsstarts so gigantisch, dass die Seite der Stiftung auf eine statische Seite umgestellt werden musste. Auch die Seiten der beiden Distributoren [Premier Farnell][2] and [RS Components][3] waren stundenlang nicht erreichbar.
+Seit Mitte der Woche ist der Rasberry Pi verfügbar, ein scheckkartengrosser, vollwertiger Computer für um die 35€. Der Rasberry Pi wurde über 6-jährige von der [Rasberry Pi Foundation][1] in England entwickelt, um insbesondere Kindern eine kostengünstige Umgebung zum Programmieren lernen zu bieten. Die Nachfrage war am Tag des Verkaufsstarts so gigantisch, dass die Seite der Stiftung auf eine statische Seite umgestellt werden musste. Auch die Seiten der beiden Distributoren [Premier Farnell][2] and [RS Components][3] waren stundenlang nicht erreichbar.
 
 Bei diesem Momentum wird der Rasberry Pi sicher seinen Weg zu den Kindern finden. Projekte wie der [Computer-Club come_IN][4] in der [Marienschule][5] in der Bonner Altstadt und am [Tannenbusch-Gymnasium][6] können den Kindern Rassberry Pis mit nach Hause geben, so dass sie auch ausserhalb der knappen Zeit einmal die Woche im Club zuhause weiter an ihren Projekten arbeiten können.
 

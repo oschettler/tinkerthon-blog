@@ -2,6 +2,7 @@
 title: Am WE (18./19.9) offene Werkstatt
 author: olav
 published: 17.09.2010
+thumbnail: /wp-content/uploads/2010/09/IMG_0007-212x212.jpg
 layout: post
 permalink: /2010/09/am-wochenende-18-19-offene-werkstatt/
 thumbnail: /wp-content/uploads/2010/09/IMG_0007-212x212.jpg

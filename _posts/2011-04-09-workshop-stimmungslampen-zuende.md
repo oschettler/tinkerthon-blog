@@ -1,6 +1,8 @@
 ---
 title: 'Workshop &#8220;Stimmungslampen&#8221; zu Ende'
 author: olav
+published: 09.04.2011
+thumbnail: /wp-content/uploads/2011/04/IMG_01171-212x212.jpg
 layout: post
 permalink: /2011/04/workshop-stimmungslampen-zuende/
 aktt_notify_twitter:

@@ -2,6 +2,7 @@
 title: Quellcode für Lilypad-Sonne
 author: olav
 published: 12.07.2010
+thumbnail: /wp-content/uploads/2010/07/Bildschirmfoto-2010-10-06-um-21.31.47-212x212.png
 layout: post
 permalink: /2010/07/quellcode-fur-lilypad-sonne/
 thumbnail: /wp-content/uploads/2010/07/Bildschirmfoto-2010-10-06-um-21.31.47-212x212.png

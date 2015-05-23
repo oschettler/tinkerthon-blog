@@ -4,6 +4,8 @@ author: olav
 published: 01.03.2010
 layout: post
 permalink: /2010/03/feuerwesen-gewinnen-preis-bei-expli/
+excerpt: >
+    Das ist ja nett. Meine Anleitung für die Rücklicht-Feuerwesen sind unter den ersten Sechs bei Expli.
 aktt_notify_twitter:
   - no
 categories:

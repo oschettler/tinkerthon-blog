@@ -1,6 +1,10 @@
 ---
 title: Internet-Radio mit RaspberryPi, 2-zeiligem RGB-LCD und 5 Tasten
 author: olav
+published: 02.04.2013
+thumbnail: /wp-content/uploads/2013/04/IMG_0021-212x212.jpg
+excerpt: >
+    Internet-Radio. So 2000er! Heute trägt doch jeder ständig mindestens ein Smartphone und ein iPod, vielleicht auch noch ein Tablet und ein Kindle mit sich herum. Eben! Der Nachwuchs bettelt ständig um verlängerte Medienzeit (&#8220;nur zum Radio hören&#8221;) und nutzt dann das Gadget doch nur zum Daddeln.
 layout: post
 permalink: /2013/04/internet-radio-mit-raspberrypi-2-zeiligem-rgb-lcd-und-5-tasten/
 ks_metadata:
@@ -14,25 +18,25 @@ tags:
   - RaspberryPi
 ---
 > **UPDATE 03/2015: **Adafruit empfiehlt inzwischen, statt ihrer Occidentalis-Distribution direkt das [Raspbian-Linux][1] zu benutzen.  Von Adafruit gibt es dann einen [Raspberry Pi Finder][2], der die fehlenden Komponenten zur Hardwaresteuerung nachrüstet.
-> 
+>
 > Ich habe damit auf meinem Mac eine passende SD-Karte mit den folgenden Befehlen vorbereitet:
-> 
+>
 > <pre>diskutil unmountDisk /dev/disk3 sudo dd bs=1m if=$HOME/Downloads/2015-02-16-raspbian-wheezy.img of=/dev/disk3</pre>
-> 
+>
 > Dieser Befehl läuft sehr lange. Mit CTRL-T im Terminalfenster kann man sich zwischendurch den Status anzeigen lassen.
-> 
+>
 > <div>
 >   Ein Aufruf von
 > </div>
-> 
+>
 > <pre>curl -SLs https://apt.adafruit.com/bootstrap | bash</pre>
-> 
+>
 > &#8230; findet dann einen über Ethernet-Kabel angebundenen RaspberryPi und konfiguriert ihn.
-> 
+>
 > Hier ist noch ein kurzes Video vom Startvorgang des Radios:
-> 
+>
 > <span class="embed-youtube" style="text-align: center; display: block;"></span>
-> 
+>
 > **UPDATE 2.** Der Niederländer Bob Rathbone hat auf seiner <a href="http://www.bobrathbone.com/ada_pi_radio.htm" target="_blank">Website</a> eine umfangreiche (120 S.) Anleitung als PDF-Datei mit passender Python-Software verlinkt.
 
 Internet-Radio. So 2000er! Heute trägt doch jeder ständig mindestens ein Smartphone und ein iPod, vielleicht auch noch ein Tablet und ein Kindle mit sich herum. Eben! Der Nachwuchs bettelt ständig um verlängerte Medienzeit (&#8220;nur zum Radio hören&#8221;) und nutzt dann das Gadget doch nur zum Daddeln.
@@ -65,13 +69,13 @@ Jetzt benötigen wir die LCD-Anzeige mit den Tastern. Auf den [Adafruit-Seiten][
 
 Für die ersten Schritte in der Python-Entwicklung ist die [WebIDE von Adafruit][11] eine tolle Wahl. Zur Installation des Internet-Radios gehen wir aber hier einen anderen Weg:
 
-  * Music Player Daemon, des Kommandozeilenprogramms hierfür und Versionsverwaltung Git: 
+  * Music Player Daemon, des Kommandozeilenprogramms hierfür und Versionsverwaltung Git:
     <pre>sudo apt-get install mpd mpc git</pre>
 
-  * Setzen des Audio-Ausganges auf die Klinken-Buchse: 
+  * Setzen des Audio-Ausganges auf die Klinken-Buchse:
     <pre>sudo amixer cset numid=3 1</pre>
 
-  * Starten des Radio-Dämons: 
+  * Starten des Radio-Dämons:
     <pre>sudo service mpd start</pre>
 
   * Über eine Android- oder iOS-App liesse sich die Musik nun bereits steuern.
@@ -100,14 +104,14 @@ drwxr-xr-x 4 mpd audio 4096 Mar 17 22:28 ..
 <pre style="padding-left: 30px;">wget https://bootstrap.pypa.io/ez_setup.py -O - | sudo python
 sudo easy_install unidecode</pre>
 
-  * Installation des Radio-Programmes: 
+  * Installation des Radio-Programmes:
     <pre>cd ~; git clone https://github.com/oschettler/radio.git</pre>
 
-  * Installation des Start-Scriptes: 
+  * Installation des Start-Scriptes:
     <pre>cd radio; sudo cp initradio.sh /etc/init.d/radio; sudo update-rc.d radio defaults</pre>
-    
+
     Damit lässt sich das Radio-Programm starten:
-    
+
     <pre>sudo service radio start</pre>
 
 Die Radio-Applikation ist noch sehr rudimentär. Die Menüeinträge lassen sich per Pfeiltasten auswählen (hoch, runter, Menüpunkt auswählen = rechts, zurück = links). Unter &#8220;Playlists&#8221; werden die Radiosender angezeigt. In einem Sender kann die Lautstärke per hoch/runter eingestellt werden. Es gibt noch keine &#8220;aus&#8221;-Taste! Ich freue mich über Pull-Requests 😉

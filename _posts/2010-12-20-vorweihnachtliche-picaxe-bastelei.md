@@ -1,6 +1,8 @@
 ---
 title: Vorweihnachtliche PICAXE-Bastelei
 author: olav
+published: 20.12.2010
+thumbnail: /wp-content/uploads/2010/12/Front-side-of-candle-212x212.jpg
 layout: post
 permalink: /2010/12/vorweihnachtliche-picaxe-bastelei/
 aktt_notify_twitter:

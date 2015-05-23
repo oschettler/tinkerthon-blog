@@ -4,6 +4,8 @@ author: olav
 published: 05.03.2010
 layout: post
 permalink: /2010/03/nachstes-tinkerthon-13-14-marz-2010-fruhlings-erwachen/
+excerpt: >
+    Der nächste Workshop findet wieder im Rahmen der offenen Werkstatt im Haus Müllestumpe in Bonn statt. Thema ist dieses Mal: Frühlings Erwachen.
 aktt_notify_twitter:
   - no
 categories:

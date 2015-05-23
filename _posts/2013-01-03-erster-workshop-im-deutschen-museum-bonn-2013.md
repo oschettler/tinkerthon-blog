@@ -1,6 +1,10 @@
 ---
 title: Erster Workshop im Deutschen Museum in Bonn in 2013
 author: olav
+published: 03.01.2013
+thumbnail: /wp-content/uploads/2013/01/03.01.13_19_49-Vollbild-3-212x212.png
+excerpt: >
+    &#8230; ist im vollem Gange. Der Workshop war nach der Ankündigung auf den Webseiten des Museums schnell ausgebucht. Nachdem die Entdeckungen im Haus Müllestumpe im letzten Mai leider ausgefallen sind, gibt es jetzt die erste Gelegenheit, meine Web-basierende Programmieroberfläche für PICAXEs praktisch zu erproben. Ich hatte ja im Mai kurz darüber geschrieben.
 layout: post
 permalink: /2013/01/erster-workshop-im-deutschen-museum-bonn-2013/
 categories:
@@ -14,7 +18,7 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 
 <div id="attachment_780" style="width: 310px" class="wp-caption alignnone">
   <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_12-vollbild-3/" rel="attachment wp-att-780"><img class="size-medium wp-image-780" alt="Startseite von PAW" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_12-Vollbild-3-300x270.png" width="300" height="270" /></a>
-  
+
   <p class="wp-caption-text">
     schön responsiv
   </p>
@@ -22,7 +26,7 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 
 <div id="attachment_781" style="width: 310px" class="wp-caption alignnone">
   <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_48-bildschirmkopie/" rel="attachment wp-att-781"><img class="size-medium wp-image-781" alt="Projektliste" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_48-Bildschirmkopie-300x198.png" width="300" height="198" /></a>
-  
+
   <p class="wp-caption-text">
     Projektliste
   </p>
@@ -30,7 +34,7 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 
 <div id="attachment_782" style="width: 310px" class="wp-caption alignnone">
   <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_49-vollbild-3/" rel="attachment wp-att-782"><img class="size-medium wp-image-782" alt="Detailansicht mit Code-Editor" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_49-Vollbild-3-300x226.png" width="300" height="226" /></a>
-  
+
   <p class="wp-caption-text">
     Detailansicht mit Code-Editor
   </p>

@@ -1,12 +1,16 @@
 ---
 title: Besuch auf der Mini Makerfaire in Kerkrade
 author: olav
+published: 08.09.2013
+thumbnail: /wp-content/uploads/2013/09/IMG_1307-212x212.jpg
+excerpt: >
+    Heute und morgen (07./08.09.2013) ist in Kerkrade an der Niederländischen Grenze eine Mini Makerfaire. Ich war mit Lena da. Sie konnte an zwei Projekten aktiv basteln:
 layout: post
 permalink: /2013/09/besuch-auf-der-mini-makerfaire-kerkrade/
 categories:
   - Allgemein
 ---
-Heute und morgen (07./08.09.2013) ist in Kerkrade an der Niederländischen Grenze eine [Mini Makerfaire][1]. Ich war mit Lena da. Sie konnte an zwei Projekten aktiv basteln:
+Heute und morgen (07./08.09.2013) ist in Kerkrade an der Niederländischen Grenze eine [Mini Makerfaire][1]. Ich war mit Lena da. Sie konnte an zwei Projekten aktiv basteln.
 
   * Zusammenbau eines Drawdio-Bausatzes von [Watterott][2], erfunden von [Jay Silver][3]; von ihm ist auch das MakeyMakey. Der Typ ist [genial][4]! Ein weiteres seiner Werke, vorgestellt in dem TED-Talk, ist [Singing Fingers][5] für das iPad.
   * Biegen eines [Fingerringes][6] nach einer Anleitung von [Emily van Leemput][7].  Emily hat einen ganzen Zoo weiterer Anleitungen auf ihrer Instructables-Seite.
@@ -50,67 +54,67 @@ Hier noch ein paar Fotos:
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1305-e1378598788286.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1305-e1378598762678-150x150.jpg" class="attachment-thumbnail" alt="IMG_1305" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1307-e1378599235718.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1307-e1378599219161-150x150.jpg" class="attachment-thumbnail" alt="IMG_1307" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1308-e1378599157431.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1308-e1378599141342-150x150.jpg" class="attachment-thumbnail" alt="IMG_1308" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1309-e1378599115243.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1309-e1378599100820-150x150.jpg" class="attachment-thumbnail" alt="IMG_1309" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1314-e1378599075970.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1314-e1378599059927-150x150.jpg" class="attachment-thumbnail" alt="IMG_1314" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1315-e1378599033972.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1315-e1378599018599-150x150.jpg" class="attachment-thumbnail" alt="IMG_1315" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1316-e1378598992724.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1316-e1378598975133-150x150.jpg" class="attachment-thumbnail" alt="IMG_1316" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1320-e1378598941725.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1320-e1378598924346-150x150.jpg" class="attachment-thumbnail" alt="IMG_1320" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1321-e1378598887717.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1321-e1378598871880-150x150.jpg" class="attachment-thumbnail" alt="IMG_1321" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1322-e1378598846409.jpg' rel="lightbox[829]" title="Besuch auf der Mini Makerfaire in Kerkrade"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2013/09/IMG_1322-e1378598830809-150x150.jpg" class="attachment-thumbnail" alt="IMG_1322" /></a>
     </dt>
   </dl>
-  
+
   <br style='clear: both;' />
 </div>
 

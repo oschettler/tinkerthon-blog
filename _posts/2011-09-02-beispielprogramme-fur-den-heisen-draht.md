@@ -1,6 +1,8 @@
 ---
 title: Beispielprogramme für den Heißen Draht
 author: olav
+published: 02.09.2011
+thumbnail: /wp-content/uploads/2011/09/IMG_0128-212x212.jpg
 layout: post
 permalink: /2011/09/beispielprogramme-fur-den-heisen-draht/
 aktt_notify_twitter:

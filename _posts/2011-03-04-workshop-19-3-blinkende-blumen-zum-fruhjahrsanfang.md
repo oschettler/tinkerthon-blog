@@ -1,6 +1,8 @@
 ---
 title: 'Workshop am 19.3.: Blinkende Blumen zum Frühjahrsanfang'
 author: olav
+published: 04.03.2011
+thumbnail:
 layout: post
 permalink: /2011/03/workshop-19-3-blinkende-blumen-zum-fruhjahrsanfang/
 aktt_notify_twitter:

@@ -3,6 +3,8 @@ title: Erster Tag vorbei
 author: olav
 published: 21.02.2010
 layout: post
+excerpt: >
+    Nachdem wir erforscht hatten, was man mit einem Drawdio so alles anfangen kann, ging es schnell ans Basteln. Am Ende hatten wir drei neue Feuerwesen mit leuchtenden LED-Augen.
 permalink: /2010/02/erster-tag-vorbei/
 aktt_notify_twitter:
   - no

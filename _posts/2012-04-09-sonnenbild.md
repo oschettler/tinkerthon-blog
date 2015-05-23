@@ -1,6 +1,10 @@
 ---
 title: Sonnenbild
 author: olav
+published: 09.04.2012
+thumbnail: /wp-content/uploads/2012/04/IMG_0130-212x212.jpg
+excerpt: >
+    Ein kleines Feiertagsprojekt mit Paul: Ein Sonnenbild mit sechs gelben LEDs hinter einem transparenten Stück Kunststoff aus einer IKEA-Schranktür.
 layout: post
 permalink: /2012/04/sonnenbild/
 aktt_notify_twitter:
@@ -11,8 +15,6 @@ categories:
   - Allgemein
 ---
 Ein kleines Feiertagsprojekt mit Paul: Ein Sonnenbild mit sechs gelben LEDs hinter einem transparenten Stück Kunststoff aus einer IKEA-Schranktür:
-
-
 
 Die Schaltung besteht aus sechs LEDs, die in Charlieplex-Manier an drei Anschlüssen eines PICAXE08M2 angeschossen sind. Die Schaltung hat Paul auf einem [PICAXE08-Protoboard][1] gelötet.
 

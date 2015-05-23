@@ -1,6 +1,8 @@
 ---
 title: littleBits kaufbar
 author: olav
+published: 15.10.2011
+thumbnail: /wp-content/uploads/2011/10/preOrderOpen1-e1305156172369-600x349-212x212.png
 layout: post
 permalink: /2011/10/littlebits-kaufbar/
 aktt_notify_twitter:

@@ -1,6 +1,10 @@
 ---
 title: LilyTiny an Lenas Strickjacke
 author: olav
+published: 26.11.2012
+thumbnail: /wp-content/uploads/2012/11/IMG_0003-e1432332193588-212x212.jpg
+excerpt: >
+    Dies ist ein richtiges Microcontroller-Projekt; immerhin werkelt in Lenas Strickjacke jetzt ein ATtiny85. Der sorgt dafür, dass die vier lila (!) Leuchtdioden angenehm weich funkeln. Die Controllerplatine, ebenso wie der Knopfzellenhalter und die LEDs, sind bei Watterott gekauft. Ursprünglich stammen sie von Sparkfun.
 layout: post
 permalink: /2012/11/lilytiny-lenas-strickjacke/
 aktt_notify_twitter:
@@ -26,13 +30,13 @@ Der Aufbau der Schaltung ist einfach. Wie immer beim Nähen von Schaltungen muß
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0001-e1353917924373.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0001-e1353917924373-150x150.jpg" class="attachment-thumbnail" alt="Vorderansicht der vier Leuchtdioden" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0003-e1353917952709.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0003-e1353917940519-150x150.jpg" class="attachment-thumbnail" alt="Innenansicht der Schaltung mit leitfähigem Faden" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" /> <br style='clear: both;' />
 </div>
 

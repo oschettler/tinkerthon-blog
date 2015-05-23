@@ -2,6 +2,7 @@
 title: Relaunch der Website
 author: olav
 published: 07.10.2010
+thumbnail: /wp-content/uploads/2010/10/p_1600_1200_7B172293-4094-4F4D-81A9-34E8ECC2DF89-212x212.jpg
 layout: post
 permalink: /2010/10/relaunch-der-website/
 aktt_notify_twitter:

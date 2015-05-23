@@ -1,6 +1,8 @@
 ---
 title: Workshops am 23.8 und 2.9 im DMB
 author: olav
+published: 21.08.2011
+thumbnail: /wp-content/uploads/2011/08/IMG_0131-212x212.jpg
 layout: post
 permalink: /2011/08/workshops-23-8-und-2-9-im-dmb/
 aktt_notify_twitter:

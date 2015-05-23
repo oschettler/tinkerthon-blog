@@ -1,6 +1,8 @@
 ---
 title: 'Workshop &#8220;Heisser Draht&#8221; zuende'
 author: olav
+published: 19.02.2011
+thumbnail: /wp-content/uploads/2011/03/IMG_0058-212x212.jpg
 layout: post
 permalink: /2011/02/workshop-heisser-draht-zuende/
 aktt_notify_twitter:
@@ -42,21 +44,21 @@ Olav
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0696-e1298146993869.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0696-150x150.jpg" class="attachment-thumbnail" alt="IMG_0696" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0697-e1298146973612.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0697-150x150.jpg" class="attachment-thumbnail" alt="IMG_0697" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0698-e1298146939624.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0698-150x150.jpg" class="attachment-thumbnail" alt="IMG_0698" /></a>
     </dt>
   </dl>
-  
+
   <br style='clear: both;' />
 </div>
 

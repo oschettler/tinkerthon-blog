@@ -1,6 +1,8 @@
 ---
 title: Zweitägiger Workshop im Deutschen Museum zu Ende
 author: olav
+published: 28.10.2011
+thumbnail: /wp-content/uploads/2011/10/heisserdraht-212x212.png
 layout: post
 permalink: /2011/10/zweitagiger-workshop-im-deutschen-museum-zu-ende/
 aktt_notify_twitter:

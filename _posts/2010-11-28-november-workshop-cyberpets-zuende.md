@@ -1,6 +1,8 @@
 ---
 title: 'November-Workshop &#8211; Cyberpets zuende'
 author: olav
+published: 28.11.2010
+thumbnail: /wp-content/uploads/2010/11/IMG_0674-212x212.jpg
 layout: post
 permalink: /2010/11/november-workshop-cyberpets-zuende/
 aktt_notify_twitter:
@@ -28,33 +30,33 @@ Zwei Jungen hatten am Ende noch begonnen, inspiriert von [meiner Lilypad-Schneck
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-e1291011026329.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-150x150.jpg" class="attachment-thumbnail" alt="Aushang im Restaurantbereich des Haus Müllestumpe" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-e1291099068706.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Stückliste des Kuschetiers" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-e1291011052248.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-150x150.jpg" class="attachment-thumbnail" alt="IMG_0673" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-e1291011069355.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-150x150.jpg" class="attachment-thumbnail" alt="IMG_0672" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-e1291011085509.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-150x150.jpg" class="attachment-thumbnail" alt="IMG_0671" /></a>
     </dt>
   </dl>
-  
+
   <br style='clear: both;' />
 </div>
 

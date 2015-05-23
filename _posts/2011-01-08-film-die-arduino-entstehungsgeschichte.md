@@ -1,6 +1,8 @@
 ---
 title: 'Film: Die Arduino-Entstehungsgeschichte'
 author: olav
+published: 08.01.2011
+thumbnail: /wp-content/uploads/2011/01/arduino_uno_test-212x212.jpg
 layout: post
 permalink: /2011/01/film-die-arduino-entstehungsgeschichte/
 aktt_notify_twitter:

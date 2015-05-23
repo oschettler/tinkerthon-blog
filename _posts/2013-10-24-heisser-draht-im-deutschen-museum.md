@@ -1,6 +1,10 @@
 ---
 title: 'Workshop &#8220;Heißer Draht&#8221; im Herbst 2013'
 author: olav
+published: 24.10.2013
+thumbnail: /wp-content/uploads/2013/01/03.01.13_19_49-Vollbild-3-212x212.png
+excerpt: >
+    Gerade läuft wieder ein Workshop zum Thema &#8220;Heißer Draht&#8221; im Deutschen Museum in Bonn. Acht Mädchen und Jungen im Alter zwischen acht und zwölf Jahren basteln, löten und programmieren an zwei Tagen ein kleines Spiel auf Basis der in BASIC programmierbaren PICAXE-Microcontroller.
 layout: post
 permalink: /2013/10/heisser-draht-im-deutschen-museum/
 categories:

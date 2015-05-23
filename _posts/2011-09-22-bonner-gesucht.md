@@ -1,6 +1,8 @@
 ---
 title: Bonner gesucht
 author: olav
+published: 22.09.2011
+thumbnail: /wp-content/uploads/2011/09/IMG_0031-212x212.jpg
 layout: post
 permalink: /2011/09/bonner-gesucht/
 aktt_notify_twitter:

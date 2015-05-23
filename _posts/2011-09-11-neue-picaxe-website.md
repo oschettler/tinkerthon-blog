@@ -1,6 +1,8 @@
 ---
 title: Neue PICAXE-Website
 author: olav
+published: 11.09.2011
+thumbnail: /wp-content/uploads/2011/09/picaxe08m2-212x212.png
 layout: post
 permalink: /2011/09/neue-picaxe-website/
 aktt_notify_twitter:

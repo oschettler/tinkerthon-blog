@@ -1,6 +1,10 @@
 ---
 title: Der heisse Draht am 3./4. April 2012 im Deutschen Museum, Bonn
 author: olav
+published: 02.04.2012
+thumbnail: /wp-content/uploads/2012/04/Thumbnail.ashx_-212x212.jpg
+excerpt: >
+    Morgen und übermorgen veranstaltet des Deutsche Museum in Bonn wieder einen Ferienworkshop für 9- bis 12-jährige Kinder zum Thema Physical Computing. Wie auch bei den letzten Workshops werde ich zusammen mit einem Museumsmitarbeiter den Workshop leiten.
 layout: post
 permalink: /2012/04/der-heisse-draht-3-4-april-2012-im-deutschen-museum-bonn/
 aktt_notify_twitter:

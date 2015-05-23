@@ -1,6 +1,8 @@
 ---
 title: Termine für die Offene Werkstatt
 author: olav
+published: 08.10.2010
+thumbnail: /wp-content/uploads/2010/10/IMG_0013-212x212.jpg
 layout: post
 permalink: /2010/10/termine-fur-die-offene-werkstatt/
 aktt_notify_twitter:

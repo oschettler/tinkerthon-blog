@@ -1,6 +1,8 @@
 ---
 title: 'Materialien zum Workshop &#8220;Der heiße Draht&#8221;'
 author: olav
+published: 04.01.2013
+thumbnail: /wp-content/uploads/2014/10/IMG_0848-212x212.jpg
 layout: post
 permalink: /2013/01/materialien-zum-workshop-der-heise-draht/
 categories:

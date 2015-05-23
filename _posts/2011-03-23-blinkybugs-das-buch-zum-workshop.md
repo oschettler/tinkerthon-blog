@@ -1,6 +1,8 @@
 ---
 title: 'Blinkybugs: Das Buch zum Workshop'
 author: olav
+published: 23.03.2011
+thumbnail: /wp-content/uploads/2011/03/51UxSMiy1XL._SS500_-212x212.jpg
 layout: post
 permalink: /2011/03/blinkybugs-das-buch-zum-workshop/
 aktt_notify_twitter:

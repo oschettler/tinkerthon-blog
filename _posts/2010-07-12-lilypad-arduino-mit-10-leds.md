@@ -2,6 +2,7 @@
 title: Lilypad Arduino mit 10 LEDs
 author: olav
 published: 12.07.2010
+thumbnail: /wp-content/uploads/2010/07/LilyPad_3-212x212.jpg
 layout: post
 permalink: /2010/07/lilypad-arduino-mit-10-leds/
 thumbnail: /wp-content/uploads/2010/07/LilyPad_3-212x212.jpg

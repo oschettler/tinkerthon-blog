@@ -1,6 +1,8 @@
 ---
 title: Web-basierender Editor für PICAXE-Programme
 author: olav
+published: 21.05.2012
+thumbnail:
 layout: post
 permalink: /2012/05/web-basierender-editor-fur-picaxe-programme/
 aktt_notify_twitter:
@@ -10,9 +12,9 @@ aktt_tweeted:
 categories:
   - PICAXE
 ---
-Ich arbeite z.Zt. an einem web-basierenden Editor für PICAXE-Programme. Damit möchte ich die Notwendigkeit umschiffen, bei Workshops für jeden oder zumindest für je zwei Teilnehmer einen Notebook vorhalten zu müssen. 
+Ich arbeite z.Zt. an einem web-basierenden Editor für PICAXE-Programme. Damit möchte ich die Notwendigkeit umschiffen, bei Workshops für jeden oder zumindest für je zwei Teilnehmer einen Notebook vorhalten zu müssen.
 
-Mein neues Programm läuft auf einem einzelnen Rechner und ermöglicht den Teilnehmern, ihre Programme über einfaches Drag und Drop z.B. von Ihrem iPod aus zu schreiben und dann auch gleich in den Microcontroller zu laden. 
+Mein neues Programm läuft auf einem einzelnen Rechner und ermöglicht den Teilnehmern, ihre Programme über einfaches Drag und Drop z.B. von Ihrem iPod aus zu schreiben und dann auch gleich in den Microcontroller zu laden.
 
 So sieht die erste Version aus:
 

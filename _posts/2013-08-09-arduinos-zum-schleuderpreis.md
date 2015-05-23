@@ -1,6 +1,8 @@
 ---
 title: Arduinos zum Schleuderpreis
 author: olav
+published: 09.08.2013
+thumbnail: /wp-content/uploads/2013/08/borderlessleonardo-212x212.jpg
 layout: post
 permalink: /2013/08/arduinos-zum-schleuderpreis/
 categories:

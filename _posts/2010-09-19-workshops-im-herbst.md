@@ -2,6 +2,7 @@
 title: Workshops im Herbst
 author: olav
 published: 19.09.2010
+thumbnail: /wp-content/uploads/2010/09/IMG_0024_0-e1286385314199.jpg
 layout: post
 permalink: /2010/09/workshops-im-herbst/
 thumbnail: /wp-content/uploads/2010/09/IMG_0024_0-e1286385314199.jpg

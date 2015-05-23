@@ -1,6 +1,11 @@
 ---
 title: Internet der Dinge
 author: olav
+published: 23.01.2014
+thumbnail: /wp-content/uploads/2014/01/IMG_0001_6-16-212x212.jpg
+excerpt: >
+    Erstes Treffen zum Internet der Dinge am 11.2.2014 in Bonn
+
 layout: post
 permalink: /2014/01/internet-der-dinge/
 categories:

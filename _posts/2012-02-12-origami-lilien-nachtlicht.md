@@ -1,6 +1,7 @@
 ---
 title: Origami-Lilien-Nachtlicht
 author: olav
+published: 12.02.2012
 layout: post
 permalink: /2012/02/origami-lilien-nachtlicht/
 aktt_notify_twitter:

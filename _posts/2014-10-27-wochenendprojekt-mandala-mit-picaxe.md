@@ -1,6 +1,8 @@
 ---
 title: 'Wochenendprojekt: Mandala mit PICAXE'
 author: olav
+published: 27.10.2014
+thumbnail: /wp-content/uploads/2014/10/IMG_0874-212x212.jpg
 layout: post
 permalink: /2014/10/wochenendprojekt-mandala-mit-picaxe/
 ks_metadata:

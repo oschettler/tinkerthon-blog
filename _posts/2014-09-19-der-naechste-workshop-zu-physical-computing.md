@@ -1,6 +1,10 @@
 ---
 title: Workshop zu Physical Computing für Kinder
 author: olav
+published: 19.09.2014
+thumbnail: /wp-content/uploads/2014/09/9H-212x212.jpg
+excerpt: >
+    Fast schon Tradition, werde ich auch in den Herbstferien in diesem Jahr wieder einen Workshop zu Physical Computing für Kinder abhalten.
 layout: post
 permalink: /2014/09/der-naechste-workshop-zu-physical-computing/
 categories:

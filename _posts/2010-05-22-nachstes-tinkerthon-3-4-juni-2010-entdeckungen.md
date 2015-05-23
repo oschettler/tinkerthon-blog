@@ -4,6 +4,8 @@ author: olav
 published: 22.05.2010
 layout: post
 permalink: /2010/05/nachstes-tinkerthon-3-4-juni-2010-entdeckungen/
+excerpt: >
+    Im Rahmen der Integrativen Kulturtage 2010 im Haus Müllestumpe zum Thema &#8220;Entdeckungen&#8221; wird es wieder einen Tinkerthon geben.
 aktt_notify_twitter:
   - no
 categories:

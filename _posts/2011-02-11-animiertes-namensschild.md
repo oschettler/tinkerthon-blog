@@ -1,6 +1,8 @@
 ---
 title: Animiertes Namensschild
 author: olav
+published: 11.02.2011
+thumbnail: /wp-content/uploads/2011/02/IMG_0059-212x212.jpg
 layout: post
 permalink: /2011/02/animiertes-namensschild/
 aktt_notify_twitter:
@@ -37,13 +39,13 @@ Hier ist das Arduino-Programm:
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0059-e1297406274660.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0059-150x150.jpg" class="attachment-thumbnail" alt="IMG_0059" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0054-e1297406299674.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0054-150x150.jpg" class="attachment-thumbnail" alt="IMG_0054" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" /> <br style='clear: both;' />
 </div>
 

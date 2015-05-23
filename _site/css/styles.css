@@ -15,12 +15,12 @@ body {
     color: white;
     background-color: rgba(255, 255, 255, 0.2); }
 
-.thumbnail {
+.teaser {
   overflow: hidden; }
-  .thumbnail .image {
+  .teaser .image {
     position: relative;
     margin-bottom: 10px; }
-    .thumbnail .image h4 {
+    .teaser .image h4 {
       position: absolute;
       bottom: 0;
       width: 100%;
@@ -28,7 +28,7 @@ body {
       padding: 10px;
       background-color: rgba(255, 255, 255, 0.5);
       color: black; }
-      .thumbnail .image h4 a {
+      .teaser .image h4 a {
         color: inherit; }
 
 span.published {

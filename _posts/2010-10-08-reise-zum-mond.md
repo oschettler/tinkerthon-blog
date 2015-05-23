@@ -1,6 +1,8 @@
 ---
 title: Reise zum Mond
 author: olav
+published: 08.10.2010
+thumbnail: /wp-content/uploads/2010/10/P1010007-212x212.jpg
 layout: post
 permalink: /2010/10/reise-zum-mond/
 aktt_notify_twitter:

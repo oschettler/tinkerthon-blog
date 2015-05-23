@@ -1,6 +1,8 @@
 ---
 title: Aladins Lampen
 author: olav
+published: 02.10.2011
+thumbnail: /wp-content/uploads/2011/10/Bildschirmfoto-2011-10-02-um-19.13.58-212x212.png
 layout: post
 permalink: /2011/10/aladins-lampen/
 aktt_notify_twitter:

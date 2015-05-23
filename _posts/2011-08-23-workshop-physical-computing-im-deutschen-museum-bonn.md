@@ -1,6 +1,8 @@
 ---
 title: 'Workshop &#8220;Physical Computing&#8221; im Deutschen Museum in Bonn'
 author: olav
+published: 23.08.2011
+thumbnail: /wp-content/uploads/2011/08/Bildschirmfoto-2011-08-24-um-00.33.21-212x212.png
 layout: post
 permalink: /2011/08/workshop-physical-computing-im-deutschen-museum-bonn/
 aktt_notify_twitter:

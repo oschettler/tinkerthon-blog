@@ -1,6 +1,8 @@
 ---
 title: 'Workshop am 29.1.11: &#8220;Der heiße Draht&#8221;'
 author: olav
+published: 17.01.2011
+thumbnail: /wp-content/uploads/2011/01/IMG_0019-212x212.jpg
 layout: post
 permalink: /2011/01/picaxe-heiser-draht-haus-mullestumpe-kinder-workshop-29-1-2011/
 aktt_notify_twitter:
@@ -27,67 +29,67 @@ Es ist wieder soweit, der nächste Workshop rückt in greifbare Nähe. Am Samsta
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0039-e1295253646253.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0039-150x150.jpg" class="attachment-thumbnail" alt="IMG_0039" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0040-e1295253663665.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0040-150x150.jpg" class="attachment-thumbnail" alt="IMG_0040" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0041-e1295253677771.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0041-150x150.jpg" class="attachment-thumbnail" alt="IMG_0041" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0044-e1295253690788.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0044-150x150.jpg" class="attachment-thumbnail" alt="IMG_0044" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0046-e1295258796845.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0046-150x150.jpg" class="attachment-thumbnail" alt="IMG_0046" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0018-e1295253713589.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0018-150x150.jpg" class="attachment-thumbnail" alt="IMG_0018" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0019-e1295253615396.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0019-150x150.jpg" class="attachment-thumbnail" alt="IMG_0019" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0020-e1295253734102.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0020-150x150.jpg" class="attachment-thumbnail" alt="IMG_0020" /></a>
     </dt>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0021-e1295253749339.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0021-150x150.jpg" class="attachment-thumbnail" alt="IMG_0021" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" />
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
       <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0023-e1295253773314.jpg' rel="lightbox[340]" title="Workshop am 29.1.11: "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/01/IMG_0023-150x150.jpg" class="attachment-thumbnail" alt="IMG_0023" /></a>
     </dt>
   </dl>
-  
+
   <br style='clear: both;' />
 </div>
 
