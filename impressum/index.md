@@ -3,7 +3,14 @@ title: Impressum
 author: olav
 layout: page
 ---
-**<a href="http://tinkerthon.de/wp-content/uploads/2010/10/63847_big.jpg" rel="lightbox[2]" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn"><img class="alignright size-full wp-image-76" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn" src="http://tinkerthon.de/wp-content/uploads/2010/10/63847_big.jpg" alt="" width="125" height="150" /></a>Dr. Olav Schettler**
+<div class="row">
+    <div class="col-md-2">
+        <img class="thumbnail" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn" src="http://tinkerthon.de/wp-content/uploads/2010/10/63847_big.jpg" alt="" width="125" height="150">
+    </div>
+    <div class="col-md-10">
+        <strong>Dr. Olav Schettler</strong>
+    </div>
+</div>
 
 Pipinstr. 14  
 D-53111 Bonn (NRW)  
