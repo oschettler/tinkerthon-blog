@@ -142,13 +142,12 @@ Das alles und noch ein wenig Fine Tuning am Timing des Schalter-Scans und der Co
 
 Das Steuerprogramm hat einige interessante Stellen. Es gibt einen Einzelschrittbetrieb, eingeleitet durch Druck auf die Taste und angezeigt über die serielle Schnittstelle. Die wesentliche Intelligenz des Programms steckt in der Funktion subst_code(), in der die gefundenen Molekülgruppen in sechs Positionen und dann noch einmal gespiegelt mit einer Tabelle möglicher Substanzen verglichen wird. Beim Anschluss an den Teenys habe ich dessen interne Pullup-Widerstände ausgenutzt, so dass die Beschaltung komplett ohne externe Widerstände auskommt.
 
-[Fernsteuer-Codes][12]
+### Downloads:
 
-[Testfilmchen 1..12 für die IR-Ansteuerung][13]
-
-[ir_send.pde zum Testen der IR-Codes][14]
-
-[benzoltisch.pde &#8211; Treiberprogramm für den Teensy][15]
+ * [Fernsteuer-Codes][12]
+ * [Testfilmchen 1..12 für die IR-Ansteuerung][13]
+ * [ir_send.pde zum Testen der IR-Codes][14]
+ * [benzoltisch.pde &#8211; Treiberprogramm für den Teensy][15]
 
  [1]: http://www.pjrc.com/store/teensy.html
  [2]: http://arduino.cc
@@ -161,7 +160,7 @@ Das Steuerprogramm hat einige interessante Stellen. Es gibt einen Einzelschrittb
  [9]: http://de.wikipedia.org/wiki/Vanillin
  [10]: http://de.wikipedia.org/wiki/Reedschalter
  [11]: http://www.arcfn.com/2009/08/multi-protocol-infrared-remote-library.html
- [12]: http://tinkerthon.de/wp-content/uploads/2011/10/Fernsteuer-Codes.pdf
- [13]: http://tinkerthon.de/wp-content/uploads/2011/10/Filme.zip
- [14]: http://tinkerthon.de/wp-content/uploads/2011/10/ir_send.pde_.txt
- [15]: http://tinkerthon.de/wp-content/uploads/2011/10/benzoltisch.pde_.txt
+ [12]: /wp-content/uploads/2011/10/Fernsteuer-Codes.pdf
+ [13]: /wp-content/uploads/2011/10/Filme.zip
+ [14]: /wp-content/uploads/2011/10/ir_send.pde_.txt
+ [15]: /wp-content/uploads/2011/10/benzoltisch.pde_.txt
