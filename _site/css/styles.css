@@ -15,6 +15,10 @@ body {
     color: white;
     background-color: rgba(255, 255, 255, 0.2); }
 
+.container > .teaser {
+  float: left;
+  margin-right: 20px; }
+
 .teaser {
   overflow: hidden; }
   .teaser .image {
@@ -25,7 +29,7 @@ body {
       bottom: 0;
       width: 100%;
       margin-bottom: -4px;
-      padding: 10px;
+      padding: 4px 10px 14px 10px;
       background-color: rgba(255, 255, 255, 0.5);
       color: black; }
       .teaser .image h4 a {
@@ -38,6 +42,9 @@ span.published {
   margin-right: 0.4em; }
   span.published:after {
     content: " - "; }
+
+.youtube {
+  width: 650px; }
 
 footer {
   margin-top: 20px;

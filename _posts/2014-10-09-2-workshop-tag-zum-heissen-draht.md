@@ -29,7 +29,7 @@ Interessant ist eine weitere Ankündigung. Revolution Ltd., der Hersteller der P
  [2]: http://www.picaxe.com/Software/PICAXE/PICAXE-Editor-6/
  [3]: http://www.picaxe.com/Teaching/Logicator-Flowcharting-Software/
  [4]: http://www.picaxe.com/Teaching/Other-Software/Scratch-Helper-Apps/
- [5]: http://tinkerthon.de/2014/09/blinkstick-pro-mit-scratch-steuern/
+ [5]: /2014/09/blinkstick-pro-mit-scratch-steuern/
  [6]: https://github.com/tinkerthon/Der-heisse-Draht/raw/master/heisser_draht.pdf
  [7]: http://www.picaxe-shop.de/
  [8]: http://www.roboter-teile.de/datasheets/AXE003M_D.pdf

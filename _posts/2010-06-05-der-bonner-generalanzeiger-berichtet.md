@@ -21,7 +21,7 @@ tags:
 <div id='gallery-2' class='gallery galleryid-39 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0590.png' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0590-150x150.png" class="attachment-thumbnail" alt="Lichtschnecke mit Arduino Lilypad" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0590.png' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0590-150x150.png" class="attachment-thumbnail" alt="Lichtschnecke mit Arduino Lilypad" /></a>
     </dt>
   </dl>
 

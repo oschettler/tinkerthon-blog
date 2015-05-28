@@ -23,4 +23,4 @@ Romeos Drahtigel z.B. unterbricht sein Augenblinken, wenn man den Fotowiderstand
 Hier noch mein Flugblatt zur Veranstaltung, das es leider nicht mehr bis auf Papier geschafft hat: [Flugblatt: Kuscheltiere basteln mit Microcontrollern][2]
 
  [1]: http://www.muellestumpe.de/index.php/de/werkraeume/kurse-im-werkraum/122-entdeckungen.html "5./6.6 "Entdeckungen 2010 im Haus Müllestumpe, Bonn"
- [2]: http://tinkerthon.de/wp-content/uploads/2010/06/flugblatt_kuscheltiere.pdf
+ [2]: /wp-content/uploads/2010/06/flugblatt_kuscheltiere.pdf

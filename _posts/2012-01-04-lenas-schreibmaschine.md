@@ -49,4 +49,4 @@ Hier ist das Programm bisher: [echo_keyb.bas][3]
 
  [1]: http://www.picaxe.com/Hardware/PICAXE-Chips/PICAXE-14M2-microcontroller/ "PICAXE-14M2 Microcontroller"
  [2]: http://www.4dsystems.com.au/prod.php?id=77 "µOLED-96-G1(SGC) von 4D Systems"
- [3]: http://tinkerthon.de/wp-content/uploads/2012/01/echo_keyb.bas_.txt
+ [3]: /wp-content/uploads/2012/01/echo_keyb.bas_.txt

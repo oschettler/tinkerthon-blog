@@ -28,4 +28,4 @@ Das Archiv enthält folgende Dateien &#8211; .bas sind dabei BASIC-Programme, .c
   Dann sind im Archiv noch einige Beispielprogramme für Ein- / Ausgabegeräte, wie sie auch auf dem Spickzettel der Teilnehmer abgedruckt sind.
 </div>
 
- [1]: http://tinkerthon.de/wp-content/uploads/2011/09/physcomp_programme.zip
+ [1]: /wp-content/uploads/2011/09/physcomp_programme.zip

@@ -15,4 +15,4 @@ categories:
 Der aktuelle [30. Bundeswettbewerb Informatik][1] enthält eine Aufgabe, die sich auch prima als Projekt zur Realisierung mit Microcontrollern eignet. Das Spielfeld besteht, ähnlich wie [Senso][2], aus Tastern und beigeordneten Lampen. Ziel des Spiel ist es, von einer gegebenen Ausgangssituation alle Lampen anzuschalten. Die einzelnen Taster schalten dabei nicht nur ihre beigeordnete Lampe, sondern auch die beiden Nachbarn &#8211; knifflig!
 
  [1]: http://www.bundeswettbewerb-informatik.de/index.php?id=647 "Aufgaben des 30. BwInf"
- [2]: http://tinkerthon.de/2011/03/micro-senso/
+ [2]: /2011/03/micro-senso/

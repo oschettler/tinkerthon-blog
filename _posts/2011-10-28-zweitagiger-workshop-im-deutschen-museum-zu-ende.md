@@ -22,6 +22,6 @@ Einen <a href="http://www.roboter-teile.de/Oxid/PICAXE/" target="_blank">deutsch
 Eine weitere Quelle für PICAXE-Projekte und Programmideen ist die Seite <a href="http://www.instructables.com/" target="_blank">instructables.com</a>. Dort gibt es etwa einen <a href="http://www.instructables.com/id/NoiseAxe-MiniSynth/" target="_blank">Mini-Synthesizer</a>, ein <a href="http://www.instructables.com/id/Piecax-the-Poltergeist-A-Troublesome-Spirit-in-a/" target="_blank">Poltergeist</a>, <a href="http://www.instructables.com/id/Tic-Tac-Tunes/" target="_blank">Tic-Tac-Tunes</a> oder das Spiel <a href="http://www.instructables.com/id/MemAxe-8Bit-sound-effects-memory-game/" target="_blank">MemAxe</a>. Wenn ihr nicht die kompletten Projekte nachbauen wollt, so ist es manchmal ganz lehrreich, sich einfach nur den Programmcode anzuschauen.
 
  [1]: http://www.deutsches-museum.de/bonn/information/fuer-kinder-und-schulen/die-kleine-eule-pfiffikus/workshops/der-heisse-draht/
- [2]: http://tinkerthon.de/2011/09/beispielprogramme-fur-den-heisen-draht/
- [3]: http://tinkerthon.de/wp-content/uploads/2011/10/physcomp_programme.zip "Archiv mit Beispielprogrammen in BASIC und Flussdiagrammen"
- [4]: http://tinkerthon.de/wp-content/uploads/2011/10/heisserdraht_cheatsheet_v2.pdf
+ [2]: /2011/09/beispielprogramme-fur-den-heisen-draht/
+ [3]: /wp-content/uploads/2011/10/physcomp_programme.zip "Archiv mit Beispielprogrammen in BASIC und Flussdiagrammen"
+ [4]: /wp-content/uploads/2011/10/heisserdraht_cheatsheet_v2.pdf

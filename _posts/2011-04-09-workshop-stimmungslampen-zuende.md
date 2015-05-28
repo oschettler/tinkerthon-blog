@@ -31,7 +31,7 @@ Hier noch ein paar Eindrücke von den Lampen aus dem heutigen Workshop:
 
  [1]: http://www.die-bonner-altstadt.de/index.htm
  [2]: http://blog.thingm.com/2010/10/new-blinkmsequencer-features/
- [3]: http://tinkerthon.de/2011/04/physical-computing-workshop-samstag-9-4-11/
+ [3]: /2011/04/physical-computing-workshop-samstag-9-4-11/
  [4]: http://thingm.com/products/blinkm
  [5]: http://nwanua.aniomagic.com/
  [6]: http://aniomagic.com/

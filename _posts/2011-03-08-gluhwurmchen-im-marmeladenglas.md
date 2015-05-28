@@ -12,7 +12,7 @@ aktt_tweeted:
 enclosure:
   - |
     |
-        http://tinkerthon.de/wp-content/uploads/2011/03/MVI_0082.avi
+        /wp-content/uploads/2011/03/MVI_0082.avi
         3900280
         video/avi
 
@@ -48,4 +48,4 @@ So heisst eine [Bauanleitung bei Instructables][1], die ebenfalls gut zum Thema 
 </div>
 
  [1]: http://www.picaxeforum.co.uk/showthread.php?t=8781&highlight=fireflies
- [2]: http://tinkerthon.de/wp-content/uploads/2011/03/MVI_0082.avi
+ [2]: /wp-content/uploads/2011/03/MVI_0082.avi

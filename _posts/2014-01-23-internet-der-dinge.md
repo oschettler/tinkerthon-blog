@@ -39,15 +39,15 @@ Um mit dem electric imp zu arbeiten, benötigt man eine Basisplatine. Beides bek
 
 Die Entwicklung mit dem electric imp ist wirklich einfach. Die Programmierung des Boards und der Dienste in der Cloud erfolgt über eine web-basierende IDE. Hier ist ein [Beispielprojekt][27]:
 
-<a href="http://tinkerthon.de/wp-content/uploads/2014/01/Electric_Imp_-_IDE.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-877 aligncenter" alt="IDE für den electric imp" src="http://tinkerthon.de/wp-content/uploads/2014/01/Electric_Imp_-_IDE-300x183.png" width="300" height="183" /></a>
+<a href="/wp-content/uploads/2014/01/Electric_Imp_-_IDE.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-877 aligncenter" alt="IDE für den electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_IDE-300x183.png" width="300" height="183" /></a>
 
 In diesem Beispiel habe ich eine [MinM-Mehrfarbleuchtdiode][28] von ThingM per i2c an den electric imp angeschlossen. Noch einfacher geht es mit einer RGB-Leuchtdiode:
 
-<a href="http://tinkerthon.de/wp-content/uploads/2014/01/IMG_0001_6-16.jpg" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-878 aligncenter" alt="RGB-LED am electric imp" src="http://tinkerthon.de/wp-content/uploads/2014/01/IMG_0001_6-16-266x300.jpg" width="266" height="300" /></a>
+<a href="/wp-content/uploads/2014/01/IMG_0001_6-16.jpg" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-878 aligncenter" alt="RGB-LED am electric imp" src="/wp-content/uploads/2014/01/IMG_0001_6-16-266x300.jpg" width="266" height="300" /></a>
 
 Der imp hat zwar nur sechs Pins, diese sind aber [flexibel beschaltbar][29]:
 
-<a href="http://tinkerthon.de/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-879 aligncenter" alt="Flexible Anschlußbelegung des electric imp" src="http://tinkerthon.de/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2-300x121.png" width="300" height="121" /></a>
+<a href="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-879 aligncenter" alt="Flexible Anschlußbelegung des electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2-300x121.png" width="300" height="121" /></a>
 
 Für die ThingM-LED benutze ich einen der zwei verfügbaren i2c-Kanäle, für die Vielfarbdiode waren es drei der Ausgänge mit Pulsweitenmodulation (PWM).
 
@@ -59,13 +59,13 @@ Und Tinkerthon? Nun, mit dem electric imp sind Hardware-Basteleien mit Internet-
  [2]: http://6502.org/
  [3]: http://www.picaxe.com/
  [4]: http://arduino.cc/
- [5]: http://tinkerthon.de/?s=workshop
+ [5]: /?s=workshop
  [6]: http://tigoe.net/
  [7]: http://www.oreilly.de/catalog/9780596510510/
  [8]: http://m2m-alliance.de/
  [9]: http://postscapes.com/internet-of-things-examples/
  [10]: http://www.heise.de/newsticker/meldung/Google-kauft-Heimvernetzer-Nest-fuer-3-2-Milliarden-Dollar-2084501.html
- [11]: http://tinkerthon.de/konzept/
+ [11]: /konzept/
  [12]: http://www.raspberrypi.org/
  [13]: http://tessel.io/
  [14]: http://www.espruino.com/

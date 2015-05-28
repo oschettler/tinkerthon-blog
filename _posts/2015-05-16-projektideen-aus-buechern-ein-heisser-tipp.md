@@ -23,11 +23,11 @@ Richtig cool ist es dann, wenn man für den Preis eines einzigen Buches gleich 1
 
 Hier sind die Bücher im Einzelnen:
 
-<a href="https://tinkerthon.de/wp-content/uploads/2015/05/Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_.png" rel="lightbox[1002]" title="Projektideen aus Büchern: Ein heißer Tipp"><img class="size-medium wp-image-1006 aligncenter" src="https://tinkerthon.de/wp-content/uploads/2015/05/Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_-300x207.png" alt="Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_" width="300" height="207" /></a>
+<a data-lity title="Klick zum Vergrößern" href="/wp-content/uploads/2015/05/Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_.png"><img class="thumbnail img-responsive center-block" src="/wp-content/uploads/2015/05/Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_-300x207.png" alt="Humble_Maker_Book_Bundle__pay_what_you_want_and_help_charity_" width="300" height="207" /></a>
 
 Der schnellste Weg, die Bücher nach dem Kauf herunterzuladen, ist übrigens die Torrent-Option. Torrents sind kleine Dateien, die &#8211; in ein Programm wie z.B. uTorrent geladen &#8211; diesem erklären, wo es die eigentlichen Buchdateien herunterzuladen gibt. uTorrent lädt die Dateien dann herunter und entlastet dabei noch die Server von Humble Bundle:
 
-<a href="https://tinkerthon.de/wp-content/uploads/2015/05/µTorrent.png" rel="lightbox[1002]" title="Projektideen aus Büchern: Ein heißer Tipp"><img class="size-medium wp-image-1004 aligncenter" src="https://tinkerthon.de/wp-content/uploads/2015/05/µTorrent-300x167.png" alt="µTorrent" width="300" height="167" /></a>
+<a data-lity title="Klick zum Vergrößern" href="/wp-content/uploads/2015/05/µTorrent.png"><img class="thumbnail img-responsive center-block" src="/wp-content/uploads/2015/05/µTorrent-300x167.png" alt="µTorrent" width="300" height="167" /></a>
 
 Ich habe die 13€ bezahlt und habe jetzt eine Menge neuer Projektideen in der Hinterhand.
 

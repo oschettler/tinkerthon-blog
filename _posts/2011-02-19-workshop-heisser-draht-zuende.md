@@ -62,7 +62,7 @@ Olav
   <br style='clear: both;' />
 </div>
 
- [1]: http://tinkerthon.de/2011/01/picaxe-heiser-draht-haus-mullestumpe-kinder-workshop-29-1-2011/
+ [1]: /2011/01/picaxe-heiser-draht-haus-mullestumpe-kinder-workshop-29-1-2011/
  [2]: http://www.rev-ed.co.uk/picaxe/
- [3]: http://tinkerthon.de/wp-content/uploads/2011/02/axe102.pdf
- [4]: http://tinkerthon.de/wp-content/uploads/2011/02/heisser_draht_04.bas_.txt
+ [3]: /wp-content/uploads/2011/02/axe102.pdf
+ [4]: /wp-content/uploads/2011/02/heisser_draht_04.bas_.txt

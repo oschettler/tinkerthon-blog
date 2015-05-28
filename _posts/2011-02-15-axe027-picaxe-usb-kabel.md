@@ -25,12 +25,12 @@ Das PICAXE USB-Kabel nutzt den USB-Port des Computers. Der USB-Stecker des Kabel
 
 Die Schaltung zum Anschluss des Kabels an einen PICAXE-Microcontroller ist sehr einfach; es sind nur zwei Widerstände und eine passende Klinkenbuchse erforderlich:
 
-<a href="http://tinkerthon.de/wp-content/uploads/2011/02/Bildschirmfoto-2010-05-26-um-09.52.35.png" rel="lightbox[412]" title="Schaltung zum Programmieren von PICAXE-Chips"><img src="http://tinkerthon.de/wp-content/uploads/2011/02/Bildschirmfoto-2010-05-26-um-09.52.35-300x133.png" alt="Die Schaltung besteht aus zwei Widerständen und einer Klinkenbuchse" title="Schaltung zum Programmieren von PICAXE-Chips" width="300" height="133" class="alignright size-medium wp-image-414" /></a>
+<a href="/wp-content/uploads/2011/02/Bildschirmfoto-2010-05-26-um-09.52.35.png" rel="lightbox[412]" title="Schaltung zum Programmieren von PICAXE-Chips"><img src="/wp-content/uploads/2011/02/Bildschirmfoto-2010-05-26-um-09.52.35-300x133.png" alt="Die Schaltung besteht aus zwei Widerständen und einer Klinkenbuchse" title="Schaltung zum Programmieren von PICAXE-Chips" width="300" height="133" class="alignright size-medium wp-image-414" /></a>
 
 Weil dieses Kabel zum Programmieren der PICAXE-Microcontroller benötigt wird, biete ich es [zum Kauf an][1].
 
 Hier ist die [Englischsprachige Dokumentation zum USB-Kabel][2]. Treiber für das Kabel und die kostenlose Programmier-Software gibt es auf [den Seiten des Herstellers Revolution Education Ltd.][3]
 
  [1]: http://de.dawanda.com/product/16757814-AXE027-PICAXE-USBKabel
- [2]: http://tinkerthon.de/wp-content/uploads/2011/02/axe027_usbcable.pdf
+ [2]: /wp-content/uploads/2011/02/axe027_usbcable.pdf
  [3]: http://www.rev-ed.co.uk/picaxe/software.htm

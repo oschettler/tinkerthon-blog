@@ -22,6 +22,6 @@ Am Sonntag (21.2.2010) geht es weiter, Beginn wieder um 14 Uhr. Es sind noch jed
 
 Wenn mir den Lichtsensor und den Servo niemand streitig macht, baue ich damit vielleicht ein bewegliches Maul- mal sehen.
 
- [1]: http://tinkerthon.de/content/das-drawdio
+ [1]: /content/das-drawdio
  [2]: http://scratch.mit.edu/
  [3]: http://www.picocricket.com/picoboard.html

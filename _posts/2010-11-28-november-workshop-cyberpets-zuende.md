@@ -63,5 +63,5 @@ Zwei Jungen hatten am Ende noch begonnen, inspiriert von [meiner Lilypad-Schneck
  [1]: http://www.instructables.com/id/Piecax-the-Poltergeist-A-Troublesome-Spirit-in-a/
  [2]: http://www.techsupplies.co.uk/PICAXE
  [3]: http://jonathanjamieson.com/projects/electronics/perpetual-ball-roller/
- [4]: http://tinkerthon.de/2010/07/lilypad-arduino-mit-10-leds/
+ [4]: /2010/07/lilypad-arduino-mit-10-leds/
  [5]: http://www.muellestumpe.de/

@@ -107,4 +107,4 @@ Hier ist ein einfaches [Basic-Programm zur Ansteuerung][1].
 
 Also: Wer Lust hat, auch im neuen Jahr wieder ein wenig mit Elektronik zu basteln: Anmelden unter werkraum@muellestumpe.de oder Tel.: 0228 249 909 13.
 
- [1]: http://tinkerthon.de/wp-content/uploads/2011/01/heisser_draht_inabox.bas_.txt
+ [1]: /wp-content/uploads/2011/01/heisser_draht_inabox.bas_.txt

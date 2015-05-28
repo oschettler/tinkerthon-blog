@@ -22,5 +22,5 @@ Hier noch ein paar Informationen für den Start:
  [1]: http://picaxe.com
  [2]: http://www.picaxe.com/Getting-Started/PICAXE-Manuals/
  [3]: https://github.com/tinkerthon/Der-heisse-Draht
- [4]: http://tinkerthon.de/uploads/heisser_draht_2013-01.pdf
- [5]: http://tinkerthon.de/uploads/heisserdraht_cheatsheet.pdf
+ [4]: /uploads/heisser_draht_2013-01.pdf
+ [5]: /uploads/heisserdraht_cheatsheet.pdf

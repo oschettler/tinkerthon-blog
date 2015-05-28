@@ -28,7 +28,7 @@ Also: Ihr habt meine E-Mail-Adresse! Bei Fragen oder Ideen schreibt mir also ein
 
  [1]: http://www.deutsches-museum.de/bonn/information/fuer-kinder-und-schulen/die-kleine-eule-pfiffikus/workshops/der-heisse-draht/
  [2]: http://www.deutsches-museum.de/information/jugend-im-museum/erfinderpfad/forschen/mp3/
- [3]: http://tinkerthon.de/2013/01/materialien-zum-workshop-der-heise-draht/
+ [3]: /2013/01/materialien-zum-workshop-der-heise-draht/
  [4]: http://www.picaxe.com/ "Website der Firma Revolution Education Ltd"
  [5]: http://www.picaxe-shop.de/
  [6]: http://www.roboter-teile.de/
@@ -36,5 +36,5 @@ Also: Ihr habt meine E-Mail-Adresse! Bei Fragen oder Ideen schreibt mir also ein
  [8]: http://www.strippenstrolch.de/menue-5.html#picaxe
  [9]: http://www.corticalcafe.com/hardware_picaxe.htm
  [10]: http://www.elektrotechnik.uni-rostock.de/schueler/sommerschule/pic/
- [11]: http://tinkerthon.de/2011/03/gluhwurmchen-im-marmeladenglas/
- [12]: http://tinkerthon.de/2011/03/workshop-19-3-blinkende-blumen-zum-fruhjahrsanfang/
+ [11]: /2011/03/gluhwurmchen-im-marmeladenglas/
+ [12]: /2011/03/workshop-19-3-blinkende-blumen-zum-fruhjahrsanfang/

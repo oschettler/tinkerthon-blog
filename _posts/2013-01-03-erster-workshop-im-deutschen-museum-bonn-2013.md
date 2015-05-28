@@ -17,7 +17,7 @@ Leider, leider ist die Drag&Drop-basierende Programmierung nicht rechtzeitig fer
 Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kindle Fire aus programmieren. Der Python-basierende Webserver läuft dazu auf  meinen MacBook in einem lokalen WLAN. Die PICAXEs werden an die USB-Ports dieses Rechners angeschlossen.
 
 <div id="attachment_780" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_12-vollbild-3/" rel="attachment wp-att-780"><img class="size-medium wp-image-780" alt="Startseite von PAW" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_12-Vollbild-3-300x270.png" width="300" height="270" /></a>
+  <a href="/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_12-vollbild-3/" rel="attachment wp-att-780"><img class="size-medium wp-image-780" alt="Startseite von PAW" src="/wp-content/uploads/2013/01/03.01.13_19_12-Vollbild-3-300x270.png" width="300" height="270" /></a>
 
   <p class="wp-caption-text">
     schön responsiv
@@ -25,7 +25,7 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 </div>
 
 <div id="attachment_781" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_48-bildschirmkopie/" rel="attachment wp-att-781"><img class="size-medium wp-image-781" alt="Projektliste" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_48-Bildschirmkopie-300x198.png" width="300" height="198" /></a>
+  <a href="/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_48-bildschirmkopie/" rel="attachment wp-att-781"><img class="size-medium wp-image-781" alt="Projektliste" src="/wp-content/uploads/2013/01/03.01.13_19_48-Bildschirmkopie-300x198.png" width="300" height="198" /></a>
 
   <p class="wp-caption-text">
     Projektliste
@@ -33,7 +33,7 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 </div>
 
 <div id="attachment_782" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://tinkerthon.de/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_49-vollbild-3/" rel="attachment wp-att-782"><img class="size-medium wp-image-782" alt="Detailansicht mit Code-Editor" src="http://tinkerthon.de/wp-content/uploads/2013/01/03.01.13_19_49-Vollbild-3-300x226.png" width="300" height="226" /></a>
+  <a href="/2013/01/erster-workshop-im-deutschen-museum-bonn-2013/03-01-13_19_49-vollbild-3/" rel="attachment wp-att-782"><img class="size-medium wp-image-782" alt="Detailansicht mit Code-Editor" src="/wp-content/uploads/2013/01/03.01.13_19_49-Vollbild-3-300x226.png" width="300" height="226" /></a>
 
   <p class="wp-caption-text">
     Detailansicht mit Code-Editor
@@ -46,5 +46,5 @@ Bei meinen Tests konnte ich mit dieser Umgebung PICAXEs vom iPad und meinem Kind
 
  [1]: http://www.deutsches-museum.de/bonn/information/fuer-kinder-und-schulen/die-kleine-eule-pfiffikus/workshops/der-heisse-draht/
  [2]: http://muellestumpe.de/
- [3]: http://tinkerthon.de/2012/05/web-basierender-editor-fur-picaxe-programme/ "Ankündigung von PAW, der Web-basierenden Programmierumgebung für PICAXE"
+ [3]: /2012/05/web-basierender-editor-fur-picaxe-programme/ "Ankündigung von PAW, der Web-basierenden Programmierumgebung für PICAXE"
  [4]: http://schettler.net/fossil/paw "OpenSource-Programmierumgebung für PICAXE, basierend auf den offiziellen PICAXE-Compilern"

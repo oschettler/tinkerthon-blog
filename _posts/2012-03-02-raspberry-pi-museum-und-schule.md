@@ -31,5 +31,5 @@ Ich werde versuchen, zu [meinem Workshop Anfang April][9] einen Rasberry Pi mitz
  [5]: http://www.kgs-marienschule.de/computerclub
  [6]: http://www.tannenbusch-gymnasium.de/index.php/a-klasse/news/2014-comein-neues-projekt-fuer-die-klasse-6a.html
  [7]: http://www.deutsches-museum.de/bonn/ausstellungen/ausstellungen-2011/kekules-traum/ "Sonderausstellung Kekulés Traum"
- [8]: http://tinkerthon.de/interaktiver-benzoltisch-im-deutschen-museum-bonn/ "Teensy im DMB"
+ [8]: /interaktiver-benzoltisch-im-deutschen-museum-bonn/ "Teensy im DMB"
  [9]: http://www.deutsches-museum.de/index.php?id=373

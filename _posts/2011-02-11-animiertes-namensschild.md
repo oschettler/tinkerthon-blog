@@ -57,4 +57,4 @@ Hier ist das Arduino-Programm:
  [6]: http://cv8.me "Online CVs"
  [7]: http://dankbarkeit-ist-nicht-erforderlich.de/ "Dankbarkeit zeigen"
  [8]: http://vorlesebuch.de "Vorlesebücher"
- [9]: http://tinkerthon.de/wp-content/uploads/2011/02/serlcd2_lines.txt
+ [9]: /wp-content/uploads/2011/02/serlcd2_lines.txt
