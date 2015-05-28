@@ -2,7 +2,7 @@
 title: Physical Computing ohne Löten
 author: olav
 published: 11.11.2011
-thumbnail:
+thumbnail: /wp-content/uploads/2011/11/picaxe_create-212x212.jpg
 layout: post
 permalink: /2011/11/physical-computing-ohne-loten/
 aktt_notify_twitter:

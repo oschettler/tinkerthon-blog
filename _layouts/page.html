@@ -4,8 +4,34 @@
 <body>
     {% include navbar.html %}
 
-    {{ content }}
+    <div class="container">
 
+        <div class="blog-header">
+            <h1 class="blog-title">{{ page.title }}</h1>
+            <p class="lead">{{ page.lead }}</p>
+        </div>
+
+        {{ content }}
+
+        {% if page.gallery %}
+            <div class="row">
+                {% for img in page.gallery %}
+                    <div class="col-md-2 col-sm-3 col-xs-4">
+                        <div class="teaser">
+                            <div class="image">
+                                <a data-lity href="{{ img.big }}">
+                                    <img src="{{ img.small }}">
+                                    <h4 class="small">{{ img.title }}</h4>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+
+        {% include disqus.html %}
+    </div>
     {% include footer.html %}
 </body>
 </html>
