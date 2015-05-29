@@ -14,9 +14,7 @@ categories:
 ---
 Ich habe gerade zwei neue Blinkstick-Varianten bekommen und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die [Uhrensoftware][1] integrieren. So sieht das Ergebnis aus:
 
-<div class="clearfix"></div>
-
-<div class="youtube thumbnail img-responsive center-block">
+<div class="youtube thumbnail img-responsive">
     <iframe class="youtube-player" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/5N10kAwQbTM?version=3&amp;rel=1&amp;fs=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" frameborder="0" allowfullscreen="true"></iframe>
 </div>
 

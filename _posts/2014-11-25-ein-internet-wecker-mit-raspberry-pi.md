@@ -14,16 +14,16 @@ categories:
 ---
 Letzten Freitag erwähnte Lena, dass sie gerne einen eigenen Wecker hätte. Ungefähr zur gleichen Zeit stolperte ich über den [2,8&#8221; LCD-Touchscreen für das Raspberry Pi][1] von Watterott. Das Display ist einfach auf die GPIO-Pins des Pi aufsteckbar und es gibt für beides sogar ein [passendes Gehäuse][2].
 
-<div id="attachment_960" style="width: 310px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2014/11/20110750_1.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-960 size-medium" src="/wp-content/uploads/2014/11/20110750_1-300x216.jpg" alt="20110750_1" width="300" height="216" /></a>
+<div style="width: 310px" class="thumbnail img-responsive center-block">
+  <a data-lity href="/wp-content/uploads/2014/11/20110750_1.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-960 size-medium" src="/wp-content/uploads/2014/11/20110750_1-300x216.jpg" alt="20110750_1" width="300" height="216" /></a>
 
   <p class="wp-caption-text">
     Raspberry Pi mit aufgestecktem Display (Bild: Watterott)
   </p>
 </div>
 
-<div id="attachment_961" style="width: 310px" class="wp-caption alignnone">
-  <a href="/wp-content/uploads/2014/11/20110803.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-961 size-medium" src="/wp-content/uploads/2014/11/20110803-300x187.jpg" alt="20110803" width="300" height="187" /></a>
+<div style="width: 310px" class="youtube thumbnail img-responsive center-block">
+  <a data-lity href="/wp-content/uploads/2014/11/20110803.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-961 size-medium" src="/wp-content/uploads/2014/11/20110803-300x187.jpg" alt="20110803" width="300" height="187" /></a>
 
   <p class="wp-caption-text">
     Passendes TEX Berry Gehäuse (Bild: Watterott)
@@ -54,71 +54,31 @@ Selbst [Tcl/Tk][9] hätte eine Alternative sein können.
 
 Sehr interessant fand ich QML. Das hätte auch fast funktioniert, scheiterte am Ende aber an der fehlenden OpenGL-Unterstützung. Sollte ich noch einmal ein Kiosk-System mit dem regulären HDMI-Anschluss bauen wollen, ist das aber sicher ein atraktiver Ansatz mit wenig Overhead. Mein Vorgehen basierte dabei auf einem [Posting im RaspberryPi-Forum][11] und basierte auf den Paketen
 
-<div>
+{% highlight bash %}
   sudo apt-get install \
-</div>
-
-<div>
        libqt5declarative5 libqt5webkit5-dev \
-</div>
-
-<div>
        qmlscene \
-</div>
-
-<div>
        libqt5webkit5-qmlwebkitplugin \
-</div>
-
-<div>
        libegl1-mesa \
-</div>
-
-<div>
        qtdeclarative5-qtquick2-plugin
-</div>
+{% endhighlight %}
 
-<div>
-</div>
+Der einfache Aufruf hätte dann sein sollen:
 
-<div>
-  Der einfache Aufruf hätte dann sein sollen:
-</div>
-
-<div>
-</div>
-
-<div>
-  <div>
+{% highlight bash %}
     QT_QPA_PLATFORM=linuxfb:fb=/dev/fb1 /usr/lib/arm-linux-gnueabihf/qt5/bin/qmlscene webkit.qml
-  </div>
+{% endhighlight %}
 
-  <div>
-  </div>
+&#8230; bricht aber leider wegen mangelnder OpenGL-Unterstützung ab.
 
-  <div>
-    &#8230; bricht aber leider wegen mangelnder OpenGL-Unterstützung ab.
-  </div>
+Letztlich läuft der RaspberryPi jetzt mit einem normalen X11 mit Chromium-Browser im Kiosk Mode. Die Anleitung dafür liefert <a href="https://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/">Dan Purdy</a>.  Den Startschirm bildet eine HTML-Seite mit <a href="http://randomibis.com/coolclock/demos/demo2.html">CoolClock</a>. Es sollen weitere Seiten mit Weckeinstellungen und einer einfachen Steuerung des MPD folgen. Damit hätte ich auch endlich eine bedienbare Alternative zu meinem ersten <a href="/2013/04/internet-radio-mit-raspberrypi-2-zeiligem-rgb-lcd-und-5-tasten/">Projekt mit dem Music Player Demon</a> gefunden.
 
-  <div>
-  </div>
+<div style="width: 310px" class="thumbnail img-responsive center-block">
+  <a data-lity href="/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986351267.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-958 size-medium" src="/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986033782-300x242.jpg" alt="2014-11-25 08.04.14" width="300" height="242" /></a>
 
-  <div>
-    Letztlich läuft der RaspberryPi jetzt mit einem normalen X11 mit Chromium-Browser im Kiosk Mode. Die Anleitung dafür liefert <a href="https://www.danpurdy.co.uk/web-development/raspberry-pi-kiosk-screen-tutorial/">Dan Purdy</a>.  Den Startschirm bildet eine HTML-Seite mit <a href="http://randomibis.com/coolclock/demos/demo2.html">CoolClock</a>. Es sollen weitere Seiten mit Weckeinstellungen und einer einfachen Steuerung des MPD folgen. Damit hätte ich auch endlich eine bedienbare Alternative zu meinem ersten <a href="/2013/04/internet-radio-mit-raspberrypi-2-zeiligem-rgb-lcd-und-5-tasten/">Projekt mit dem Music Player Demon</a> gefunden.
-  </div>
-
-  <div>
-  </div>
-
-  <div>
-    <div id="attachment_958" style="width: 310px" class="wp-caption alignnone">
-      <a href="/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986351267.jpg" rel="lightbox[955]" title="Ein Internet-Wecker mit Raspberry PI"><img class="wp-image-958 size-medium" src="/wp-content/uploads/2014/11/2014-11-25-08.04.14-e1416986033782-300x242.jpg" alt="2014-11-25 08.04.14" width="300" height="242" /></a>
-
-      <p class="wp-caption-text">
-        Die Uhr als HTML-Seite. Rechts das Menü macht noch nichts
-      </p>
-    </div>
-  </div>
+  <p class="wp-caption-text">
+    Die Uhr als HTML-Seite. Rechts das Menü macht noch nichts
+  </p>
 </div>
 
 Der aktuelle Stand der Software liegt bei [Bitbucket][12] und ist open source.

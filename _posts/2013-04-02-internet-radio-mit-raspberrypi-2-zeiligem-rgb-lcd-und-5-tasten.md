@@ -17,13 +17,15 @@ tags:
   - MusicPlayerDaemon
   - RaspberryPi
 ---
-> **UPDATE 03/2015: **Adafruit empfiehlt inzwischen, statt ihrer Occidentalis-Distribution direkt das [Raspbian-Linux][1] zu benutzen.  Von Adafruit gibt es dann einen [Raspberry Pi Finder][2], der die fehlenden Komponenten zur Hardwaresteuerung nachrüstet.
->
-> Ich habe damit auf meinem Mac eine passende SD-Karte mit den folgenden Befehlen vorbereitet:
->
-> <pre>diskutil unmountDisk /dev/disk3 sudo dd bs=1m if=$HOME/Downloads/2015-02-16-raspbian-wheezy.img of=/dev/disk3</pre>
->
-> Dieser Befehl läuft sehr lange. Mit CTRL-T im Terminalfenster kann man sich zwischendurch den Status anzeigen lassen.
+## UPDATE 03/2015:
+
+Adafruit empfiehlt inzwischen, statt ihrer Occidentalis-Distribution direkt das [Raspbian-Linux][1] zu benutzen.  Von Adafruit gibt es dann einen [Raspberry Pi Finder][2], der die fehlenden Komponenten zur Hardwaresteuerung nachrüstet.
+
+Ich habe damit auf meinem Mac eine passende SD-Karte mit den folgenden Befehlen vorbereitet:
+
+<pre>diskutil unmountDisk /dev/disk3 sudo dd bs=1m if=$HOME/Downloads/2015-02-16-raspbian-wheezy.img of=/dev/disk3</pre>
+
+Dieser Befehl läuft sehr lange. Mit CTRL-T im Terminalfenster kann man sich zwischendurch den Status anzeigen lassen.
 >
 > <div>
 >   Ein Aufruf von

@@ -27,15 +27,15 @@ Danach geben wir in einem Texteditor die folgende Datei ein und speichern sie al
 
 Diese Datei starten wir mit &#8220;python blinkscratch.py&#8221;. Sie startet einen Webserver auf 5000. Unter der Adresse http://localhost:5000 können wir die Erweiterungsdatei *.s2e für Scratch herunterladen:
 
-<a href="/wp-content/uploads/2014/09/localhost_5000.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="alignnone size-full wp-image-927" src="/wp-content/uploads/2014/09/localhost_5000.png" alt="localhost_5000" width="253" height="129" /></a>
+<a  data-lity href="/wp-content/uploads/2014/09/localhost_5000.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="thumbnail img-responsive center-block" src="/wp-content/uploads/2014/09/localhost_5000.png" alt="localhost_5000" width="253" height="129" /></a>
 
 Die so heruntergeladene Datei kann man per Shift-Klick auf das Datei-Menü in Scratch importieren:
 
-<a href="/wp-content/uploads/2014/09/Vollbild_20_09_14_23_03.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="alignnone size-medium wp-image-929" src="/wp-content/uploads/2014/09/Vollbild_20_09_14_23_03-300x231.png" alt="Vollbild_20_09_14_23_03" width="300" height="231" /></a>
+<a data-lity href="/wp-content/uploads/2014/09/Vollbild_20_09_14_23_03.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="thumbnail img-responsive center-block" src="/wp-content/uploads/2014/09/Vollbild_20_09_14_23_03-300x231.png" alt="Vollbild_20_09_14_23_03" width="300" height="231" /></a>
 
 Damit stehen uns die neuen Blöcke für ein erstes Beispielprogramm zur Verfügung:
 
-<a href="/wp-content/uploads/2014/09/Scratch_2_Offline_Editor.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="alignnone size-medium wp-image-930" src="/wp-content/uploads/2014/09/Scratch_2_Offline_Editor-300x183.png" alt="Scratch_2_Offline_Editor" width="300" height="183" /></a>
+<a data-lity href="/wp-content/uploads/2014/09/Scratch_2_Offline_Editor.png" rel="lightbox[925]" title="Blinkstick Pro mit Scratch steuern"><img class="thumbnail img-responsive center-block" src="/wp-content/uploads/2014/09/Scratch_2_Offline_Editor-300x183.png" alt="Scratch_2_Offline_Editor" width="300" height="183" /></a>
 
  [1]: /2014/09/ein-einfaches-projekt-zum-weltkindertag/
  [2]: http://www.blinkstick.com/products/blinkstick-pro

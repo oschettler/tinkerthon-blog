@@ -15,18 +15,24 @@
                 <img class="thumbnail" src="{{ page.thumbnail }}">
                 <h4><span class="hidden">Themen: </span>{{ page.categories | join:", " }}</h4>
             </div>
-            <a class="thumbnail next post-link" title="{{ page.next.title }}" href="{{ page.next.permalink }}">
-                <img src="{{ page.next.thumbnail }}">
-                <span>&raquo;</span>
-            </a>
-            <a class="thumbnail prev post-link" title="{{ page.previous.title }}" href="{{ page.previous.permalink }}">
-                <img src="{{ page.previous.thumbnail }}">
-                <span>&laquo;</span>
-            </a>
+            {% if page.next %}
+                <a class="thumbnail next post-link" title="{{ page.next.title }}" href="{{ page.next.permalink }}">
+                    <img src="{{ page.next.thumbnail }}">
+                    <span>&raquo;</span>
+                </a>
+            {% endif %}
+            {% if page.previous %}
+                <a class="thumbnail prev post-link" title="{{ page.previous.title }}" href="{{ page.previous.permalink }}">
+                    <img src="{{ page.previous.thumbnail }}">
+                    <span>&laquo;</span>
+                </a>
+            {% endif %}
         </div>
 
         <span class="published">{{ page.published }}</span>
         {{ content }}
+
+        {% include gallery.html %}
 
     </div>
 

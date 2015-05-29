@@ -14,13 +14,13 @@ Ein paar Google-Mitarbeiter haben mit [Coder][1] ein ziemlich geniales Stück So
 
 Die Software auf der Karte enthält dann ein komplette Linux-Betriebssystem mit einer Web-Programmierumgebung für den PI. Hier ist ein einfacher Taschenrechner:
 
-<a href="/wp-content/uploads/2013/09/CoderEdit__tralla.png" rel="lightbox[851]" title="Raspberry Pi lehrt Web-Programmierung"><img class="size-medium wp-image-852 aligncenter" alt="CoderEdit__tralla" src="/wp-content/uploads/2013/09/CoderEdit__tralla-300x184.png" width="300" height="184" /></a>
+<a data-lity href="/wp-content/uploads/2013/09/CoderEdit__tralla.png" rel="lightbox[851]" title="Raspberry Pi lehrt Web-Programmierung"><img class="thumbnail img-responsive center-block" alt="CoderEdit__tralla" src="/wp-content/uploads/2013/09/CoderEdit__tralla-300x184.png" width="300" height="184" /></a>
 
 &nbsp;
 
 In der Programmierumgebung sind schon einige interessante Beispiele enthalten, u.a. ein Asteroid-Spiel:
 
-<a href="/wp-content/uploads/2013/09/Vollbild_12.09.13_23_21.png" rel="lightbox[851]" title="Raspberry Pi lehrt Web-Programmierung"><img class="size-medium wp-image-853 aligncenter" alt="Vollbild_12.09.13_23_21" src="/wp-content/uploads/2013/09/Vollbild_12.09.13_23_21-300x196.png" width="300" height="196" /></a>
+<a data-lity href="/wp-content/uploads/2013/09/Vollbild_12.09.13_23_21.png" rel="lightbox[851]" title="Raspberry Pi lehrt Web-Programmierung"><img class="thumbnail img-responsive center-block" alt="Vollbild_12.09.13_23_21" src="/wp-content/uploads/2013/09/Vollbild_12.09.13_23_21-300x196.png" width="300" height="196" /></a>
 
 &nbsp;
 

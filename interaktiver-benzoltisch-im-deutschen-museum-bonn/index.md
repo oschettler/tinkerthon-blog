@@ -5,6 +5,7 @@ author: olav
 layout: page
 aktt_notify_twitter:
   - yes
+gallery_title: Fotos
 gallery:
     - {
       title: Teensy 2,

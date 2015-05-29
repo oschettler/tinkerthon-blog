@@ -8,7 +8,7 @@ layout: page
         <img class="thumbnail" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn" src="http://tinkerthon.de/wp-content/uploads/2010/10/63847_big.jpg" alt="" width="125" height="150">
     </div>
     <div class="col-md-10">
-        <strong>Dr. Olav Schettler</strong>
+        <h2>Dr. Olav Schettler</h2>
     </div>
 </div>
 

@@ -15,7 +15,7 @@ tags:
   - i2c
   - IoT
 ---
-> Erstes [Treffen][1] zum Internet der Dinge am 11.2.2014 in Bonn
+Erstes [Treffen][1] zum Internet der Dinge am 11.2.2014 in Bonn
 
 Bisher hatte ich mich hier vornehmlich mit der faszinierenden Welt des Physical Computing beschäftigt, also mit der Verbindung von Computertechnik mit der realen Welt. Gegenüber meinen ersten Erfahrungen mit Micro-Controllern als Teenie in den Achtzigern kann man heute mit minimalem Aufwand an Zeit und Geld Schaltungen mit Micro-Controllern aufbauen und programmieren. Damals mussten wir unsere selbst gebauten Computersysteme aus einzelnen Komponenten wie [Micro-Prozessoren][2], Arbeits- und Programmspeicher, Peripherieadapter und ähnlichem aufbauen.
 
@@ -39,15 +39,15 @@ Um mit dem electric imp zu arbeiten, benötigt man eine Basisplatine. Beides bek
 
 Die Entwicklung mit dem electric imp ist wirklich einfach. Die Programmierung des Boards und der Dienste in der Cloud erfolgt über eine web-basierende IDE. Hier ist ein [Beispielprojekt][27]:
 
-<a href="/wp-content/uploads/2014/01/Electric_Imp_-_IDE.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-877 aligncenter" alt="IDE für den electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_IDE-300x183.png" width="300" height="183" /></a>
+<a data-lity href="/wp-content/uploads/2014/01/Electric_Imp_-_IDE.png" rel="lightbox[871]" title="Internet der Dinge"><img class="thumbnail img-responsive center-block" alt="IDE für den electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_IDE-300x183.png" width="300" height="183" /></a>
 
 In diesem Beispiel habe ich eine [MinM-Mehrfarbleuchtdiode][28] von ThingM per i2c an den electric imp angeschlossen. Noch einfacher geht es mit einer RGB-Leuchtdiode:
 
-<a href="/wp-content/uploads/2014/01/IMG_0001_6-16.jpg" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-878 aligncenter" alt="RGB-LED am electric imp" src="/wp-content/uploads/2014/01/IMG_0001_6-16-266x300.jpg" width="266" height="300" /></a>
+<a data-lity href="/wp-content/uploads/2014/01/IMG_0001_6-16.jpg" rel="lightbox[871]" title="Internet der Dinge"><img class="thumbnail img-responsive center-block" alt="RGB-LED am electric imp" src="/wp-content/uploads/2014/01/IMG_0001_6-16-266x300.jpg" width="266" height="300" /></a>
 
 Der imp hat zwar nur sechs Pins, diese sind aber [flexibel beschaltbar][29]:
 
-<a href="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2.png" rel="lightbox[871]" title="Internet der Dinge"><img class="size-medium wp-image-879 aligncenter" alt="Flexible Anschlußbelegung des electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2-300x121.png" width="300" height="121" /></a>
+<a data-lity href="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2.png" rel="lightbox[871]" title="Internet der Dinge"><img class="thumbnail img-responsive center-block" alt="Flexible Anschlußbelegung des electric imp" src="/wp-content/uploads/2014/01/Electric_Imp_-_Imp_Pin_Mux-2-300x121.png" width="300" height="121" /></a>
 
 Für die ThingM-LED benutze ich einen der zwei verfügbaren i2c-Kanäle, für die Vielfarbdiode waren es drei der Ausgänge mit Pulsweitenmodulation (PWM).
 
