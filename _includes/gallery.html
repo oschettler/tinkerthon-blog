@@ -1,0 +1,19 @@
+{% if page.gallery %}
+    <h3>{{ page.gallery_title }}</h3>
+    <div class="row">
+        {% for img in page.gallery %}
+            <div class="col-md-2 col-sm-3 col-xs-4">
+                <div class="teaser">
+                    <div class="image">
+                        <a data-lity href="{{ img.big }}">
+                            <img src="{{ img.small }}">
+                            {% if img.title %}
+                                <h4 class="small">{{ img.title }}</h4>
+                            {% endif %}
+                        </a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endif %}
