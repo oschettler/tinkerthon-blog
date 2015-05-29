@@ -3,8 +3,9 @@
     {% include head.html %}
 <body>
     {% include navbar.html %}
-    
+
     <div class="container">
+        {% include search-results.html %}
         {{ content }}
         {% include disqus.html %}
     </div>
