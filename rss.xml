@@ -1,0 +1,38 @@
+---
+---
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>Tinkerthon</title>
+<atom:link href="https://tinkerthon.de/rss.xml" rel="self" type="application/rss+xml"/>
+<link>https://tinkerthon.de</link>
+<description>Kinder, Kreativität, Elektronik</description>
+<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+<language>de-DE</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+{% for post in site.posts %}
+    <item>
+        <title>{{ post.title }}</title>
+        <link>{{ site.baseurl }}{{ post.url }}</link>
+        <comments>
+        {{ site.baseurl }}{{ post.url }}#comments
+        </comments>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <dc:creator>
+        <![CDATA[ {{ post.author }} ]]>
+        </dc:creator>
+        {% for cat in post.categories %}
+            <category>
+            <![CDATA[ {{ cat }} ]]>
+            </category>
+        {% endfor %}
+        <description>
+        <![CDATA[{{ post.excerpt | strip_html | strip_newlines }}]]>
+        </description>
+        <wfw:commentRss>
+        {{ site.baseurl }}{{ post.url }}/feed/
+        </wfw:commentRss>
+    </item>
+{% endfor %}
+</channel>
+</rss>

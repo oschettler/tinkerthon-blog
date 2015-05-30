@@ -1,5 +1,5 @@
-url: http://wp-tinkerthon.vm.lst.pm/
 name: Tinkerthon
 description: Kinder, Kreativität, Elektronik
 paginate: 5
 paginate_path: "/page/:num/"
+disqus_shortname: tinkerthon

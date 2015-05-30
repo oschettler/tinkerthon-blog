@@ -17,7 +17,7 @@ tags:
   - MusicPlayerDaemon
   - RaspberryPi
 ---
-## UPDATE 03/2015:
+**UPDATE 03/2015:**
 
 Adafruit empfiehlt inzwischen, statt ihrer Occidentalis-Distribution direkt das [Raspbian-Linux][1] zu benutzen.  Von Adafruit gibt es dann einen [Raspberry Pi Finder][2], der die fehlenden Komponenten zur Hardwaresteuerung nachrüstet.
 
@@ -26,20 +26,20 @@ Ich habe damit auf meinem Mac eine passende SD-Karte mit den folgenden Befehlen
 <pre>diskutil unmountDisk /dev/disk3 sudo dd bs=1m if=$HOME/Downloads/2015-02-16-raspbian-wheezy.img of=/dev/disk3</pre>
 
 Dieser Befehl läuft sehr lange. Mit CTRL-T im Terminalfenster kann man sich zwischendurch den Status anzeigen lassen.
->
-> <div>
->   Ein Aufruf von
-> </div>
->
-> <pre>curl -SLs https://apt.adafruit.com/bootstrap | bash</pre>
->
-> &#8230; findet dann einen über Ethernet-Kabel angebundenen RaspberryPi und konfiguriert ihn.
->
-> Hier ist noch ein kurzes Video vom Startvorgang des Radios:
->
-> <span class="embed-youtube" style="text-align: center; display: block;"></span>
->
-> **UPDATE 2.** Der Niederländer Bob Rathbone hat auf seiner <a href="http://www.bobrathbone.com/ada_pi_radio.htm" target="_blank">Website</a> eine umfangreiche (120 S.) Anleitung als PDF-Datei mit passender Python-Software verlinkt.
+
+Ein Aufruf von
+
+{% highlight bash %}
+curl -SLs https://apt.adafruit.com/bootstrap | bash</pre>
+{% endhighlight %}
+
+&#8230; findet dann einen über Ethernet-Kabel angebundenen RaspberryPi und konfiguriert ihn.
+
+Hier ist noch ein kurzes Video vom Startvorgang des Radios:
+
+<span class="embed-youtube" style="text-align: center; display: block;"></span>
+
+**UPDATE 2.** Der Niederländer Bob Rathbone hat auf seiner [Website](http://www.bobrathbone.com/ada_pi_radio.htm) eine umfangreiche (120 S.) Anleitung als PDF-Datei mit passender Python-Software verlinkt.
 
 Internet-Radio. So 2000er! Heute trägt doch jeder ständig mindestens ein Smartphone und ein iPod, vielleicht auch noch ein Tablet und ein Kindle mit sich herum. Eben! Der Nachwuchs bettelt ständig um verlängerte Medienzeit (&#8220;nur zum Radio hören&#8221;) und nutzt dann das Gadget doch nur zum Daddeln.
 
@@ -84,7 +84,8 @@ Für die ersten Schritte in der Python-Entwicklung ist die [WebIDE von Adafruit]
 
 Jetzt benötigen wir einige Sender-URLs. Bei mir sieht das nach einigem Googlen so aus:
 
-<pre style="padding-left: 30px;">root@raspberrypi:/var/lib/mpd/playlists# ls -la
+{% highlight bash %}
+root@raspberrypi:/var/lib/mpd/playlists# ls -la
 total 56
 drwxr-xr-x 2 mpd audio 4096 Mar 30 16:43 .
 drwxr-xr-x 4 mpd audio 4096 Mar 17 22:28 ..
@@ -100,6 +101,7 @@ drwxr-xr-x 4 mpd audio 4096 Mar 17 22:28 ..
 -rw-r--r-- 1 mpd audio 77 Mar 30 16:43 klassikradio.m3u
 -rw-r--r-- 1 mpd audio 118 Dec 14 2011 wdr2.m3u
 -rw-r--r-- 1 mpd audio 87 Dec 14 2011 wdr5.m3u</pre>
+{% endhighlight %}
 
   * Installation der erforderlichen Python-Module
 
