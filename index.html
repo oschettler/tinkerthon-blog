@@ -5,12 +5,12 @@ published: 09.12.2014
 res:
 ---
 <div class="row">
-    <div class="col-sm-5">
+    <div class="col-sm-5 col-xs-6">
         <div class="thumbnail">
             <img src="/wp-content/uploads/2010/10/cropped-feuerwesen_aus_draht_ohne_loeten1.jpg">
         </div>
     </div>
-    <div class="col-sm-7">
+    <div class="col-sm-7 col-xs-6">
         <h2><a href="{{ paginator.posts[0].url }}">
             {{ paginator.posts[0].title }}
         </a></h2>
@@ -32,7 +32,7 @@ res:
 
 <div class="row">
     {% for post in paginator.posts offset:1 %}
-        <div class="col-sm-3">
+        <div class="col-sm-3 col-xs-6">
             <div class="teaser">
                 {% if post.thumbnail %}
                     <div class="image">
