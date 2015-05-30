@@ -3,6 +3,7 @@ title: Konzept
 author: olav
 layout: page
 published: 6.10.2010
+thumbnail: /wp-content/uploads/2011/09/IMG_0031-212x212.jpg
 aktt_notify_twitter:
   - no
 ---

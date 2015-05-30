@@ -5,12 +5,15 @@
     {% include navbar.html %}
 
     <div class="container page-content">
+
         {% if page.title %}
             <div class="blog-header">
                 <h1 class="blog-title">{{ page.title }}</h1>
                 <p class="lead">{{ page.lead }}</p>
             </div>
         {% endif %}
+
+        {% include teaser.html %}
 
         <div id="content">{{ content }}</div>
 

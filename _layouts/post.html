@@ -10,24 +10,7 @@
             <h1 class="blog-title">{{ page.title }}</h1>
         </div>
 
-        <div class="teaser">
-            <div class="image">
-                <img class="thumbnail" src="{{ page.thumbnail }}">
-                <h4><span class="hidden">Themen: </span>{{ page.categories | join:", " }}</h4>
-            </div>
-            {% if page.next %}
-                <a class="thumbnail next post-link" title="{{ page.next.title }}" href="{{ page.next.permalink }}">
-                    <img src="{{ page.next.thumbnail }}">
-                    <span>&raquo;</span>
-                </a>
-            {% endif %}
-            {% if page.previous %}
-                <a class="thumbnail prev post-link" title="{{ page.previous.title }}" href="{{ page.previous.permalink }}">
-                    <img src="{{ page.previous.thumbnail }}">
-                    <span>&laquo;</span>
-                </a>
-            {% endif %}
-        </div>
+        {% include teaser.html %}
 
         <span class="published">{{ page.published }}</span>
         <div id="content">{{ content }}</div>
