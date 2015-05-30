@@ -4,7 +4,7 @@
 <body>
     {% include navbar.html %}
 
-    <div class="container">
+    <div class="container page-content">
 
         <div class="blog-header">
             <h1 class="blog-title">{{ page.title }}</h1>
@@ -29,14 +29,14 @@
             {% endif %}
         </div>
 
-        {% include search-results.html %}
         <span class="published">{{ page.published }}</span>
-        {{ content }}
+        <div id="content">{{ content }}</div>
 
         {% include gallery.html %}
 
     </div>
 
+    {% include search-result.html %}
     {% include footer.html %}
 </body>
 </html>
