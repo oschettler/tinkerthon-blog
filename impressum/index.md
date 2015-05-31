@@ -5,7 +5,7 @@ layout: page
 ---
 <div class="row">
     <div class="col-md-2">
-        <img class="thumbnail" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn" src="http://tinkerthon.de/wp-content/uploads/2010/10/63847_big.jpg" alt="" width="125" height="150">
+        <img class="thumbnail" title="Dr. Olav Schettler, Diplom-Informatiker aus Bonn" src="/wp-content/uploads/2010/10/63847_big.jpg" alt="" width="125" height="150">
     </div>
     <div class="col-md-10">
         <h2>Dr. Olav Schettler</h2>
