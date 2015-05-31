@@ -10,10 +10,28 @@
             <h1 class="blog-title">{{ page.title }}</h1>
         </div>
 
-        {% include teaser.html %}
+        <div class="row">
+            <div class="col-md-9">
+                <span class="published">{{ page.published }}</span>
+                <div id="content">{{ content }}</div>
+            </div>
+            <div class="col-md-3">
+                {% include teaser.html %}
 
-        <span class="published">{{ page.published }}</span>
-        <div id="content">{{ content }}</div>
+                <p>- Anzeige -</p> 
+
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Tinkerthon Detailseite -->
+                <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="ca-pub-5560811060433018"
+                 data-ad-slot="5374774684"
+                 data-ad-format="auto"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
 
         {% include gallery.html %}
         {% include disqus.html %}
