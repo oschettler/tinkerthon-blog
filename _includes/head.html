@@ -23,5 +23,11 @@
     <meta property="og:url" content="https://tinkerthon.de">
     <meta property="og:site_name" content="Tinkerthon">
 
+    <script>
+    if (window.location.protocol != "https:") {
+        window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
+    }
+    </script>
+
     <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/tinkerthon.de\/","name":"Tinkerthon"}</script>
 </head>
