@@ -92,7 +92,7 @@ Weil ich nicht wusste, ob ich noch beim ausgebuchten [Workshop zum ESP8266 von R
 
 Vielen Dank an dieser Stelle noch einmal dafür.
 
-Neben dem günstigen Preis und der vergleichbaren Leistungsfähigkeit macht eine [Lua-basierende Firmware](http://nodemcu.com/index_en.html) den ESP8266 interessant. Das die Programmiersprache Lua für das Internet-of-Things längst kein Geheimtipp mehr ist, weiss ich spätestens seit meinen Experimenten mit dem electricimp [Anfang letzten Jahres]({% post_url 2014-01-23-internet-der-dinge %}). Lua ist mir spätestens seit 2009 ein Begriff, damals im Zusammenhang mit einem [programmierbaren MySQL-Proxy](https://olav.net/node/2829). Es wird Zeit, dass ich mich damit einmal intensiver beschäftige.
+Neben dem günstigen Preis und der vergleichbaren Leistungsfähigkeit macht eine [Lua-basierende Firmware](http://nodemcu.com/index_en.html) den ESP8266 interessant. Das die **Programmiersprache Lua** für das Internet-of-Things längst kein Geheimtipp mehr ist, weiss ich spätestens seit meinen Experimenten mit dem electricimp [Anfang letzten Jahres]({% post_url 2014-01-23-internet-der-dinge %}). Lua ist mir spätestens seit 2009 ein Begriff, damals im Zusammenhang mit einem [programmierbaren MySQL-Proxy](https://olav.net/node/2829). Es wird Zeit, dass ich mich damit einmal intensiver beschäftige.
 
 Noch eine andere Lua-Umgebung war auf der MakerFaire sehr präsent: [Nogs](http://nogs.cc) von der gleichnamigen Firma aus Wallenhorst bei Osnabrück. Das verteilte Software-Konzept (NOGS = nodes go savy) wurde in Zusammenarbeit mit [Watterot](https://plus.google.com/+watterott/posts/V5eB15NUEK7) um eine Platine erweitert, auf der eine NOGS Clever Node auf einem ARM Cortex M4 arbeitet.
 
