@@ -24,7 +24,7 @@
     <meta property="og:site_name" content="Tinkerthon">
 
     <script>
-    if (window.location.protocol != "https:") {
+    if (!window.location.href.match(/local/) && window.location.protocol != "https:") {
         window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
     }
     </script>
