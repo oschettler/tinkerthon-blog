@@ -5,7 +5,7 @@ layout: post
 published: 07.06.2015
 thumbnail: /wp-content/uploads/2015/06/IMG_20150606_102937_212x212.png
 excerpt: >
-    Am 06./07. Juni war die dritte MakerFaire in Hannover. Ich war am Samstag dort und habe viele Eindrücke mitgebracht. Themen meines Ausflugs waren kleine Arduinos, ESP8266-WiFi-Boards, Physical Computing und IoT für Kinder und wie schaffe ich es, von diesen Themen zu leben.
+    Am 06./07. Juni war die dritte MakerFaire in Hannover. Ich war am Samstag dort und habe viele Eindrücke mitgebracht. Themen meines Ausflugs waren kleine Arduinos, ESP8266-WiFi-Boards, Physical Computing und IoT für Kinder und wie schaffe ich es, mit diesen Themen meine Familie zu ernähren.
 permalink: /2015/06/makerfaire-hannover/
 categories:
   - Ausflug
