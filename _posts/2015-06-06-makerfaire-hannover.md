@@ -12,7 +12,7 @@ categories:
 tags:
   - makerfaire
 ---
-Am 06./07. Juni war die dritte MakerFaire in Hannover. Ich war am Samstag dort. Puh, das war ein langer Tag! Um zwanzig nach sechs in Bonn mit dem Zug los, abends um halb zwölf wieder daheim.
+(Artikelfoto: LIYght it yourself iBeacon von [Andreas Pagel](http://lightityourself.de), basierend auf einer [PS 2014-Lampe](http://www.ikea.com/de/de/catalog/products/40251119/) von IKEA) Am 06./07. Juni war die dritte MakerFaire in Hannover. Ich war am Samstag dort. Puh, das war ein langer Tag! Um zwanzig nach sechs in Bonn mit dem Zug los, abends um halb zwölf wieder daheim.
 
 Es war gut, direkt um zehn am Hannoveraner Congress Centrum zu sein und meine ersten Runden durch die beiden Hallen in relativer Ruhe drehen zu können. Auf dem Aussengelände waren um diese Zeit noch viele Stände beim Aufbau.
 
