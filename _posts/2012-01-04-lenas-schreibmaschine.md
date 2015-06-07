@@ -9,9 +9,10 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+category: Projekte 
+tags:
   - PICAXE
-  - Projektideen
+
 ---
 Lena entwickelte in der letzten Zeit an starkes Interesse daran, Briefe am Computer zu schreiben. Wie schön, dass es bei Conrad gerade PS/2-Tastaturen für unter 3€ zu kaufen gibt. Grund genug, eine kleine Schreibmaschine für Lena zu basteln. Die aktuelle Version lebt noch auf einem Breadboard, aber das lässt sich sicher noch ändern. Lena findet&#8217;s gut:
 

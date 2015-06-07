@@ -9,7 +9,8 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
+category: Projekte
+tags:
   - PICAXE
 ---
 Ich arbeite z.Zt. an einem web-basierenden Editor für PICAXE-Programme. Damit möchte ich die Notwendigkeit umschiffen, bei Workshops für jeden oder zumindest für je zwei Teilnehmer einen Notebook vorhalten zu müssen.

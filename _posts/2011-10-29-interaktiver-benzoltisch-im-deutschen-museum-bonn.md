@@ -3,13 +3,18 @@ title: Benzoltisch
 lead: Interaktiver Benzoltisch im Deutschen Museum in Bonn.
 author: olav
 published: 29.10.2011
+permalink: /2011/10/interaktiver-benzoltisch-im-deutschen-museum-bonn/
 thumbnail: /wp-content/uploads/2011/10/IMG_1038-150x150.jpg
 excerpt: >
     Meine Teensy/Arduino-basierende Platine werkelt seit gestern Abend im interaktiven Benzoltisch im Deutschen Museum in Bonn (DMB). Dieses zentrale Exponat der Ausstellung &#8220;Kekulés Traum – Von der Benzolformel zum Bonner Chemiepalast&#8221; (Kurator der Ausstellung ist Ralph Burmester) veranschaulicht den Besuchern die ungeheure Spannbreite und Bedeutung der Verbindungen der Benzol-Chemie. In einer Broschüre zur Ausstellung ist der Tisch von der oberen Etage des Museums aus zu sehen.
-layout: page
+layout: post
 aktt_notify_twitter:
   - yes
 gallery_title: Fotos
+category: Projekte
+tags:
+    - teensy
+    - deutsches museum
 gallery:
     - {
       title: Teensy 2,

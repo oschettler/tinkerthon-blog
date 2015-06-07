@@ -11,8 +11,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
-  - Allgemein
+category: Projekte
 ---
 Ein kleines Feiertagsprojekt mit Paul: Ein Sonnenbild mit sechs gelben LEDs hinter einem transparenten Stück Kunststoff aus einer IKEA-Schranktür:
 

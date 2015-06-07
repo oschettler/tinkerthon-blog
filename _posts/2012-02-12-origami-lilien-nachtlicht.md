@@ -8,9 +8,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
-  - Allgemein
-  - Projektideen
+category: Projekte
 ---
 Diese Origami-Lilie war ein Sonntagnachmittagprojekt mit meiner kleinen Tochter. Es basiert auf einer Anleitung von <a href="http://u-handbag.typepad.com/uhandblog/2008/05/simple-origami.html" rel="nofollow">u-handbag.typepad.com</a> und nutzt ein LED-Gartenlicht mit Solarzelle als technische Grundlage.
 

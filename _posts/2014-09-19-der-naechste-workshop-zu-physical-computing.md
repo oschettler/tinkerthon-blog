@@ -7,7 +7,7 @@ excerpt: >
     Fast schon Tradition, werde ich auch in den Herbstferien in diesem Jahr wieder einen Workshop zu Physical Computing für Kinder abhalten.
 layout: post
 permalink: /2014/09/der-naechste-workshop-zu-physical-computing/
-categories:
+tags:
   - PICAXE
   - Workshops
 ---

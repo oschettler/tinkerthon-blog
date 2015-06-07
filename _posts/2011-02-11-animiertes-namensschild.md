@@ -9,9 +9,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-categories:
-  - Allgemein
-  - Projektideen
+category: Projekte
 tags:
   - '#dsez'
   - Arduino

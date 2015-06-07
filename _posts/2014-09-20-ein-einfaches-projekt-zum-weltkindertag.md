@@ -8,7 +8,7 @@ excerpt: >
 layout: post
 permalink: /2014/09/ein-einfaches-projekt-zum-weltkindertag/
 categories:
-  - Projektideen
+  - Projekte
 ---
 Heute ist Weltkindertag, an dem weltweit an die Rechte von Kindern erinnert wird. Dazu gibt es in [Berlin][1] und [Köln][2] große Feste. In Köln wird am Sonntag, dem 21.09.2014 zwischen 12 und 18 Uhr im Rheingarten und auf dem Heumarkt gefeiert. Aber auch schon am heutigen Samstag gibt es von 18.45 bis 21.00 Uhr auf der WDR-Bühne im Rheingarten ein buntes Programm mit den Kuschelbären Johannes und Stachel.
 

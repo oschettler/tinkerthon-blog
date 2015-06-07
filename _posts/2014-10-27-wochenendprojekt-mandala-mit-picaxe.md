@@ -7,9 +7,9 @@ layout: post
 permalink: /2014/10/wochenendprojekt-mandala-mit-picaxe/
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:34:"ein,die,mit,ich,das,einem,ist,habe";s:19:"keywords_autoupdate";i:1;s:11:"description";s:159:"ein paar Stunden mit einem kleinen Bastelprojekt drinnen verbringen. Ich stelle euch hier ein blinkendes Mandala vor, das ich mit meiner fünfjährigen Tochter";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-categories:
+category: Projekte
+tags:
   - PICAXE
-  - Projektideen
 ---
 Die Zeit ist wieder Winterzeit umgestellt, das Wetter wird schlechter. Da kann man am Wochenende schon einmal ein paar Stunden mit einem kleinen Bastelprojekt drinnen verbringen. Ich stelle euch hier ein blinkendes Mandala vor, das ich mit meiner fünfjährigen Tochter gebastelt habe und dass sich gut als Wochenendprojekt eignet.
 

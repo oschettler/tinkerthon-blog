@@ -9,8 +9,7 @@ layout: post
 permalink: /2014/12/wecker-stimmungslampe/
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:41:"und,blinkstick,das,die,ich,einen,den,habe";s:19:"keywords_autoupdate";i:1;s:11:"description";s:150:"und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die Uhrensoftware integrieren. So sieht das Ergebnis aus:";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-categories:
-  - Allgemein
+category: Projekte
 ---
 Ich habe gerade zwei neue Blinkstick-Varianten bekommen und musste den Blinkstick Square gleich mit dem Raspberry Pi verbinden und als Mood-Licht in die [Uhrensoftware][1] integrieren. So sieht das Ergebnis aus:
 

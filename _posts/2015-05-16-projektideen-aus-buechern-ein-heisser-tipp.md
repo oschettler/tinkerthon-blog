@@ -9,7 +9,7 @@ layout: post
 permalink: /2015/05/projektideen-aus-buechern-ein-heisser-tipp/
 ks_metadata:
   - 'a:7:{s:4:"lang";s:2:"en";s:8:"keywords";s:35:"bücher,die,es,man,und,der,ein,gibt";s:19:"keywords_autoupdate";i:1;s:11:"description";s:159:"Bücher im Haus bereits durchgebastelt sind, muss manchmal spontan ein neues Bastelbuch her. Das war früher am Wochenende natürlich schwierig, ist aber heute";s:22:"description_autoupdate";i:1;s:5:"title";s:0:"";s:6:"robots";s:12:"index,follow";}'
-categories:
+tags:
   - Bücher
   - Projektideen
 ---

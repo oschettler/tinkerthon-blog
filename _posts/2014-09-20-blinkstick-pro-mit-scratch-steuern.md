@@ -7,8 +7,7 @@ excerpt: >
     Im letzen Beitrag habe ich den Blinkstick Pro als einfaches Lötprojekt für Kinder beschrieben. Der Blinkstick kommt schon von Hause aus mit einer reichen Unterstützung für die unterschiedlichsten Programmiersprachen. Auch eine Steuerung aus dem Web ist möglich.
 layout: post
 permalink: /2014/09/blinkstick-pro-mit-scratch-steuern/
-categories:
-  - Projektideen
+category: Projekte
 tags:
   - Blinkstick
   - MIT Scratch
