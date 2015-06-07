@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+<body>
+    {% include navbar.html %}
+
+    <div class="container page-content">
+
+        {% if page.title %}
+            <div class="blog-header">
+                <h1 class="blog-title">{{ page.title }}</h1>
+                <p class="lead">{{ page.lead }}</p>
+            </div>
+        {% endif %}
+
+        {% include location.html %}
+
+        <div id="content">{{ content }}</div>
+
+        <h2>Veranstaltungen</h2>
+        <div class="row">
+            {% for event in collections.events %}
+                {% include list-teaser.html teaser=event %}
+            {% endfor %}
+        </div>
+
+        {% include gallery.html %}
+        {% include disqus.html %}
+    </div>
+
+    {% include search-result.html %}
+    {% include footer.html %}
+</body>
+</html>

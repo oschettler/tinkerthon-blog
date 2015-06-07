@@ -1,0 +1,28 @@
+---
+title: Bonn
+layout: page
+disqus: false
+---
+{% assign venues = site.venues | where:"city","Bonn" %}
+{% assign events = site.events | group_by:"date" %}
+
+{{ site.collections.venues }}
+
+<h2>Veranstaltungen</h2>
+
+{% for day in events %}
+    <h3>{{ day.name }}</h3>
+    <div class="row">
+        {% for event in day.items %}
+            {% include list-teaser.html teaser=event %}
+        {% endfor %}
+    </div>
+{% endfor %}
+
+<h2>Orte</h2>
+
+<div class="row">
+    {% for venue in venues %}
+        {% include list-teaser.html teaser=venue %}
+    {% endfor %}
+</div>

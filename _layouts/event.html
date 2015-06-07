@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+<body>
+    {% include navbar.html %}
+
+    <div class="container page-content">
+
+        {% if page.title %}
+            <div class="blog-header">
+                <h1 class="blog-title">{{ page.title }}</h1>
+                <p class="lead">{{ page.lead }}</p>
+            </div>
+        {% endif %}
+
+        {{ page.venue }}
+
+        {% assign city_venue = page.venue | split:"/" %}
+        {% assign venue = site.data.{{city_venue[0]}}[city_venue[1]] | jsonify %}
+
+        Venue: {{ venue }}
+
+        <div id="content">{{ content }}</div>
+
+        {% include gallery.html %}
+        {% include disqus.html %}
+    </div>
+
+    {% include search-result.html %}
+    {% include footer.html %}
+</body>
+</html>

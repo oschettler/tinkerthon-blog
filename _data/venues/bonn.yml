@@ -1,0 +1,9 @@
+haus-muellestumpe:
+    title: "Haus Müllestumpe"
+    layout: venue
+    street: An der Rheindorfer Burg 22
+    zipcode: 53117
+    city: Bonn
+    phone: +49 228-24 99 09-0
+    web: http://muellestumpe.de/
+    tags: werkstatt

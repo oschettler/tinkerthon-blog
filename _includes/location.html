@@ -1,0 +1,24 @@
+{% if include.venue %}
+    {% assign venue = include.venue %}
+{% else %}
+    {% assign venue = page %}
+{% endif %}
+
+<div class="teaser">
+    <h2>Anschrift</h2>
+
+    <div class="street">
+        {% if venue.street1 %}
+            {{ venue.street1 }}<br>
+        {% endif %}
+        {{ venue.street }}
+    </div>
+    <div class="zipcode-city">
+        <span class="zipcode">{{ venue.zipcode }}</span>
+        <span class="city">{{ venue.city }}</span>
+    </div>
+    <div class="web"><a href="{{ venue.web }}">Web</a></div>
+
+    <!--img src="http://maps.google.com/maps/api/staticmap?markers=&zoom=15&size=160x512&sensor=false" alt=""-->
+
+</div>
