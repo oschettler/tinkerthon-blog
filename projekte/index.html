@@ -1,0 +1,13 @@
+---
+title: Projekte
+layout: page
+---
+<div class="row">
+    {% for project in site.categories.projekte %}
+        {% assign modulo = forloop.index0 | modulo:4 %}
+        {% if 0 == modulo %}
+            </div><div class="row">
+        {% endif %}
+        {% include list-teaser.html teaser=project %}
+    {% endfor %}
+</div>
