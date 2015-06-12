@@ -1,27 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-    {% include head.html %}
-<body>
-    {% include navbar.html %}
+---
+layout: default
+---
+{% if page.title %}
+    <div class="blog-header">
+        <h1 class="blog-title">{{ page.title }}</h1>
 
-    <div class="container page-content">
-
-        {% if page.title %}
-            <div class="blog-header">
-                <h1 class="blog-title">{{ page.title }}</h1>
-                <p class="lead">{{ page.lead }}</p>
-            </div>
+        {% if page.lead %}
+            <p class="lead">{{ page.lead }}</p>
         {% endif %}
-
-        {% include teaser.html %}
-
-        <div id="content">{{ content }}</div>
-
-        {% include gallery.html %}
-        {% include disqus.html %}
     </div>
+{% endif %}
 
-    {% include search-result.html %}
-    {% include footer.html %}
-</body>
-</html>
+{% include teaser.html %}
+
+<div id="content">{{ content }}</div>
+
+{% include gallery.html %}
+{% include disqus.html %}
