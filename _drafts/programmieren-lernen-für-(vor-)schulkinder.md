@@ -21,12 +21,9 @@ Man fragt sich nat&uuml;rlich sofort, ob Kinder in dem Alter eigentlich Programm
 
 Leider habe ich mit meinen Jungs feststellen m&uuml;ssen, dass die Mindstorms-Roboter sehr komplex zu bauen und dann auch nicht ganz einfach zu programmieren sind. Da ist es dann schade, wenn der &gt;200&euro; teure Kasten nach anf&auml;nglicher Begeisterung schnell Staub ansetzt. Ein wesentlich niederschwelliger Einstieg in die Lego-Robotik wieden die [Edison-Roboter](http://meetedison.com/). Zum Kampfpreis von 44&euro; oder 79&euro; f&uuml;r zwei erh&auml;lt man Lego-kompatible Roboter, die wie die gro&szlig;en Mindstorms-Br&uuml;der &uuml;ber eine visuelle Programmiersprache programmierbar sind. Edisons machen aber auch ohne Programmierung schon Spa&szlig;. &Uuml;ber einfache Barcodes kann man ihnen verschiedene Verhaltensweisen oder Melodien beibringen. Dazu l&auml;sst sich ein Edison an eine normale Fernsteuerung anlernen und dann damit steuern. Mit den Teilen aus einem kleinen Lego-Techik-Kasten f&uuml;r 12&euro;  lassen sich dann verschiedene Modelle bauen. Die Ger&auml;te sind genial!
 
- 
+Genug Prosa. Hier noch ein paar Tipps im Schnelldurchlauf:
 
-Apps
-
-Raspberry Pi
-
-<span style="font-size: 1.8rem; letter-spacing: 0.01rem; line-height: 1.75em;">Physical Computing</span>
-
- 
+*   Mit [Codea](https://itunes.apple.com/us/app/codify/id439571171?ls=1&amp;mt=8) kann man am iPad Lua programmieren lernen. Der Erfinder von Redis hat mit [Load81](https://github.com/antirez/load81) einen OpenSource-Clone gebaut.
+*   Mit [MakeyMakeys](http://www.makeymakey.com/) lassen sich viele Programme steuern.
+*   Im Herbst wird es wieder einen [Physical Computing Workshop](http://www.deutsches-museum.de/bonn/information/fuer-kinder-und-schulen/die-kleine-eule-pfiffikus/workshops/der-heisse-draht/) im Deutschen Museum in Bonn geben. Wir werden mit kleinen PICAXE-Microcontrollern ein Spiel basteln und programmieren.
+*   [Snap](http://snap.berkeley.edu/) ist eine Weiterentwicklung von Scratch und erlaubt die Erweiterung der Sprache mit eigenen Bl&ouml;cken. Dazu gibt es ein [Seminar mit vielen Beispielprogrammen](http://bjc.berkeley.edu/website/curriculum.html) an der UC Berkeley.
