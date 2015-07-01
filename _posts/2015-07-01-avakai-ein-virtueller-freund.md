@@ -14,4 +14,4 @@ Daneben enthält ein Avakai aber auch einiges an intelligenter Elektronik. Bluet
 
 Avakais sind als Mediator für gemeinsames Spiel - auch draussen - angelegt. Dabei verspricht das Berliner Erfinderduo auch offene Hardware und Software. Angetrieben wird das Püppchen von einem Akku, der nur einmal die Woche per USB aufgeladen werden muss.
 
-Ich habe mir einen Avakai bestellt und bin sehr gespannt darauf. Damit ich mein Avakai bekomme, fehlen noch 20000€ für den Erfolg der [Kampagne](https://www.kickstarter.com/projects/vaikai/avakai-the-magical-play-companion). Also, schaut euch das Projekt an und unterstützt es!  
+Ich habe mir einen Avakai bestellt und bin sehr gespannt darauf. Damit ich mein Avakai bekomme, fehlen noch 20.000€ für den Erfolg der [Kampagne](https://www.kickstarter.com/projects/vaikai/avakai-the-magical-play-companion). Also, schaut euch das Projekt an und unterstützt es!  
