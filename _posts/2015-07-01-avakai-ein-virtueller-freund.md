@@ -12,6 +12,6 @@ thumbnail: "/wp-content/uploads/2015/07/avakai_212x212.png"
 Avakais sind ein Holzspielzeug für 5- bis 9-jährige Kinder. Es sind kleine, schön zeitlos gestaltete Holzpuppen. Der Kopf lässt sich abnehmen und gibt dabei einen kleinen Hohlraum mit Platz genug für kleine Schätze oder Nachrichten frei.
 Daneben enthält ein Avakai aber auch einiges an intelligenter Elektronik. Bluetooth dient zur Verbindung mit anderen Avakais oder einer Handy-App. Eine Mehrfahren-LED, ein Vibrationsmotor und ein Lautsprecher stellen die Ausgabegeräte, mehrere Berührungssensoren und ein Annäherungssensor die Eingabegeräte der schön kindgerechten UX - kein Bildschirm also. 
 
-Avakais sind als Mediator für gemeinsames Spiel - auch draussen - angelegt. Dabei verspricht das Erfinderduo aus Berlin auch offene Hardware und Software. Angetrieben wird das Püppchen von einem Akku, der nur einmal die Woche per USB aufgeladen werden muss.
+Avakais sind als Mediator für gemeinsames Spiel - auch draussen - angelegt. Dabei verspricht das Berliner Erfinderduo auch offene Hardware und Software. Angetrieben wird das Püppchen von einem Akku, der nur einmal die Woche per USB aufgeladen werden muss.
 
 Ich habe mir einen Avakai bestellt und bin sehr gespannt darauf. Damit ich mein Avakai bekomme, fehlen noch 20000€ für den Erfolg der [Kampagne](https://www.kickstarter.com/projects/vaikai/avakai-the-magical-play-companion). Also, schaut euch das Projekt an und unterstützt es!  
