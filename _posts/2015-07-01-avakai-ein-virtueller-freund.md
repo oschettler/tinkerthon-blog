@@ -1,8 +1,10 @@
 ---
+title: Avakai, ein virtueller Freund
 author: olav
-excerpt: "Schon Vorschulkinder können mit geeignen Apps Programmieren lernen. Vielleicht sollten sie ihre Zeit lieber mit dem Lernen eines Musikinstrumentes, Tanzen, Basteln oder draussen Spielen verbringen. Manchmal muss es aber einfach Programmieren sein."
+excerpt: >
+  Avakai sind ein schönes Holzspielzeug mit einem modernen Twist: Sie kommunizieren über Bluetooth und haben eine Reihe von Sensoren, eine bunte LED und Klänge auf Lager. Die Kickstarter-Kampagne läuft noch 5 Tage und braucht weitere Unterstützung.
 layout: post
-permalink: "/2015/06/programmieren-lernen-fuer-kinder/"
+permalink: "/2015/07/avakai-ein-virtueller-freund/"
 thumbnail: "/wp-content/uploads/2015/07/avakai_212x212.png"
 ---
 ... und ein Holzspielzeug für das 21. Jahrhundert. Ich hatte kurz auf der [MakerFaire in Hannover](https://tinkerthon.de/2015/06/makerfaire-hannover/) mit Matas gesprochen, einem Software-Entwickler und Produktmanager, der dieses Projekt zusammen mit seiner Partnerin Justyna in Berlin gegründet hat. Die [Kickstarter-Kampagne des Projektes](https://www.kickstarter.com/projects/vaikai/avakai-the-magical-play-companion) läuft nur noch eine Woche. Es wird also höchste Zeit, ein wenig die Werbetrommel dafür zu rühren. 
