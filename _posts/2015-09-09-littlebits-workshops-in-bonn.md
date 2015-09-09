@@ -4,6 +4,7 @@ author: olav
 excerpt: >
   littleBits (die Firma) wurde am 1 September vier Jahre alt. Schon damals in 2011 war ich auf der Suche nach modularen Sets für meine Physical Computing Workshops. Es wird also höchste Zeit, Einsatzmöglichkeiten dieses genialen Modulsystems in Workshops und im Design physischer Produkte näher zu beleuchten.
 layout: post
+published: 09.09.2015
 permalink: "/2015/09/littlebits-workshops-in-bonn/"
 thumbnail: "/system/files/000/000/130/teaser/IMG_20150908_132917.jpg"
 ---
