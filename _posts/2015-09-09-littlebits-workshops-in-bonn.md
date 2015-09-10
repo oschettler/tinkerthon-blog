@@ -21,7 +21,9 @@ Die Module (sogenannte "Bits") machen Elektronik für Kinder, Designer und Küns
 
 2012 hielt Ayah dann ihren <a href="http://www.ted.com/talks/ayah_bdeir_building_blocks_that_blink_beep_and_teach">viel beachteten TED-Vortrag</a>, in dem sie ihr Konzept von Elektronik-Modulen als weiteren Baustoff in kreativen Prozessen vorstellte.
 
-Seitdem ist viel passiert. Seit 2014 gibt es ein programmierbares Arduino-Bit. Im Juli desselben Jahres hat über das cloudBit auch das <a href="http://www.popularmechanics.com/technology/gadgets/a10948/introducing-cloudbit-17014023/">Internet der Dinge</a> Einzug in die stetig wachsende Welt der littleBits gehalten.
+LittleBits sind von Anfang an Open Hardware. Alle <a href="https://github.com/littlebitselectronics/eagle-files">Schaltpläne und Platinenlayouts liken offen auf Github</a>. Das kommt nicht von ungefähr. Ayah Bdeir war eine der Initiatoren der Open Hardware Bewegung und des <a href="http://openhardwaresummit.org/">Open Hardware Summits</a>.
+
+Seit 2012 ist viel passiert. Seit 2014 gibt es ein programmierbares Arduino-Bit. Im Juli desselben Jahres hat über das cloudBit auch das <a href="http://www.popularmechanics.com/technology/gadgets/a10948/introducing-cloudbit-17014023/">Internet der Dinge</a> Einzug in die stetig wachsende Welt der littleBits gehalten.
 
 LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops intensiv damit beschäftigen. Ich sehe es als gute Basis, um auch schon jungen Kinder im Grundschulalter spielerisch einen neuen Werkstoff an die Hand zu geben, mit dem sie ihren künstlerischen Kreationen mehr Ausdruck verleihen können. Für diese anstehenden Workshops habe ich mir erst einmal eine Grundausstattung, bestehend aus Basis- und Premiumkasten zugelegt. Hier ist deren Inhalt:
 
