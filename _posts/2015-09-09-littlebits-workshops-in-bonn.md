@@ -39,14 +39,14 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <th style="background-color:blue;color:white">Power</th>
             <td><img class="thumbnail" src="/system/files/000/000/132/teaser/power.jpg"></td>
             <td><h4>Stromversorgung</h4>
-                Mit dem Stromversorguns-Bit kannst du eine 9-Volt-Batterie zur Versorgung deiner littleBits nutzen. Verbinde Batterie und Kabel und schalte das Bit ein. Für die einfachste Schaltung mit littleBits kannst du das Stromversorguns-Bit mit einer Leuchtdiode verbinden und damit zu strahlen beginnen.
+                <p>Mit dem Stromversorguns-Bit kannst du eine 9-Volt-Batterie zur Versorgung deiner littleBits nutzen. Verbinde Batterie und Kabel und schalte das Bit ein. Für die einfachste Schaltung mit littleBits kannst du das Stromversorguns-Bit mit einer Leuchtdiode verbinden und damit zu strahlen beginnen.</p>
             </td>
         </tr>   
         <tr>
             <th style="background-color:pink;color:white" rowspan="8">Sensoren</th>
             <td><img class="thumbnail" src="/system/files/000/000/133/teaser/dimmer.jpg"></td>
             <td><h4>Dimmer</h4>
-                Mit dem Dimmer-Bit kannst du deine Kreationen mit einem einzigen Knopf steuern. Drehe ihn im Uhrzeigersinn und sende sein Signal an die folgenden Bits. Kombiniere ihn z.B. mit dem Vibrationsmotor und lasse ihn herumspringen.
+                <p>Mit dem Dimmer-Bit kannst du deine Kreationen mit einem einzigen Knopf steuern. Drehe ihn im Uhrzeigersinn und sende sein Signal an die folgenden Bits. Kombiniere ihn z.B. mit dem Vibrationsmotor und lasse ihn herumspringen.</p>
 
                 <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-10-ways-to-decorate-the-dimmer">Tipps</a> zur Nutzung des Dimmer-Bits.</p>
             </td>
@@ -54,27 +54,27 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
         <tr>
             <td><img class="thumbnail" src="/system/files/000/000/134/teaser/button.jpg"></td>
             <td><h4>Taster</h4>
-            Der Taster ist klassisch, groß und gut federnd. Drücke ihn und erwecke deine Kreationen zum Leben. Verbinde ihn z.B. mit dem Summer und sende Signale in Morsecode.
+                <p>Der Taster ist klassisch, groß und gut federnd. Drücke ihn und erwecke deine Kreationen zum Leben. Verbinde ihn z.B. mit dem Summer und sende Signale in Morsecode.</p>
 
-            <p>Technisch gesehen verbindet der Taster den Signalpfad von seinem Eingang zu seinem Ausgang. Im nicht gedrückten Zustand wird der Ausgang von einem 1M-Widerstand auf Masse gezogen.</p>
+                <p>Technisch gesehen verbindet der Taster den Signalpfad von seinem Eingang zu seinem Ausgang. Im nicht gedrückten Zustand wird der Ausgang von einem 1M-Widerstand auf Masse gezogen.</p>
 
-            <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-buttons-switches">Tipps</a> zur Nutzung des Tasters.</p>
+                <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-buttons-switches">Tipps</a> zur Nutzung des Tasters.</p>
             </td>
         </tr>   
         <tr>
             <td><img class="thumbnail" src="/system/files/000/000/135/teaser/lightsensor.jpg"></td>
             <td><h4>Lichtfühler</h4>
-            Der Lichtfühler misst die Helligkeit, die auf ihn fällt. Er hat zwei Betriebsarten: <em>Hell</em> und <em>Dunkel</em>. Bei <em>Hell</em> sendet er ein umso höheres Signal, je mehr Licht auf ihn fällt. Bei <em>Dunkel</em> verhält er sich genau anders herum. Du kannst die Empfindlichkeit des Bits mit den Schraubendreher einstellen. Benutze z.B: einen Bargraphen, um dem Bit bei der Arbeit zuzuschauen.
+                <p>Der Lichtfühler misst die Helligkeit, die auf ihn fällt. Er hat zwei Betriebsarten: <em>Hell</em> und <em>Dunkel</em>. Bei <em>Hell</em> sendet er ein umso höheres Signal, je mehr Licht auf ihn fällt. Bei <em>Dunkel</em> verhält er sich genau anders herum. Du kannst die Empfindlichkeit des Bits mit den Schraubendreher einstellen. Benutze z.B: einen Bargraphen, um dem Bit bei der Arbeit zuzuschauen.</p>
 
-            <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-light-sensor-light-trigger">Tipps</a> zur Nutzung des Lichtfühlers.</p>
+                <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-light-sensor-light-trigger">Tipps</a> zur Nutzung des Lichtfühlers.</p>
             </td>
         </tr>   
         <tr>
             <td><img class="thumbnail" src="/system/files/000/000/136/teaser/rollerswitch.jpg"></td>
             <td><h4>Microschalter</h4>
-            Der Microschalter ist praktisch. Er hat einen kleinen Heben mit einem Rad und wird aktiviert, wenn etwas an dem Rad entlangrollt. Du kannst die Betriebsart des Microschalters ändern, so dass er das Ausgangssignal unterbricht, wenn er gedrückt ist. Baue z.B. ein Kühlschranklicht mit dem Microschalter.
+                <p>Der Microschalter ist praktisch. Er hat einen kleinen Heben mit einem Rad und wird aktiviert, wenn etwas an dem Rad entlangrollt. Du kannst die Betriebsart des Microschalters ändern, so dass er das Ausgangssignal unterbricht, wenn er gedrückt ist. Baue z.B. ein Kühlschranklicht mit dem Microschalter.</p>
 
-            <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-the-roller-switch">Tipps</a> zur Nutzung des Microschalters.</p>
+                <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-tricks-the-roller-switch">Tipps</a> zur Nutzung des Microschalters.</p>
             </td>
         </tr>   
         <tr>
@@ -137,14 +137,14 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/143/teaser/bargraph.jpg"></td>
             <td><h4>Balkenanzeige</h4>
 
-            Die Balkenanzeige aus fünf LEDs ist eines der vielseitigsten Ausgabemodule. Die Leuchtdioden zeigen die am Modul ankommende Signalstärke an. Kombiniere sie mit einem Drucksensor, um einen Kraftmesser zu bauen.
+            <p>Die Balkenanzeige aus fünf LEDs ist eines der vielseitigsten Ausgabemodule. Die Leuchtdioden zeigen die am Modul ankommende Signalstärke an. Kombiniere sie mit einem Drucksensor, um einen Kraftmesser zu bauen.</p>
             </td>
         </tr>   
         <tr>
             <td><img class="thumbnail" src="/system/files/000/000/144/teaser/buzzer.jpg"></td>
             <td><h4>Summer</h4>
 
-            Der Summer ist wonach er klingt: Er macht ein nicht zu ignorierendes Geräusch wann immer ein aktives Eingangssignal bekommt. Du kannst damit eine Türklingel oder einen Alarm bauen.
+            <p>Der Summer ist wonach er klingt: Er macht ein nicht zu ignorierendes Geräusch wann immer ein aktives Eingangssignal bekommt. Du kannst damit eine Türklingel oder einen Alarm bauen.
 
             <p>Auf der littleBits-Seite findes du <a href="http://littlebits.cc/fridays-tips-tricks-the-buzzer">Tipps</a> zur Nutzung des Summers.</p>
             </td>
@@ -153,7 +153,7 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/145/teaser/dcmotor.jpg"></td>
             <td><h4>Gleichstrommotor</h4>
 
-            Der Gleichstrommotor dreht seine Achse, wenn du ihm ein aktives Signal sendest. Mit einem eingebauten Schalter kannst du die Drehrichtung wechseln. Mit einem kleinen, beiliegenden Zusatzteil namens "MotorMate" kannst du leicht Räder, Papier, Pappe, Legos und viele weitere Materialien an den Motor anschließen. Damit kannst du Windmühlen, Autos, Hubschrauber und andere Dinge bauen.  
+            <p>Der Gleichstrommotor dreht seine Achse, wenn du ihm ein aktives Signal sendest. Mit einem eingebauten Schalter kannst du die Drehrichtung wechseln. Mit einem kleinen, beiliegenden Zusatzteil namens "MotorMate" kannst du leicht Räder, Papier, Pappe, Legos und viele weitere Materialien an den Motor anschließen. Damit kannst du Windmühlen, Autos, Hubschrauber und andere Dinge bauen.  </p>
 
             <p>Auf der littleBits-Seite findes du <a href="http://littlebits.cc/tips-and-tricks-the-dc-motor">Tipps</a> zur Nutzung des Motors.</p>
             </td>
@@ -162,7 +162,7 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/146/teaser/servo.jpg"></td>
             <td><h4>Servomotor</h4>
 
-            Das Servo-Bit ist sehr vielseitig. Es ist ein steuerbarer Motor, der hin- und herschwingen kann. Er hat zwei Betriebsarten. Bei "Drehen" bestimmt das Signal von anderen Modulen die Positon des Arms. Nutze z.B. einen Dimmer, um den Drehwinkel festzulegen. Bei "Schwingen" bewegt sich der Motor einmal hin und her. Die Stärke des EIngangssignals bestimmt, wie schnell die bewegung ist. Befestige eine Flagge am Arm, um einen Signalstand zu bauen!
+            <p>Das Servo-Bit ist sehr vielseitig. Es ist ein steuerbarer Motor, der hin- und herschwingen kann. Er hat zwei Betriebsarten. Bei "Drehen" bestimmt das Signal von anderen Modulen die Positon des Arms. Nutze z.B. einen Dimmer, um den Drehwinkel festzulegen. Bei "Schwingen" bewegt sich der Motor einmal hin und her. Die Stärke des EIngangssignals bestimmt, wie schnell die bewegung ist. Befestige eine Flagge am Arm, um einen Signalstand zu bauen!</p>
 
             <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/fridays-tips-and-tricks-servo">Tipps</a> zur Nutzung des Servomotors.</p>
             </td>
@@ -171,7 +171,7 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/147/teaser/fan.jpg"></td>
             <td><h4>Ventilator</h4>
 
-            Das Ventilatormodul macht genau, was du dir vorstellst: Ein kleiner elektrischer Ventilator, angeschlossen an ein littleBits-Modul: Damit kannst du flatternde Bewegungen in deinen Werken erzeugen oder nur deinen Kopf kühlen.
+            <p>Das Ventilatormodul macht genau, was du dir vorstellst: Ein kleiner elektrischer Ventilator, angeschlossen an ein littleBits-Modul: Damit kannst du flatternde Bewegungen in deinen Werken erzeugen oder nur deinen Kopf kühlen.</p>
 
             <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/tips-tricks-the-fan-bit">Tipps</a> zur Nutzung des Ventilators.</p>
             </td>   
@@ -179,7 +179,7 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/148/teaser/longled.jpg"></td>
             <td><h4>Verlängerte Leuchtdiode</h4>
 
-            Die verlängerte LED ("Leuchtdiode") ist eine weitere Möglichkeit, Licht in deine Kreationen zu integrieren. Die eigentliche LED ist über einen biegsamen Draht mit dem Modul verbunden. Dadurch kannst du das Licht an interessante Orte bringen. Ein beliebter Trick ist, die LED in einen Schaumstoffball zu stecken und ihn damit zum Leuchten bringen.
+            <p>Die verlängerte LED ("Leuchtdiode") ist eine weitere Möglichkeit, Licht in deine Kreationen zu integrieren. Die eigentliche LED ist über einen biegsamen Draht mit dem Modul verbunden. Dadurch kannst du das Licht an interessante Orte bringen. Ein beliebter Trick ist, die LED in einen Schaumstoffball zu stecken und ihn damit zum Leuchten bringen.</p>
 
             <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/tips-tricks-led-bits">Tipps</a> zur Nutzung der verlängerten Leuchtdiode.</p>
             </td>
@@ -188,7 +188,7 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
             <td><img class="thumbnail" src="/system/files/000/000/149/teaser/vibrator.jpg"></td>
             <td><h4>Vibrationsmotor</h4>
 
-            Der Vibrationsmotor ist sehr ähnlich zu den Ding, was dein Handy vibrieren lässt, wenn du einen Nachricht bekommst. Mit diesem Modul kannst alles vibrieren und summen lassen. Dabei ist auch ein kleines Teil namens "vibeSnap" mit dem du z.B. Papier. Alufolie oder Pfeifenreiniger mit dem Motor verbinden kannst.
+            <p>Der Vibrationsmotor ist sehr ähnlich zu den Ding, was dein Handy vibrieren lässt, wenn du einen Nachricht bekommst. Mit diesem Modul kannst alles vibrieren und summen lassen. Dabei ist auch ein kleines Teil namens "vibeSnap" mit dem du z.B. Papier. Alufolie oder Pfeifenreiniger mit dem Motor verbinden kannst.</p>
 
             <p>Auf der littleBits-Seite findest du <a href="http://littlebits.cc/tips-tricks-vibration-motor">Tipps</a> zur Nutzung des Vibrationsmotors.</p>
             </td>
@@ -196,4 +196,4 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
     </tbody>
 </table>
 
-LittleBits hat eine umfangreiche Seite mit Anregungen für Projekte und Anleitungen für Workshopleiter. Meine Projekte haben dort natürlich auch einen <a href="http://littlebits.cc/users/tinkerthon" title="tinkerthon-Projekte mit littleBits">eigenen Bereich</a>.
+<p>LittleBits hat eine umfangreiche Seite mit Anregungen für Projekte und Anleitungen für Workshopleiter. Meine Projekte haben dort natürlich auch einen <a href="http://littlebits.cc/users/tinkerthon" title="tinkerthon-Projekte mit littleBits">eigenen Bereich</a>.</p>
