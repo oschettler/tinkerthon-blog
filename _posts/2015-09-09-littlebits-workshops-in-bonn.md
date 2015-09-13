@@ -162,3 +162,5 @@ LittleBits ist ein faszinierendes System. Ich werde mich hier und in Workshops i
         </tr>   
     </tbody>
 </table>
+
+LittleBits hat eine umfangreiche Seite mit Anregungen für Projekte und Anleitungen für Workshopleiter. Meine Projekte haben dort natürlich auch einen <a href="http://littlebits.cc/users/tinkerthon" title="tinkerthon-Projekte mit littleBits">eigenen Bereich</a>. 
