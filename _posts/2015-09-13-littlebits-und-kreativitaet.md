@@ -2,13 +2,13 @@
 title: littleBits und Kreativität
 author: olav
 excerpt: >
-  littleBits (die Firma) wurde am 1 September vier Jahre alt. Schon damals in 2011 war ich auf der Suche nach modularen Sets für meine Physical Computing Workshops. Es wird also höchste Zeit, Einsatzmöglichkeiten dieses genialen Modulsystems in Workshops und im Design physischer Produkte näher zu beleuchten.
+  littleBits sind ein Paradigmenwechsel, wenn es um die Nutzung von Elektronik als Material in kreativen Prozessen geht. Das merkt man nicht nur bei Physical Computing Workshops mit Kindern. Auch Produktdesign kann vom schneller Iterieren enorm profitieren.
 layout: post
-published: 09.09.2015
+published: 13.09.2015
 permalink: "/2015/09/littlebits-und-kreativitaet/"
 thumbnail: "/system/files/000/000/178/teaser/IMG_20150913_121739.jpg"
 ---
-Hier in den Tinkerthon-Labs in Bonn ist die littleBits-Hysterie ausgebrochen. Nachdem am Freitag auch noch ein <a href="http://littlebits.cc/cloudstart">Cloudbit</a> hier eintraf, laufen die Gehirne heiß, wie man die Massen für littleBits begeistern kann.
+Jaa ich habe das Wort _Paradigmenwechsel_ benutzt. Immerhin habe ich letztens gelernt, dass es schon 1962 von dem Physiker Thomas S. Kuhn geprägt wurde. Hier in den Tinkerthon-Labs in Bonn jedenfalls ist die littleBits-Hysterie ausgebrochen. Nachdem am Freitag auch noch ein [Cloudbit](http://littlebits.cc/cloudstart) hier eintraf, laufen die Gehirne heiß, wie man die Massen für littleBits begeistern kann.
 
 Kinder sind eine ganz offensichtliche Zielgruppe. Meine sechsjähre Tochter ist auch zumindest soweit davon begeistert, dass sie die Bits sogar ihrer Freundin vorgeführt hat. Diesen Erfolg konnte noch kein anderes Elektronikspielzeug verbuchen.
 
