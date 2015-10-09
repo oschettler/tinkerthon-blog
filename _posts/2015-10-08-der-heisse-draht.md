@@ -17,7 +17,7 @@ categories:
 ---
 Gestern und heute (8. bis 9. Oktober 2015) war es wieder soweit. Diesmal sogar mit 10 Kindern haben wir im Rahmen eines Ferienworkshops im Deutschen Museum in Bonn wieder ein elektronisches Spiel gebaut.
 
-Nach ein paar Lötübungen haben Alexander, Constantin, Fabian, Finn, Hannah, Henrik, Julius, Tameo, Tilman und Yannick gestern die Platine mit dem PICAXE-Microcontroller aufgebaut, das Spiel zusammengeleimt und damit erste kleine Wettkämpfe veranstaltet. Zur Unterstützung diente uns ein einfacher Stromkreis mit LED zur Anzeige der Berührungen und ein Handy als Stoppuhr.
+Nach ein paar Lötübungen haben Alexander, Constantin, Fabian, Finn, Hannah, Henrik, Julius, Tameo, Tilman und Yannick gestern die Bauteile auf ihre Platine mit dem PICAXE-Microcontroller gelötet, das Spiel zusammengeleimt und damit erste kleine Wettkämpfe veranstaltet. Zur Unterstützung diente uns ein einfacher Stromkreis mit LED zur Anzeige der Berührungen und ein Handy als Stoppuhr.
 
 Der Aufbau der Platinen hat wieder bei allen Kindern problemlos geklappt. Lediglich bei zwei der Kinder waren die LEDs nicht ganz dicht auf die Platine gelötet. Beim nachträglichen Herunterdrücken lösten sich dann die Kuperbahnen um die LEDs ab. Wir haben statt eines Reparaturversuches lieber komplett neue  Platinen bestückt.
 
