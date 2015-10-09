@@ -17,15 +17,19 @@ categories:
 ---
 # Physical Computing - "Der heiße Draht"
 
-Wir bauen ein elektronisches Spiel
+Gestern und heute (8. bis 9. Oktober 2015) war es wieder soweit. Diesmal sogar mit 10 Kindern haben wir im Rahmen eines Ferienworkshops im Deutschen Museum in Bonn wieder ein elektronisches Spiel gebaut.
 
-Zweitägiger Ferienworkshop für Kinder von 9 bis 12 Jahren
+Nach ein paar Lötübungen haben Alexander, Constantin, Fabian, Finn, Hannah, Henrik, Julius, Tameo, Tilman und Yannick gestern die Platine mit dem PICAXE-Microcontroller aufgebaut, das Spiel zusammengeleimt und damit erste kleine Wettkämpfe veranstaltet. Zur Unterstützung diente uns ein einfacher Stromkreis mit LED zur Anzeige der Berührungen und ein Handy als Stoppuhr.
 
-Termin: 8. bis 9. Oktober 2015
+Der Aufbau der Platinen hat wieder bei allen Kindern problemlos geklappt. Lediglich bei zwei der Kinder waren die LEDs nicht ganz dicht auf die Platine gelötet. Beim nachträglichen RUnterdrücken lösten sich dann die Kuperbahnen um die LEDs ab. Wir haben statt eines Reparaturversuches lieber komplett neue  Platinen bestückt.
 
-Hier erstes Material zum Workshop:
+Heute ging es an die Programmierung. Ich hatte vor, die neue, Blockly-basierte Programmiersoftware zu verwenden und hatte diese auf allen unseren Laptops installiert. Beim Test zeigte sich leider, dass die Software auch auf den Windows-XP-basierenden Laptops zwar lief, aber beim Aufruf des Blockly-Teils eine kryptische Fehlermeldung warf. Also mussten die Kinder heute doch in BASIC programmieren. Bei den einfacheren Beispielprogrammen ist das auch kein Problem. Für die komplexeren Spielprogramme mit Schleifen, paralleler Programmausführung, Variablen und Bedingungen reicht dann aber ein einzelner Tag nicht zur Einführung.
 
-* Kostenlose Programmiersoftware für [PICAXE Microcontroller](http://www.picaxe.com/Software/)
+Wenn ihr zuhause mit den Platinen weiterprogrammieren wollt, installiert euch in jedem Fall die [separate Blockly-App](http://www.picaxe.com/Software/PICAXE/Blockly-for-PICAXE/). Damit geht die PICAXE-Programmierung so einfach wie mit [MIT Scratch](https://scratch.mit.edu/), was einige der Kinder schon aus der Informatik-AG in ihrer Schule kannten. Der [Standard-Editor](http://www.picaxe.com/Software/PICAXE/PICAXE-Editor-6/) enthält jetzt zwar auch eine Blockly-Option. Die Software ist aber deutlich zu überladen und unübersichtlich.      
+
+Hier sind noch weitere *Materialien zum Workshop:*
+
+* Kostenlose Programmiersoftware für [PICAXE Microcontroller](http://www.picaxe.com/Software/). 
 * [Beispielprogramme](https://github.com/tinkerthon/Der-heisse-Draht)
 * Weitere PICAXE-Projektideen bei [PICAXE.com](http://www.picaxe.com/Project-Gallery) und [Instructables](http://www.instructables.com/howto/picaxe/)
 * [Deutscher Anbieter](http://www.picaxe-shop.de/) von PICAXE-Microcontrollern
