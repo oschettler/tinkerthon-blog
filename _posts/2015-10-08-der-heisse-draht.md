@@ -15,7 +15,7 @@ thumbnail: "/system/files/000/000/130/teaser/IMG_20150908_132917.jpg"
 categories:
   - Workshops
 ---
-￼# Physical Computing - "Der heiße Draht"
+# Physical Computing - "Der heiße Draht"
 
 Wir bauen ein elektronisches Spiel
 
