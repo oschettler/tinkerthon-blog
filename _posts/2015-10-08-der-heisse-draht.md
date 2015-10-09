@@ -38,14 +38,18 @@ Hier erstes Material zum Workshop:
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//graff.us1.list-manage.com/subscribe/post?u=a7d32a98e524ac53109bab878&amp;id=f36f19c7ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//tinkerthon.us1.list-manage.com/subscribe/post?u=a7d32a98e524ac53109bab878&amp;id=f36f19c7ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Möchtest du gelegentliche Ankündigungen erhalten? Melde dich zu unserem Newsletter an</h2>
+	<h2>Möchtest du gelegentliche Ankündigungen und Projektideen erhalten? Melde dich zu unserem Newsletter an.</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">E-Mail Adresse  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-NAME">Name </label>
+	<input type="text" value="" name="NAME" class="" id="mce-NAME">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
@@ -56,5 +60,24 @@ Hier erstes Material zum Workshop:
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: DE
+ */
+$.extend($.validator.messages, {
+	required: "Dieses Feld ist ein Pflichtfeld.",
+	maxlength: $.validator.format("Geben Sie bitte maximal {0} Zeichen ein."),
+	minlength: $.validator.format("Geben Sie bitte mindestens {0} Zeichen ein."),
+	rangelength: $.validator.format("Geben Sie bitte mindestens {0} und maximal {1} Zeichen ein."),
+	email: "Geben Sie bitte eine gültige E-Mail Adresse ein.",
+	url: "Geben Sie bitte eine gültige URL ein.",
+	date: "Bitte geben Sie ein gültiges Datum ein.",
+	number: "Geben Sie bitte eine Nummer ein.",
+	digits: "Geben Sie bitte nur Ziffern ein.",
+	equalTo: "Bitte denselben Wert wiederholen.",
+	range: $.validator.format("Geben Sie bitten einen Wert zwischen {0} und {1}."),
+	max: $.validator.format("Geben Sie bitte einen Wert kleiner oder gleich {0} ein."),
+	min: $.validator.format("Geben Sie bitte einen Wert größer oder gleich {0} ein."),
+	creditcard: "Geben Sie bitte ein gültige Kreditkarten-Nummer ein."
+});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
