@@ -1,5 +1,5 @@
 ---
-title: Physical Computing für Kinder
+title: Physical Computing für Kinder - Der heisse Draht
 author: olav
 excerpt: >
     Kinder lernen moderne Medien oft nur als
@@ -15,8 +15,6 @@ thumbnail: "/system/files/000/000/130/teaser/IMG_20150908_132917.jpg"
 categories:
   - Workshops
 ---
-# Physical Computing - "Der heiße Draht"
-
 Gestern und heute (8. bis 9. Oktober 2015) war es wieder soweit. Diesmal sogar mit 10 Kindern haben wir im Rahmen eines Ferienworkshops im Deutschen Museum in Bonn wieder ein elektronisches Spiel gebaut.
 
 Nach ein paar Lötübungen haben Alexander, Constantin, Fabian, Finn, Hannah, Henrik, Julius, Tameo, Tilman und Yannick gestern die Platine mit dem PICAXE-Microcontroller aufgebaut, das Spiel zusammengeleimt und damit erste kleine Wettkämpfe veranstaltet. Zur Unterstützung diente uns ein einfacher Stromkreis mit LED zur Anzeige der Berührungen und ein Handy als Stoppuhr.
