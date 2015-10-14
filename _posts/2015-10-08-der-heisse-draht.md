@@ -16,16 +16,14 @@ categories:
   - Workshops
 gallery_title: Fotos
 gallery:
-    - {
-        title: Kleine Lötübung als Einstieg,
-        small: /system/files/000/000/201/teaser/IMG_20151009_222043.jpg,
-          big: https://assets.pm/system/files/000/000/201/original/IMG_20151009_222043.jpg
-    }
-    - {
-        title: littleBits als Side Event,
-        small: /system/files/000/000/199/teaser/IMG_20151009_150030.jpg,
-          big: https://assets.pm/system/files/000/000/199/original/IMG_20151009_150030.jpg
-    }
+    -
+        title: Kleine Lötübung als Einstieg
+        small: /system/files/000/000/201/teaser/IMG_20151009_222043.jpg
+        big: https://assets.pm/system/files/000/000/201/original/IMG_20151009_222043.jpg
+    -
+        title: littleBits als Side Event
+        small: /system/files/000/000/199/teaser/IMG_20151009_150030.jpg
+        big: https://assets.pm/system/files/000/000/199/original/IMG_20151009_150030.jpg
 ---
 Gestern und heute (8. bis 9. Oktober 2015) war es wieder soweit. Diesmal sogar mit 10 Kindern haben wir im Rahmen eines [Ferienworkshops im Deutschen Museum in Bonn](http://www.deutsches-museum.de/bonn/information/fuer-kinder-und-schulen/die-kleine-eule-pfiffikus/workshops/der-heisse-draht/) wieder ein elektronisches Spiel gebaut.
 
