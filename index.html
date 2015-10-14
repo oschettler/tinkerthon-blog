@@ -49,4 +49,28 @@ res:
             </div>
         </div>
     {% endfor %}
+    <div class="col-sm-3 col-xs-6">
+        <h4>Fundstücke</h4>
+
+        <p>Bei meinen Reisen durch das Web sammle ich spannende Fundstücke bei Delicious.
+            Hier sind die aktuellsten <a href="https://delicious.com/olav/tinkerthon">Links zu Tinkerthon</a>.</p>
+        <ul class="delicious"></ul>
+        <p>Viel Spaß beim Stöbern!</p>
+        <script>
+            jQuery(function ($)
+            {
+                $.ajax({
+                    url:'http://feeds.delicious.com/v2/json/olav/tinkerthon',
+                    dataType: 'jsonp',
+                    success: function (feed)
+                    {
+                        $.each(feed, function ()
+                        {
+                            $('<li><a target="_new" title="hinzugefügt ' + this.dt.replace('T', ' ') + '" href="' + this.u + '">' + this.d + '</a></li>').appendTo('ul.delicious');
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
 </div>
