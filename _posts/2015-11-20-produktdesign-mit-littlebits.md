@@ -12,11 +12,9 @@ categories:
 ---
 Ich hatte ja [schon beschrieben](http://localhost:4000/2015/09/littlebits-und-kreativitaet/), dass Ayah Bdeir mit ihren littleBits eine neue Zielgruppe ausgemacht hat: Produkt-Designer. In einem [Video-Interview](http://www.lynda.com/littleBits-tutorials/Creative-Insights-Ayah-Bdeir-littleBits/140921-2.html) auf der Tutorial-Seite lynda.com beschreibt sie diese erweiterte Vision für ihr Startup.  
 
-Das diese Zielgruppe auch in Deutschland eine Schwäche für die bunten Bausteine hat, ist spätestens seit dem [Workshop Bits ‘n’ Beatz](http://bits-n-beatz.de/) von Matthias M. Wolf und "DieProduktMacher" in München im Juni 2015 klar. Am Freitag gab es die Gelegenheit, bei Chefkoch eine Kompaktform eines Kreativworkshops rund um physikalische und interaktive Produkte rund um Küche und Kochen zu veranstalten.
+Das diese Zielgruppe auch in Deutschland eine Schwäche für die bunten Bausteine hat, ist spätestens seit dem [Workshop Bits ‘n’ Beatz](http://bits-n-beatz.de/) von Matthias M. Wolf und "DieProduktMacher" in München im Juni 2015 klar. Am Freitag gab es die Gelegenheit, bei Chefkoch eine Kompaktform eines Kreativworkshops zu physikalischen und interaktiven Produkten rund um Küche und Kochen zu veranstalten.
 
-Als Auftakt präsentierte ich den neun Teilnehmern aus den Bereichen Produktmanagement und Software-Entwicklung als Motivation, sich mit physikalischen Produkten zu beschäftigen, zwei Diagramme aus dem [exzellenten Blogbeitrag von Ian Bach von MadeByMany](https://madebymany.com/blog/designing-connected-products).
-
-Darauf folgte ein schneller Überblick über Design Thinking. Dazu stellte ich die fünf Phasen und drei Denkweisen aus dem eBook der New Yorker [The Design Gym](http://www.thedesigngym.com/) vor.
+Als Auftakt präsentierte ich den neun Teilnehmern aus den Bereichen Produktmanagement und Software-Entwicklung als Motivation, sich mit physikalischen Produkten zu beschäftigen, zwei Diagramme aus dem [exzellenten Blogbeitrag von Ian Bach von MadeByMany](https://madebymany.com/blog/designing-connected-products). Darauf folgte ein schneller Überblick über Design Thinking. Dazu stellte ich die fünf Phasen und drei Denkweisen aus dem eBook der New Yorker [The Design Gym](http://www.thedesigngym.com/) vor.
 
 Dann ging es endlich ans Brainstormen. Ich hatte als Anregung einige Ideen aus den Interwebs zusammengetragen:
 
@@ -65,4 +63,3 @@ Bis die Kreativität der Teilnehmer in Gang kommt, braucht es mindestens eine ha
 Je nach Thema braucht man einfach Bits für das Erfassen und Steuern bestimmter, physikalischer Größen. Beim Kochen ist fast immer Wärme im Spiel. Bei anderen Themen vielleicht Licht, Töne, Farben. Man muss die Domäne *vor* dem Workshop wenigstens soweit durchdrungen haben, dass man die passenden Bits dabei hat. Für das Thema Küche und Kochen wäre also ein feuchtigkeitsunempfindlicher Temperatursensor ebenso nützlich gewesen wie eine steuerbare Heizplatte. Beides gibt es nicht out-of-the-Box als littleBits.
 
 Schon für milde komplizierte Abläufe braucht man eine Ablaufsteuerung. Diese kann man entweder mit Logik-Bits und Timern zusammenstecken oder man programmiert sie mit dem Arduino-Bit. Das Arduino-Bit bietet natürlich wesentlich mehr Flexibilität bei kleinerem Formfaktor. Allerdings muss man sich schon etwas in die Besonderheiten des littleBits-Arduino einfinden. Dafür hat unsere eine Stunde im Workshop bei Chefkoch nicht gereicht.
-  
