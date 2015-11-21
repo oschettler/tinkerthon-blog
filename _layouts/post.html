@@ -9,9 +9,13 @@ layout: default
     <div class="col-md-9">
         <span class="published">{{ page.published }}</span>
         <div id="content">{{ content }}</div>
+
+        {% include gallery.html %}
+
     </div>
     <div class="col-md-3">
         {% include teaser.html %}
+        {% include sidebar.html %}
 
         <p style="text-align:center">- Anzeige -</p>
 
