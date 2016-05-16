@@ -2,8 +2,8 @@
 title: Eine Weasley-Clock mit dem LittleBits Cloudbit für Lena
 author: olav
 excerpt: >
-    Das Internet der Dinge ganz einfach
-published: 14.04.2016
+    Heute haben Lena und ich eine Uhr gebaut, auf der immer zu sehen ist, wo Töchterchen gerade steckt. Wenn es das Internet der Dinge nicht gäbe, würde so etwas glatt an Zauberei grenzen.
+published: 17.05.2016
 layout: post
 thumbnail: "/uploads/2016-05-16/IMG_20160516_141257_thumb.jpg"
 categories:
