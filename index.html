@@ -53,14 +53,14 @@ res:
         <h4>Fundstücke</h4>
 
         <p>Bei meinen Reisen durch das Web sammle ich spannende Fundstücke bei Delicious.
-            Hier sind die aktuellsten <a href="https://delicious.com/olav/tinkerthon">Links zu Tinkerthon</a>.</p>
+            Hier sind die aktuellsten <a href="http://del.icio.us/olav/tinkerthon">Links zu Tinkerthon</a>.</p>
         <ul class="delicious"></ul>
         <p>Viel Spaß beim Stöbern!</p>
         <script>
             jQuery(function ($)
             {
                 $.ajax({
-                    url:'//feeds.delicious.com/v2/json/olav/tinkerthon',
+                    url:'http://feeds.del.icio.us/v2/json/olav/tinkerthon',
                     dataType: 'jsonp',
                     success: function (feed)
                     {
