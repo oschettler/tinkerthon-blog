@@ -51,7 +51,7 @@ Lange vor dem Internet der Dinge erdachte Joanne K. Rowling einen ähnlichen Ben
 
 Schon seit einiger Zeit überlege ich, mir auch eine solche Uhr zu bauen. Eine mechanisch einfache Idee wäre, eine LED-Matrix zur Anzeige zu nehmen. Spalten wären dann Familienmitglieder, Zeilen deren Aktivitäten. Oder ein [Neopixel-Ring](https://www.adafruit.com/products/2853): Jede Position ist eine Person, jede Farbe symbolisiert einen Ort oder eine Aktivität.
 
-In einem kleinen Pfingstprojekt wollte ich eine einfache Weasley-Uhr für Lena bauen. Dabei wollten wir und auf das Basteln konzentrieren und diesmal nicht löten oder Programmieren. Ein perfektes Projekt also für ein LittleBits CloudBit.
+In einem kleinen Pfingstprojekt haben Lena und ich heute eine einfache Weasley-Uhr für sie gebaut. Dabei wollten wir uns auf das Basteln konzentrieren und diesmal nicht löten oder programmieren. Ein perfektes Projekt also für ein [LittleBits CloudBit](http://littlebits.cc/cloud).
 
 <figure>
     <img class="thumbnail" src="/uploads/2016-05-16/cloud_diagram2_thumb.jpg" alt="Das CloudBit von LittleBits">
