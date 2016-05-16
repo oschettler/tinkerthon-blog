@@ -39,3 +39,10 @@ Leider war ich seitdem nicht allzu aktiv im Tinkerthon-Land. Mein Dayjob ist üb
 * [bt.tn](https://bt.tn/). Ein sehr schöner Knopf von finnischen Entwicklern mit umfangreichen Ökosystem
 * [flic.io](https://flic.io/). [IfTTT-Rezepte von fic](https://ifttt.com/p/Flic/shared). Ein kleiner Knopf aus Schweden, dessen Entwicklung über eine [sehr erfolgreiche Indigogo-Kampagne](https://www.indiegogo.com/projects/flic-the-wireless-smart-button#/) finanziert wurde, der allerdings nicht direkt, sondern über ein Handy mit dem Netz kommuniziert. Da man das aber sowieso immer dabei hat, ist das vielleicht gar kein Problem.
 * [AButton](https://www.tindie.com/products/AprilBrother/abutton-dev-kit/). Die günstigste Lösung auf Basis des ESP8266. Direkte Verbindung mit [IfTTT](https://ifttt.com/). Hackable!
+
+Andere Knöpfe sind unterwegs:
+
+* [1btn](https://www.crowdsupply.com/knewron/1btn). Die Kampagne endet im Mai 2016
+* [Amazon Dash](). Noch nicht in Europa erhältlich
+* [kwik](http://www.kwik.me/).
+* [NUIMO by SENIC](https://www.senic.com/). Mehr als ein Knopf

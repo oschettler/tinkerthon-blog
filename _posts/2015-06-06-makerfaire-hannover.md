@@ -116,7 +116,7 @@ Bei allem Enthusiasmus für das Internet der Dinge ist ein ESP8266 für ein Woch
     </a>
 </div>
 
-Nun noch etwas ganz anderes. Am Stand von [Vai Kai](http://vaikai.com) habe ich mir die schönen Holzpuppen namens **Avakai Companion** vorführen lassen. Diese kommunizieren über Bluetooth und erinnern mich irgendwie an an die [Goodnight Lamp](http://goodnightlamp.com/) von Alexandra Deschamps-Sonsino und Bäm!, die Lampe wird sogar [im Blog erwähnt](http://blog.vaikai.com/). Auch das ebenfalls zitierte Spiel [Journey](http://en.wikipedia.org/wiki/Journey_%282012_video_game%29) hatte ich sehr genossen. Am **9. Juni** startet die Kickstarter-Kampagne für das Spielzeug.
+Nun noch etwas ganz anderes. Am Stand von [Vai Kai](http://vaikai.com) habe ich mir die schönen Holzpuppen namens **Avakai Companion** vorführen lassen. Diese kommunizieren über Bluetooth und erinnern mich irgendwie an die [Goodnight Lamp](http://goodnightlamp.com/) von Alexandra Deschamps-Sonsino und Bäm!, die Lampe wird sogar [im Blog erwähnt](http://blog.vaikai.com/). Auch das ebenfalls zitierte Spiel [Journey](http://en.wikipedia.org/wiki/Journey_%282012_video_game%29) hatte ich sehr genossen. Am **9. Juni** startet die Kickstarter-Kampagne für das Spielzeug.
 
 MakerFaire ohne **3D-Drucker**? Natürlich bin ich auch vor ein paar Druckern stehen geblieben. Den [printmate3d](http://printmate3d.com) habe ich mir sogar erklären lassen. Aber Bonn bekommt jetzt ja vielleicht irgendwann [ein FabLab](https://twitter.com/sascha_foerster/status/607094867265769472), dann brauche ich keinen eigenen.
 

@@ -129,6 +129,21 @@ span.published {
     margin-left: 10px;
 }
 
+figure {
+    margin-bottom: 10px;
+    font-style: italic;
+
+    img {
+        margin: 0 auto;
+        max-width: 212px;
+    }
+
+    figcaption {
+        margin: 4px 0;
+        text-align: center;
+    }
+}
+
 footer {
     margin-top: 20px;
     padding: 10px 20px;
