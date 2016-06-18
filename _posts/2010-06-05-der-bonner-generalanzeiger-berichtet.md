@@ -27,13 +27,13 @@ tags:
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0586.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0586-150x150.jpg" class="attachment-thumbnail" alt="IMG_0586" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0586.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0586-150x150.jpg" class="attachment-thumbnail" alt="IMG_0586" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0587.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0587-150x150.jpg" class="attachment-thumbnail" alt="IMG_0587" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0587.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0587-150x150.jpg" class="attachment-thumbnail" alt="IMG_0587" /></a>
     </dt>
   </dl>
 
@@ -41,19 +41,19 @@ tags:
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0588.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0588-150x150.jpg" class="attachment-thumbnail" alt="IMG_0588" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0588.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0588-150x150.jpg" class="attachment-thumbnail" alt="IMG_0588" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0006.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0006-150x150.jpg" class="attachment-thumbnail" alt="IMG_0006" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0006.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0006-150x150.jpg" class="attachment-thumbnail" alt="IMG_0006" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0007.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/06/IMG_0007-150x150.jpg" class="attachment-thumbnail" alt="IMG_0007" /></a>
+      <a href='/wp-content/uploads/2010/06/IMG_0007.jpg' rel="lightbox[39]" title="Bonner GA berichtet"><img width="150" height="150" src="/wp-content/uploads/2010/06/IMG_0007-150x150.jpg" class="attachment-thumbnail" alt="IMG_0007" /></a>
     </dt>
   </dl>
 

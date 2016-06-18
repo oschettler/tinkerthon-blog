@@ -9,7 +9,7 @@ aktt_notify_twitter:
   - yes
 aktt_tweeted:
   - 1
-category: Projekte 
+category: Projekte
 tags:
   - PICAXE
 
@@ -27,19 +27,19 @@ Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl d
 <div id='gallery-15' class='gallery galleryid-684 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-e1325702193243.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/kids_typewriter-150x150.jpg" class="attachment-thumbnail" alt="kids_typewriter" /></a>
+      <a href='/wp-content/uploads/2012/01/kids_typewriter-e1325702193243.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="/wp-content/uploads/2012/01/kids_typewriter-150x150.jpg" class="attachment-thumbnail" alt="kids_typewriter" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-e1325700960283.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0486-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
+      <a href='/wp-content/uploads/2012/01/BILD0486-e1325700960283.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="/wp-content/uploads/2012/01/BILD0486-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-e1325700939981.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/01/BILD0485-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
+      <a href='/wp-content/uploads/2012/01/BILD0485-e1325700939981.jpg' rel="lightbox[684]" title="Lenas Schreibmaschine"><img width="150" height="150" src="/wp-content/uploads/2012/01/BILD0485-150x150.jpg" class="attachment-thumbnail" alt="DIGITAL CAMERA" /></a>
     </dt>
   </dl>
 

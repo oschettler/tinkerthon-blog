@@ -33,27 +33,13 @@ Wir werden also auch dieses Mal einen Menge neuer Dinge kennenlernen und Spass h
 <div id='gallery-11' class='gallery galleryid-479 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0117-e1302216651605.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0117-150x150.jpg" class="attachment-thumbnail" alt="Unsere Farbwechsellampe" /></a>
+      <a href='/wp-content/uploads/2011/04/IMG_0117-e1302216651605.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0117-150x150.jpg" class="attachment-thumbnail" alt="Unsere Farbwechsellampe" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0114-e1302216777959.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0114-e1302216777959-150x150.jpg" class="attachment-thumbnail" alt="Farbwechsler mit 12F683 auf Lochrasterplatine" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0115-e1302216903881.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0115-e1302216903881-150x150.jpg" class="attachment-thumbnail" alt="Rückseite der Lochrasterplatine" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0120-e1302217346174.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0120-150x150.jpg" class="attachment-thumbnail" alt="BlinkM-Nachbau mit Arduino und Lichtsequenzer" /></a>
+      <a href='/wp-content/uploads/2011/04/IMG_0114-e1302216777959.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0114-e1302216777959-150x150.jpg" class="attachment-thumbnail" alt="Farbwechsler mit 12F683 auf Lochrasterplatine" /></a>
     </dt>
   </dl>
 
@@ -61,13 +47,27 @@ Wir werden also auch dieses Mal einen Menge neuer Dinge kennenlernen und Spass h
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0080-e1302217492570.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0080-150x150.jpg" class="attachment-thumbnail" alt="Glühwürmchen mit PICAXE-Protoplatine" /></a>
+      <a href='/wp-content/uploads/2011/04/IMG_0115-e1302216903881.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0115-e1302216903881-150x150.jpg" class="attachment-thumbnail" alt="Rückseite der Lochrasterplatine" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0094-e1302216995778.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/04/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="Senso-Spiel mit PIC 12F683" /></a>
+      <a href='/wp-content/uploads/2011/04/IMG_0120-e1302217346174.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0120-150x150.jpg" class="attachment-thumbnail" alt="BlinkM-Nachbau mit Arduino und Lichtsequenzer" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='/wp-content/uploads/2011/04/IMG_0080-e1302217492570.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0080-150x150.jpg" class="attachment-thumbnail" alt="Glühwürmchen mit PICAXE-Protoplatine" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='/wp-content/uploads/2011/04/IMG_0094-e1302216995778.jpg' rel="lightbox[479]" title="Physical Computing Workshop am Samstag, 9.4.11 in Bonn"><img width="150" height="150" src="/wp-content/uploads/2011/04/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="Senso-Spiel mit PIC 12F683" /></a>
     </dt>
   </dl>
 

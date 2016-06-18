@@ -41,13 +41,13 @@ Olav
 <div id='gallery-8' class='gallery galleryid-423 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0696-e1298146993869.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0696-150x150.jpg" class="attachment-thumbnail" alt="IMG_0696" /></a>
+      <a href='/wp-content/uploads/2011/02/IMG_0696-e1298146993869.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="/wp-content/uploads/2011/02/IMG_0696-150x150.jpg" class="attachment-thumbnail" alt="IMG_0696" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0697-e1298146973612.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0697-150x150.jpg" class="attachment-thumbnail" alt="IMG_0697" /></a>
+      <a href='/wp-content/uploads/2011/02/IMG_0697-e1298146973612.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="/wp-content/uploads/2011/02/IMG_0697-150x150.jpg" class="attachment-thumbnail" alt="IMG_0697" /></a>
     </dt>
   </dl>
 
@@ -55,7 +55,7 @@ Olav
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0698-e1298146939624.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0698-150x150.jpg" class="attachment-thumbnail" alt="IMG_0698" /></a>
+      <a href='/wp-content/uploads/2011/02/IMG_0698-e1298146939624.jpg' rel="lightbox[423]" title="Workshop "><img width="150" height="150" src="/wp-content/uploads/2011/02/IMG_0698-150x150.jpg" class="attachment-thumbnail" alt="IMG_0698" /></a>
     </dt>
   </dl>
 

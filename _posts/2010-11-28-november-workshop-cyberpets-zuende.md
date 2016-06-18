@@ -27,19 +27,19 @@ Zwei Jungen hatten am Ende noch begonnen, inspiriert von [meiner Lilypad-Schneck
 <div id='gallery-5' class='gallery galleryid-314 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-e1291011026329.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0674-150x150.jpg" class="attachment-thumbnail" alt="Aushang im Restaurantbereich des Haus Müllestumpe" /></a>
+      <a href='/wp-content/uploads/2010/11/IMG_0674-e1291011026329.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="/wp-content/uploads/2010/11/IMG_0674-150x150.jpg" class="attachment-thumbnail" alt="Aushang im Restaurantbereich des Haus Müllestumpe" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-e1291099068706.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0012-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Stückliste des Kuschetiers" /></a>
+      <a href='/wp-content/uploads/2010/11/IMG_0012-e1291099068706.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="/wp-content/uploads/2010/11/IMG_0012-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Stückliste des Kuschetiers" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-e1291011052248.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0673-150x150.jpg" class="attachment-thumbnail" alt="IMG_0673" /></a>
+      <a href='/wp-content/uploads/2010/11/IMG_0673-e1291011052248.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="/wp-content/uploads/2010/11/IMG_0673-150x150.jpg" class="attachment-thumbnail" alt="IMG_0673" /></a>
     </dt>
   </dl>
 
@@ -47,13 +47,13 @@ Zwei Jungen hatten am Ende noch begonnen, inspiriert von [meiner Lilypad-Schneck
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-e1291011069355.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0672-150x150.jpg" class="attachment-thumbnail" alt="IMG_0672" /></a>
+      <a href='/wp-content/uploads/2010/11/IMG_0672-e1291011069355.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="/wp-content/uploads/2010/11/IMG_0672-150x150.jpg" class="attachment-thumbnail" alt="IMG_0672" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-e1291011085509.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/11/IMG_0671-150x150.jpg" class="attachment-thumbnail" alt="IMG_0671" /></a>
+      <a href='/wp-content/uploads/2010/11/IMG_0671-e1291011085509.jpg' rel="lightbox[314]" title="November-Workshop - Cyberpets zuende"><img width="150" height="150" src="/wp-content/uploads/2010/11/IMG_0671-150x150.jpg" class="attachment-thumbnail" alt="IMG_0671" /></a>
     </dt>
   </dl>
 

@@ -41,13 +41,13 @@ Hier noch ein paar nützliche Links zum AVR Butterfly:
 <div id='gallery-14' class='gallery galleryid-662 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/11/IMG_0123-e1321580034203.jpg' rel="lightbox[662]" title="Test des AVR Butterfly"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/11/IMG_0123-150x150.jpg" class="attachment-thumbnail" alt="IMG_0123" /></a>
+      <a href='/wp-content/uploads/2011/11/IMG_0123-e1321580034203.jpg' rel="lightbox[662]" title="Test des AVR Butterfly"><img width="150" height="150" src="/wp-content/uploads/2011/11/IMG_0123-150x150.jpg" class="attachment-thumbnail" alt="IMG_0123" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/11/IMG_0121-e1321580055516.jpg' rel="lightbox[662]" title="Test des AVR Butterfly"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/11/IMG_0121-150x150.jpg" class="attachment-thumbnail" alt="IMG_0121" /></a>
+      <a href='/wp-content/uploads/2011/11/IMG_0121-e1321580055516.jpg' rel="lightbox[662]" title="Test des AVR Butterfly"><img width="150" height="150" src="/wp-content/uploads/2011/11/IMG_0121-150x150.jpg" class="attachment-thumbnail" alt="IMG_0121" /></a>
     </dt>
   </dl>
 

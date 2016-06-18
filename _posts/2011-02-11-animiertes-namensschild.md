@@ -34,13 +34,13 @@ Hier ist das Arduino-Programm:
 <div id='gallery-7' class='gallery galleryid-370 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0059-e1297406274660.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0059-150x150.jpg" class="attachment-thumbnail" alt="IMG_0059" /></a>
+      <a href='/wp-content/uploads/2011/02/IMG_0059-e1297406274660.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="/wp-content/uploads/2011/02/IMG_0059-150x150.jpg" class="attachment-thumbnail" alt="IMG_0059" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0054-e1297406299674.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/02/IMG_0054-150x150.jpg" class="attachment-thumbnail" alt="IMG_0054" /></a>
+      <a href='/wp-content/uploads/2011/02/IMG_0054-e1297406299674.jpg' rel="lightbox[370]" title="Animiertes Namensschild"><img width="150" height="150" src="/wp-content/uploads/2011/02/IMG_0054-150x150.jpg" class="attachment-thumbnail" alt="IMG_0054" /></a>
     </dt>
   </dl>
 

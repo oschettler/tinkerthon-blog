@@ -27,19 +27,19 @@ Unverändert lässt sich die Schaltung jedenfalls nicht mit einem PICAXE-Control
 <div id='gallery-10' class='gallery galleryid-460 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0095-e1300777577112.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0095-150x150.jpg" class="attachment-thumbnail" alt="IMG_0095" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0095-e1300777577112.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0095-150x150.jpg" class="attachment-thumbnail" alt="IMG_0095" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0094-e1300777527781.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="IMG_0094" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0094-e1300777527781.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0094-150x150.jpg" class="attachment-thumbnail" alt="IMG_0094" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0093-e1300777547884.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0093-150x150.jpg" class="attachment-thumbnail" alt="IMG_0093" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0093-e1300777547884.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0093-150x150.jpg" class="attachment-thumbnail" alt="IMG_0093" /></a>
     </dt>
   </dl>
 
@@ -47,19 +47,19 @@ Unverändert lässt sich die Schaltung jedenfalls nicht mit einem PICAXE-Control
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/Simon_game.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/Simon_game-150x150.jpg" class="attachment-thumbnail" alt="Simon_game" /></a>
+      <a href='/wp-content/uploads/2011/03/Simon_game.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/Simon_game-150x150.jpg" class="attachment-thumbnail" alt="Simon_game" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0076.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0076-150x150.jpg" class="attachment-thumbnail" alt="Kleiner Drahtigel zum Anschluss des Microcontrollers an das Programmiergerät" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0076.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0076-150x150.jpg" class="attachment-thumbnail" alt="Kleiner Drahtigel zum Anschluss des Microcontrollers an das Programmiergerät" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0075-e1300790314409.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0075-150x150.jpg" class="attachment-thumbnail" alt="Programmierung des Microcontrollers mit dem PICkit 2" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0075-e1300790314409.jpg' rel="lightbox[460]" title="Senso-Spiel mit PIC Microcontroller"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0075-150x150.jpg" class="attachment-thumbnail" alt="Programmierung des Microcontrollers mit dem PICkit 2" /></a>
     </dt>
   </dl>
 

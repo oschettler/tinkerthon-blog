@@ -28,19 +28,19 @@ So heisst eine [Bauanleitung bei Instructables][1], die ebenfalls gut zum Thema 
 <div id='gallery-9' class='gallery galleryid-447 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0072-e1299567335849.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0072-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Batterie versteckt in Glasgranulat" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0072-e1299567335849.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0072-150x150.jpg" class="attachment-thumbnail" alt="Schaltung und Batterie versteckt in Glasgranulat" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0081-e1299567386974.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0081-150x150.jpg" class="attachment-thumbnail" alt="Fertige Schaltung, aufgebaut mit einer PICAXE-Prototyp-Platine" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0081-e1299567386974.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0081-150x150.jpg" class="attachment-thumbnail" alt="Fertige Schaltung, aufgebaut mit einer PICAXE-Prototyp-Platine" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0077-e1299567404892.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/03/IMG_0077-150x150.jpg" class="attachment-thumbnail" alt="Benötigte Teile" /></a>
+      <a href='/wp-content/uploads/2011/03/IMG_0077-e1299567404892.jpg' rel="lightbox[447]" title="Glühwürmchen im Marmeladenglas"><img width="150" height="150" src="/wp-content/uploads/2011/03/IMG_0077-150x150.jpg" class="attachment-thumbnail" alt="Benötigte Teile" /></a>
     </dt>
   </dl>
 

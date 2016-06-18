@@ -19,39 +19,19 @@ Am Samstag [präsentierte][1] die Marienschule die Ergebnisse einer Projektwoche
 <div id='gallery-13' class='gallery galleryid-522 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0860.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0860-150x150.jpg" class="attachment-thumbnail" alt="IMG_0860" /></a>
+      <a href='/wp-content/uploads/2011/07/IMG_0860.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0860-150x150.jpg" class="attachment-thumbnail" alt="IMG_0860" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0861.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0861-150x150.jpg" class="attachment-thumbnail" alt="IMG_0861" /></a>
+      <a href='/wp-content/uploads/2011/07/IMG_0861.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0861-150x150.jpg" class="attachment-thumbnail" alt="IMG_0861" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0862.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0862-150x150.jpg" class="attachment-thumbnail" alt="IMG_0862" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0864.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0864-150x150.jpg" class="attachment-thumbnail" alt="IMG_0864" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0865.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0865-150x150.jpg" class="attachment-thumbnail" alt="IMG_0865" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0868.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0868-150x150.jpg" class="attachment-thumbnail" alt="IMG_0868" /></a>
+      <a href='/wp-content/uploads/2011/07/IMG_0862.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0862-150x150.jpg" class="attachment-thumbnail" alt="IMG_0862" /></a>
     </dt>
   </dl>
 
@@ -59,13 +39,33 @@ Am Samstag [präsentierte][1] die Marienschule die Ergebnisse einer Projektwoche
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0866.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0866-150x150.jpg" class="attachment-thumbnail" alt="IMG_0866" /></a>
+      <a href='/wp-content/uploads/2011/07/IMG_0864.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0864-150x150.jpg" class="attachment-thumbnail" alt="IMG_0864" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0867.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2011/07/IMG_0867-150x150.jpg" class="attachment-thumbnail" alt="IMG_0867" /></a>
+      <a href='/wp-content/uploads/2011/07/IMG_0865.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0865-150x150.jpg" class="attachment-thumbnail" alt="IMG_0865" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='/wp-content/uploads/2011/07/IMG_0868.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0868-150x150.jpg" class="attachment-thumbnail" alt="IMG_0868" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='/wp-content/uploads/2011/07/IMG_0866.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0866-150x150.jpg" class="attachment-thumbnail" alt="IMG_0866" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon'>
+      <a href='/wp-content/uploads/2011/07/IMG_0867.jpg' rel="lightbox[522]" title="Klangkunst in der Bonner Altstadt"><img width="150" height="150" src="/wp-content/uploads/2011/07/IMG_0867-150x150.jpg" class="attachment-thumbnail" alt="IMG_0867" /></a>
     </dt>
   </dl>
 

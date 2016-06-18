@@ -42,19 +42,19 @@ Und hier noch ein paar Fotos von unserem Workshop heute:
 <div id='gallery-4' class='gallery galleryid-300 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0030-2/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_00301-150x150.jpg" class="attachment-thumbnail" alt="IMG_0030" /></a>
+      <a href='/2010/10/workshop-rentiere-zuende/img_0030-2/'><img width="150" height="150" src="/wp-content/uploads/2010/10/IMG_00301-150x150.jpg" class="attachment-thumbnail" alt="IMG_0030" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0031/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0031-150x150.jpg" class="attachment-thumbnail" alt="IMG_0031" /></a>
+      <a href='/2010/10/workshop-rentiere-zuende/img_0031/'><img width="150" height="150" src="/wp-content/uploads/2010/10/IMG_0031-150x150.jpg" class="attachment-thumbnail" alt="IMG_0031" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0032/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0032-150x150.jpg" class="attachment-thumbnail" alt="IMG_0032" /></a>
+      <a href='/2010/10/workshop-rentiere-zuende/img_0032/'><img width="150" height="150" src="/wp-content/uploads/2010/10/IMG_0032-150x150.jpg" class="attachment-thumbnail" alt="IMG_0032" /></a>
     </dt>
   </dl>
 
@@ -62,7 +62,7 @@ Und hier noch ein paar Fotos von unserem Workshop heute:
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/2010/10/workshop-rentiere-zuende/img_0033/'><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2010/10/IMG_0033-150x150.jpg" class="attachment-thumbnail" alt="IMG_0033" /></a>
+      <a href='/2010/10/workshop-rentiere-zuende/img_0033/'><img width="150" height="150" src="/wp-content/uploads/2010/10/IMG_0033-150x150.jpg" class="attachment-thumbnail" alt="IMG_0033" /></a>
     </dt>
   </dl>
 

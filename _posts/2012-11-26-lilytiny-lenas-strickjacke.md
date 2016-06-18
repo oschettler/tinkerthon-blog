@@ -27,13 +27,13 @@ Der Aufbau der Schaltung ist einfach. Wie immer beim Nähen von Schaltungen muß
 <div id='gallery-16' class='gallery galleryid-762 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0001-e1353917924373.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0001-e1353917924373-150x150.jpg" class="attachment-thumbnail" alt="Vorderansicht der vier Leuchtdioden" /></a>
+      <a href='/wp-content/uploads/2012/11/IMG_0001-e1353917924373.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="/wp-content/uploads/2012/11/IMG_0001-e1353917924373-150x150.jpg" class="attachment-thumbnail" alt="Vorderansicht der vier Leuchtdioden" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon'>
-      <a href='http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0003-e1353917952709.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="http://wp-tinkerthon.vm.lst.pm/wp-content/uploads/2012/11/IMG_0003-e1353917940519-150x150.jpg" class="attachment-thumbnail" alt="Innenansicht der Schaltung mit leitfähigem Faden" /></a>
+      <a href='/wp-content/uploads/2012/11/IMG_0003-e1353917952709.jpg' rel="lightbox[762]" title="LilyTiny an Lenas Strickjacke"><img width="150" height="150" src="/wp-content/uploads/2012/11/IMG_0003-e1353917940519-150x150.jpg" class="attachment-thumbnail" alt="Innenansicht der Schaltung mit leitfähigem Faden" /></a>
     </dt>
   </dl>
 
