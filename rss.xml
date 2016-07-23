@@ -13,9 +13,9 @@
 {% for post in site.posts %}
     <item>
         <title>{{ post.title }}</title>
-        <link>{{ site.baseurl }}{{ post.url }}</link>
+        <link>{{ site.url }}{{ post.url }}</link>
         <comments>
-        {{ site.baseurl }}{{ post.url }}#comments
+        {{ site.url }}{{ post.url }}#comments
         </comments>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <dc:creator>
@@ -30,7 +30,7 @@
         <![CDATA[{{ post.excerpt | strip_html | strip_newlines }}]]>
         </description>
         <wfw:commentRss>
-        {{ site.baseurl }}{{ post.url }}/feed/
+        {{ site.url }}{{ post.url }}/feed/
         </wfw:commentRss>
     </item>
 {% endfor %}
