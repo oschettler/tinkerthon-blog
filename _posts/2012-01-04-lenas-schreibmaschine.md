@@ -20,7 +20,7 @@ Lena entwickelte in der letzten Zeit an starkes Interesse daran, Briefe am Compu
 
 Die Schaltung ist sehr einfach und besteht neben dem Elektronenhirn, einem [PICAXE-14M2][1], aus einem [kleinen Display][2] und eben der PS/2-Tastatur.
 
-Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl des Microcontrollers, dekodiert die Tasten übe eine Datentabelle im EEPROM und gibt die so ermittelten ASCII-Codes auf dem seriellen Display aus. Zwei spezielle Tasten-Codes werden bisher interpretiert: BACKSPACE zum Löschen des letzten Zeichens und PAGELOCK zum Löschen des Bildschirminhaltes.
+Das kleine BASIC-Programm macht noch nicht sehr viel. Es nutzt den kbin-Befehl des Microcontrollers, dekodiert die Tasten über eine Datentabelle im EEPROM und gibt die so ermittelten ASCII-Codes auf dem seriellen Display aus. Zwei spezielle Tasten-Codes werden bisher interpretiert: BACKSPACE zum Löschen des letzten Zeichens und PAGELOCK zum Löschen des Bildschirminhaltes.
 
 <!-- see gallery_shortcode() in wp-includes/media.php -->
 
