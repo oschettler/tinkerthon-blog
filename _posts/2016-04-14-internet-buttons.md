@@ -14,6 +14,7 @@ tags:
   - IfTTT
   - APixel
   - Espruino
+  - Puck.js
 ---
 Ich bin ja immer auf der Suche nach einer einfachen Technologie für Kinder-Workshops.
 Bisher bin ich ganz zufrieden mit meinen PICAXE-Boards und der Heisser-Draht-Anwendung. Aber die Welt dreht sich weiter. Gerade erst wurde "Physical Computing" durch Arduino und eben PICAXE erfahrbar. Inzwischen ist man auch im Internet der Dinge bei einfachen und kostengünstigen Basistechnologien angekommen.
