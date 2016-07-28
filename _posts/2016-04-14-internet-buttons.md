@@ -43,6 +43,7 @@ Leider war ich seitdem nicht allzu aktiv im Tinkerthon-Land. Mein Dayjob ist üb
 Andere Knöpfe sind unterwegs:
 
 * [1btn](https://www.crowdsupply.com/knewron/1btn). Die Kampagne endet im Mai 2016
-* [Amazon Dash](). Noch nicht in Europa erhältlich
+* [Amazon Dash](http://www.spiegel.de/netzwelt/web/dash-button-amazon-irritiert-mit-bestellknoepfen-fuer-den-haushalt-a-1026652.html). Noch nicht in Europa erhältlich
 * [kwik](http://www.kwik.me/).
 * [NUIMO by SENIC](https://www.senic.com/). Mehr als ein Knopf
+* [puck.js von Gordon Williams (Espruino)](https://www.kickstarter.com/projects/gfw/puckjs-the-ground-breaking-bluetooth-beacon). Javascript, Bluetooth Low Energy, Web IDE
