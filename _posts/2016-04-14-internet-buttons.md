@@ -1,11 +1,11 @@
 ---
 title: Internet-Buttons
 author: olav
-excerpt: >
-    Das Internet der Dinge ganz einfach
-published: 14.04.2016
+excerpt: |
+  Das Internet der Dinge ganz einfach
+published: true
 layout: post
-thumbnail: "/system/files/000/000/219/teaser/abutton_212x212.png"
+thumbnail: /system/files/000/000/219/teaser/abutton_212x212.png
 categories:
   - Internet-Buttons
 tags:
@@ -13,6 +13,8 @@ tags:
   - ESP8266
   - IfTTT
   - APixel
+  - Espruino
+  - Puck.js
 ---
 Ich bin ja immer auf der Suche nach einer einfachen Technologie für Kinder-Workshops.
 Bisher bin ich ganz zufrieden mit meinen PICAXE-Boards und der Heisser-Draht-Anwendung. Aber die Welt dreht sich weiter. Gerade erst wurde "Physical Computing" durch Arduino und eben PICAXE erfahrbar. Inzwischen ist man auch im Internet der Dinge bei einfachen und kostengünstigen Basistechnologien angekommen.
