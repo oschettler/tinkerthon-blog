@@ -6,7 +6,7 @@ excerpt: >
     Jetzt auch als Plattform zur Spieleentwicklung.
 published: 27.11.2016
 layout: post
-thumbnail: "/uploads/2016/chip_212x212.png"
+thumbnail: "/uploads/2016/chip_212x212.jpg"
 categories:
   - Platformen
 tags:
