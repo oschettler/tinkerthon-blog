@@ -2,7 +2,8 @@
 title: C.H.I.P. Minicomputer mit PICO-8
 author: olav
 excerpt: >
-    Heute kam mein BBC micro:bit. Bestellt über Amazon bei einem Händler in England für 20€, eine Woche Lieferzeit. Die web-basierende Entwicklungsumgebungen sind komplett in Englisch. Trotzdem, ich kann mir gut vorstellen, ein micro:bit für einen Workshop mit Kindern einzusetzen.
+    C.H.I.P. Ein vollständiger Computer für 9 US$.
+    Jetzt auch als Plattform zur Spieleentwicklung.
 published: 27.11.2016
 layout: post
 thumbnail: "/uploads/2016/chip_212x212.png"
