@@ -12,11 +12,11 @@ tags:
   - Kinder
   - BBC micro:bit
 ---
-In den Osterferien 2017 (18. bis 21. April) veranstalte ich wieder einen Workshop *Physical Computing* im Deutschen Museum in Bonn. Format und Inhalt werden dieses Jahr anders als in den letzten Jahren. Dieses Jahr ist der Workshop einen Tag länger und die Zielgruppe ist älter. Dieses Mal richtet sich der Workshop an 13 bis 16-jährige und soll der Berufsorientierung dienen.
+In den Osterferien 2017 (18. bis 21. April) veranstalte ich wieder einen Workshop *Physical Computing* im Deutschen Museum in Bonn. Format und Inhalt werden dieses Jahr anders als in den letzten Jahren. Dieses Jahr ist der Workshop einen Tag länger und die Zielgruppe ist älter. Der Workshop richtet sich an 13 bis 16-jährige und soll der Berufsorientierung dienen.
 
-Auch die Plattform ist eine Andere. [Erste Überlegungen zum neuen Format](/iot/) hatte ich ja schon auf dem IoT-Barcamp letztes Jahr in Düsseldorf präsentiert. Technische Plattform wird also der BBC micro:bit sein. Ich hatte kurz gehofft, dass wir auch schon den neuen [Calliope Mini](http://calliope.cc/ueber-mini) einsetzen können. Der ist aber aktuell noch nicht lieferbar. Immerhin sind die beiden Platinen aber weitestgehend kompatibel.
+Auch die Plattform ist eine Andere. [Erste Überlegungen zum neuen Format](/iot/) hatte ich ja schon auf dem IoT-Barcamp letztes Jahr in Düsseldorf präsentiert. Technische Plattform wird also der BBC micro:bit sein. Ich hatte kurz gehofft, dass wir auch schon den neuen [Calliope Mini](http://calliope.cc/ueber-mini) einsetzen können. Der ist aber aktuell noch nicht lieferbar. Immerhin sind die beiden Platinen ja weitestgehend kompatibel.
 
-<iframe style="float:right;margin-left:10px;width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=dankbar-21&marketplace=amazon&region=DE&placement=B01MQL04TB&asins=B01MQL04TB&linkId=6ccae10d06d989ab7ce71b64f87b48ed&show_border=false&link_opens_in_new_window=true"></iframe>Zur Vorbereitung für den Workshop habe ich mit das Büchlein von Burkhard Kainka zugelegt. Darin wird eine geniale Methode beschrieben, auf dem 5x5 LED-Display des Micro:bit gut lesbar 5 Dezimalziffern darzustellen.
+Zur Vorbereitung für den Workshop habe ich mir [das Büchlein von Burkhard Kainka](http://amzn.to/2kP048z) zugelegt. Darin wird eine geniale Methode beschrieben, auf dem 5x5 LED-Display des Micro:bit gut lesbar 5 Dezimalziffern darzustellen.
 
 Mit diesem Verfahren habe ich in MicroPython einen einfachen [Pomodoro-Timer](https://de.wikipedia.org/wiki/Pomodoro-Technik) programmiert:
 
