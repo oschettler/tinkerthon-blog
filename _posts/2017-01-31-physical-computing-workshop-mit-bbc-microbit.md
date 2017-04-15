@@ -18,7 +18,7 @@ Auch die Plattform ist eine Andere. [Erste Überlegungen zum neuen Format](/iot/
 
 **UPDATE (2017-04-15):** Das [Workshop-Konzept](https://github.com/tinkerthon/Der-heisse-Draht-2017/raw/master/workshop-konzept.pdf) ist geschrieben und unter einer freizügigen CC-BY-SA-Lizenz auf Github veröffentlicht. In dem [selben Repository](https://github.com/tinkerthon/Der-heisse-Draht-2017/) liegen auch die Code-Beispiele. Am Ende der drei Tage werden wir ein Massenturnier "Der heiße Draht" veranstalten. Jede Teilnehmerin und jeder Teilnehmer hat dann ein eigenes Spiel gebaut und in MicroPython programmiert. In der letzten Ausbaustufe senden die Micro:bits der Spieler Spieler-ID, Zeit und Berührungen per Funk an einen zentralen Micro:bit, der die Ergebnisse in einer SQlite-Datenbank sammelt. Eine einfache Web App, natürlich ebenfalls in Python geschrieben, zeigt dazu eine Rangliste an. Ich habe das heute schon einmal mit Lena und einer Freundin ausprobiert. Mit 15 Teilnehmern wird das bestimmt lustig.
 
-<img src="/uploads/2017/rangliste.png" class"thumbnail">
+<div class"thumbnail">![Thumbnail](/uploads/2017/rangliste.png)</div>
 
 Zur Vorbereitung für den Workshop habe ich mir [das Büchlein von Burkhard Kainka](http://amzn.to/2kP048z) zugelegt. Darin wird eine geniale Methode beschrieben, auf dem 5x5 LED-Display des Micro:bit gut lesbar 5 Dezimalziffern darzustellen.
 
