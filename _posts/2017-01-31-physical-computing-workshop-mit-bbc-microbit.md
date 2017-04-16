@@ -2,7 +2,7 @@
 title: Osterferien-Workshop zu Physical Computing und Internet of Things
 author: olav
 excerpt: >
-    Am 18. bis 21. April gibt es wieder einen Physical Computing Workshop im Deutschen Museum in Bonn. Dieses Jahr läuft alles ganz anders.
+    Am 18. bis 21. April gibt es wieder einen Physical Computing Workshop im Deutschen Museum in Bonn. Dieses Jahr läuft alles ganz anders. #hdbn17
 published: 31.01.2017
 layout: post
 thumbnail: "/uploads/2017/microbit-pomodoro.jpg"
