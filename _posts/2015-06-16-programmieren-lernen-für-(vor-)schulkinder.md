@@ -4,7 +4,6 @@ author: olav
 excerpt: "Schon Vorschulkinder können mit geeignen Apps Programmieren lernen. Vielleicht sollten sie ihre Zeit lieber mit dem Lernen eines Musikinstrumentes, Tanzen, Basteln oder draussen Spielen verbringen. Manchmal muss es aber einfach Programmieren sein."
 published: 15.06.2015
 layout: post
-permalink: /2015/06/programmieren-lernen-fuer-kinder/
 thumbnail: /wp-content/uploads/2015/06/img_20150511_201051_212x212.png
 ---
 Mich fragte gerade ein Entwickerkollege, ob ich eine Idee h&auml;tte, wie er seiner f&uuml;nfj&auml;hrigen Tochter Programmieren beibringen k&ouml;nne.
