@@ -13,7 +13,7 @@ tags:
   - Kinder
   - BBC micro:bit
 ---
-Die letzten drei Tage habe ich einen Ferienworkshop zu *Physical Computing* im Deutschen Museum in Bonn veranstaltet.
+Die letzten drei Tage habe ich einen Ferienworkshop zu *Physical Computing* im Deutschen Museum in Bonn veranstaltet. Der Workshop diente der Berufsorientierung der teilnehmenden Schüler in den MINT-Fächern mit Hinblick auf Fächer wie Informationselektroniker/in oder ein Studium wie Internetbasierte Systeme oder E-Services. Gefördert wurde das Ganze im Rahmen des zdi-BSO-MINT-Programms. 
 
 Mit den 10 Teilnehmern haben wir den BBC Micro:bit und MicroPython erforscht. Das Ergebnis war ein über eine Funkverbindung vernetztes Spiel "Der heiße Draht" mit zentraler Rangliste. Weil zum Schluß noch etwas Zeit war, haben wir uns noch anderen Spielideen gewidmet. Dabei herausgekommen sind ein Würfel und ein objektorientiertes Pong-Spiel.
 
