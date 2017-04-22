@@ -19,6 +19,6 @@ Mit den 10 Teilnehmern haben wir den BBC Micro:bit und MicroPython erforscht. Da
 
 Wer das Pong-Spiel noch weiterentwickeln möchte; hier ist eine Idee zu **"Multi-Pong":** Auf mehreren Micro:bits läuft das Spiel. Jeder Micro:bit bekommt eine eindeutige Zahl zugewiesen. Am Ende jeder Runde schickt der Micro:bit ein Radio-Signal mit einer zufälligen Zahl an alle Micro:bits im Raum. Der Micro:bit mit dieser Zahl nimmt den Ball auf und zeigt eine Runde des Spiels an. Am Ende dieser Runde wählt dieser Micro:bit die Zufallszahl und schickt den Ball erneut an einen anderen Micro:bit.
 
-UPDATE: Marian Mehling ist mir mit dieser Idee zuvor gekommen. [Diese Version](https://www.hackster.io/marian-mehling/funk-pong-49cce5) ist aber in PXT entwickelt. Eine Version in MicroPython steht also noch aus ;)
+UPDATE: Marian Mehling hatte bereits eine ähnliche Idee. [Seine Variante](https://www.hackster.io/marian-mehling/funk-pong-49cce5) ist aber in PXT entwickelt. Eine Version in MicroPython steht also noch aus ;)
 
 Alle Programmquellen und das Workshop-Konzept liegen zur freien Nutzung [auf Github](https://github.com/tinkerthon/Der-heisse-Draht-2017).
