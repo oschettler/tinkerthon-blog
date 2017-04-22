@@ -17,4 +17,6 @@ Die letzten drei Tage habe ich einen Ferienworkshop zu *Physical Computing* im D
 
 Mit den 10 Teilnehmern haben wir den BBC Micro:bit und MicroPython erforscht. Das Ergebnis war ein über eine Funkverbindung vernetztes Spiel "Der heiße Draht" mit zentraler Rangliste. Weil zum Schluß noch etwas Zeit war, haben wir uns noch anderen Spielideen gewidmet. Dabei herausgekommen sind ein Würfel und ein objektorientiertes Pong-Spiel.
 
+Wer das Pong-Spiel noch weiterentwickeln möchte. Hier ist eine Idee zu **"Multi-Pong":** Auf mehreren Micro:bits läuft das Spiel. Jeder Micro:bit bekommt eine eindeutige Zahl zugewiesen. Am Ende jeder Runde schickt der Micro:bit ein Radio-Signal mit einer zufälligen Zahl an alle Micro:bits im Raum. Der Micro:bit mit dieser Zahl nimmt den Ball auf und zeigt eine Runde des Spiels an. Am Ende dieser Runde wählt dieser Micro:bit die Zufallszahl und schickt den Ball erneut an einen anderen Micro:bit.
+
 Alle Programmquellen und das Workshop-Konzept liegen zur freien Nutzung [auf Github](https://github.com/tinkerthon/Der-heisse-Draht-2017).
