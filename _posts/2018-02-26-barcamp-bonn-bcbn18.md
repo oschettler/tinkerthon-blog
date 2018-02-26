@@ -7,6 +7,8 @@ published: 26.02.2018
 layout: post
 permalink: "/2018/02/barcamp-bonn-bcbn18"
 thumbnail: "/uploads/2018/02/bcbn_212x212.png"
+
+
 categories:
   - Barcamp
 tags:
