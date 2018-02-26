@@ -1,5 +1,5 @@
 #
 serve:
-	bundle exec jekyll s
+	~/.rbenv/shims/bundle exec jekyll s
 
 .PHONY: serve

@@ -18,9 +18,8 @@ res:
         {{ paginator.posts[0].excerpt }}
     </div>
     <div class="col-sm-4 col-xs-4">
-      <h3>Neues Projekt</h3>
-      <p>Tablets faszinierten mich vom ersten Tag an. Inzwischen sind die Wunderdinger längst erwachsen geworden. Ein Magazin und eine Frage-Community sind mein neuestes Projekt.</p>
-      <a href="https://wundertablet.de"><img style="max-width:100%" src="/res/2017-02/wundertablet_logo.png"></a>
+      <h3>Wisssensspeicher</h3>
+      <p>Der kreative Einsatz digitaler Medien im Unterricht entwickelt sich ständig weiter. Für Eltern und Pädagogen ist es oft schwer, den Überblick zu behalten. Ich habe einen neuen Seitenbereich eingerichtet, um für mehr Transparenz zu sorgen, den <a href="https://wissen.tinkerthon.de/">Tinkerthon Wissensspeicher</a>.</p>
     </div>
 </div>
 
@@ -54,28 +53,4 @@ res:
             </div>
         </div>
     {% endfor %}
-    <div class="col-sm-3 col-xs-6">
-        <h4>Fundstücke</h4>
-
-        <p>Bei meinen Reisen durch das Web sammle ich spannende Fundstücke bei Delicious.
-            Hier sind die aktuellsten <a href="http://del.icio.us/olav/tinkerthon">Links zu Tinkerthon</a>.</p>
-        <ul class="delicious"></ul>
-        <p>Viel Spaß beim Stöbern!</p>
-        <script>
-            jQuery(function ($)
-            {
-                $.ajax({
-                    url:'https://del.icio.us/v2/json/olav/tinkerthon',
-                    dataType: 'jsonp',
-                    success: function (feed)
-                    {
-                        $.each(feed, function ()
-                        {
-                            $('<li><a target="_new" title="hinzugefügt ' + this.dt.replace('T', ' ') + '" href="' + this.u + '">' + this.d + '</a></li>').appendTo('ul.delicious');
-                        });
-                    }
-                });
-            });
-        </script>
-    </div>
 </div>

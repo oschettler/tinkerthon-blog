@@ -1,6 +1,6 @@
 name: Tinkerthon
 description: Kinder, Kreativität, Elektronik
-paginate: 4
+paginate: 5
 paginate_path: "/page/:num/"
 disqus_shortname: tinkerthon
 url: https://tinkerthon.de
