@@ -16,7 +16,7 @@ tags:
   - Physical Computing
   - Interactive Fiction
 ---
-Anders als in den Vorjahren - hier [mein Bericht vom letzten Jahr](https://blog.knowfox.com/2017-03-12-knowfox-auf-dem-bonner-barcamp-2017/) - gab es in diesem Jahr zwei Tage Barcamp Bonn. Der Freitag stand im Zeichen der Bildung, während der Samstag ein themenoffenes, klassisches Barcamp war. Ich habe am Freitag teilgenommen und zwei Sessions angeboten.
+Kaum zu glauben, dies ist schon das vierte Bonner Barcamp. Anders als in den Vorjahren - hier [mein Bericht vom letzten Jahr](https://blog.knowfox.com/2017-03-12-knowfox-auf-dem-bonner-barcamp-2017/) - gab es in diesem Jahr zwei Tage Barcamp Bonn. Der Freitag stand im Zeichen der Bildung, während der Samstag ein themenoffenes, klassisches Barcamp war. Ich habe am Freitag teilgenommen und zwei Sessions angeboten.
 
 In meiner ersten Session direkt um 13 Uhr habe ich meine Physical Computing-Workshops im Deutschen Museum Bonn vorgestellt. Beide Workshop-Konzepte nutzen als Klammer das Spiel _Der heiße Draht_. Während die erste Variante für 9-12-jährige Kinder auf der [PICAXE-Plattform](https://wissen.tinkerthon.de/platform:picaxe) basiert, stelle ich in der zweiten Variante die Programmierung eines [BBC micro:bit](https://wissen.tinkerthon.de/platform:bbc_microbit) bzw. Calliope Mini in MicroPython vor. Diese Variante zielt auf die Berufsorientierung der jugendlichen Teilnehmer und wurde aus Mitteln des Landes über [zdi (Zukunft durch Innovation)](http://www.zdi-portal.de/) gefördert. Die Konzepte für [beide](https://github.com/tinkerthon/Der-heisse-Draht) [Workshops](https://github.com/tinkerthon/Der-heisse-Draht-2017) liegen als OER (Open Educational Resources) auf Github.
 
