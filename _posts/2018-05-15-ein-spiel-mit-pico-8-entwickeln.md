@@ -47,7 +47,7 @@ Lass uns einen Schläger herumschieben!
 
 Drücke die *Esc* Taste, um in den Editor zu wechseln. Tippe dann den folgenden Programmtext ab. Es lohnt sich, in Textblöcken zwischen *if* und *end* und in Blöcken zwischen *function* und *end* am Anfang der zeile einmal die Leertaste zur drücken. So ist das Programm später leichter lesbar. Es lohnt sich auch, die Kommentare hinter *--* einzutippen. Kommentare beachtet sie  nicht. Sie sind also nur kleine Erinnerungen für dich!
 
-````
+````lua
 -- paddle
 padx=52
 pady=122
@@ -81,7 +81,7 @@ Hast du es gesehen: Wir haben eine Funktion namens *movepaddle()* geschrieben. D
 
 ### Die benutzten Befehle
 
-````
+````lua
 function _update() -- Das wird 30 mal jede Sekunde aufgerufen.
               -- Hier wird alles verändert, was im Spiel passiert
 
@@ -102,7 +102,7 @@ Drücke zweimal *Esc*, um in den Code Editor zurück zu gelangen.
 
 Ergänze ein paar neue Variable im Kopf der Datei, damit wir wissen, wo der Ball erscheinen soll:
 
-````
+````lua
 -- ball
 ballx=64
 bally=64
@@ -113,7 +113,7 @@ ballydir=-3
 
 Und dann ergänze das Folgende zur *_draw()* Funktion am Ende der Datei:
 
-````
+````lua
 function _draw()
  -- Leere den Bildschirm
  rectfill(0,0, 128,128, 3)
@@ -130,7 +130,7 @@ Drücke *Esc*, um aus dem Editor herauszukommen, tippe *run* und siehe, wie der 
 
 ### Unsere neuen Befehle
 
-````
+````lua
 circfill(x,y,size,col) -- Zeichne einen Kreis mit dem Mittelpunkt bei x,y
 ````
 
@@ -138,7 +138,7 @@ circfill(x,y,size,col) -- Zeichne einen Kreis mit dem Mittelpunkt bei x,y
 
 Drücke *Esc*, bis du wieder in den Code Editor gelangst. Ergnze dann eine neue Funktion über der *_update()* Funktion:
 
-````
+````lua
 function
  moveball()
  ballx+=ballxdir
@@ -148,7 +148,7 @@ end
 
 Und dann rufe sie in *_update()* auf:
 
-````
+````lua
 function _update()
  movepaddle()
  moveball()
@@ -171,7 +171,7 @@ Mache ein cooles Geräusch für wenn der Ball die Bildschirmkante berührt; sowa
 
 Füge eine neue Funktion nach dem Ende von *moveball()* hinzu:
 
-````
+````lua
 function bounceball()
  -- left
  if ballx < ballsize then
@@ -195,7 +195,7 @@ end
 
 Und dann rufe das in *_update()* auf:
 
-````
+````lua
 function _update()
  movepaddle()
  bounceball()
@@ -207,7 +207,7 @@ end
 
 ### Unser neuer Befehl
 
-````
+````lua
 sfx(number) -- Spiele einen Klang
 ````
 
@@ -221,7 +221,7 @@ Wir benutzen dafür das englische Wort *and* ("und" im Deutschen) in PICO-8.
 
 Füge eine *bouncepaddle* Funktion hinter *bounceball* ein:
 
-````
+````lua
 -- Lasse den Ball vom Schläger abprallen
 function bouncepaddle()
  if ballx>=padx and
@@ -237,7 +237,7 @@ Wenn du magst, kannst du noch ein anderes Geräusch für wenn der Ball den Schl�
 
 Vergiss nicht, das ganze von *_update()* aus aufzurufen:
 
-````
+````lua
 function _update()
  movepaddle()
  bounceball()
@@ -254,7 +254,7 @@ Wenn der Ball unten aus dem Bildschirm fliegt, Müssen wir ihn wieder in die Mit
 
 Füge diese Funktion nach *moveball()* ein:
 
-````
+````lua
 function losedeadball()
  if bally>128 then
   sfx(3)
@@ -265,7 +265,7 @@ end
 
 Rufe sie in *_update()* auf;
 
-````
+````lua
 function _update()
  movepaddle()
  bounceball()
@@ -285,13 +285,13 @@ Wenn du das mit *run* laufen lässt, solltest du den besten Teil des Spiels habe
 
 Natürlich, weil wir ein Spiel haben, wollen wir auch den Highscore knacken! Wir brauchen eine Variable im Kopf des Programms:
 
-````
+````lua
 score=0
 ````
 
 Dann erhöhen wir den Punktestand (Englisch *score*) jedes Mal, wenn der Ball vom Schläger abprallt. Füge eine Zeile zur *bouncepaddle* Funktion hinzu:
 
-````
+````lua
 -- Lasse den Ball vom Schläger abprallen
 function bouncepaddle()
  if ballx>=padx and
@@ -305,7 +305,7 @@ end
 
 Dann schreibe den Score auf den Bildschirm, indem du eine Zeile in der *_draw()* Funktion ergänzt:
 
-````
+````lua
 function _draw()
 -- Leere den Schirm
  rectfill(0,0, 128,128, 3)
@@ -325,7 +325,7 @@ Lass das mit *run* laufen und "Bob ist dein Onkel" ;)
 
 ### Unsere neuen Befehle
 
-````
+````lua
 print(message,x,y,col) -- Schreibe eine Nachricht auf den Schirm
       -- x,y sind unten links des ersten Buchstabens
 ````
@@ -339,7 +339,7 @@ Der nächste Puzzle-Stein ist es, die Anzahl Leben des Spielers zu begrenzen. Wi
 Merke dir in diesem Fall die Sprite Nummer 001!
 Nun kannst du eine neue Variable im Kopf der Datei hinzufügen: *lives=3* und diesen Code zum Zeichnen in *_draw()* ergänzen:
 
-````
+````lua
 function _draw()
 -- Leere den Schirm
  rectfill(0,0, 128,128, 3)
@@ -364,7 +364,7 @@ Stelle sicher, dass die Zahl hinter *spr* die Nummer des Sprites ist, den du ang
 
 Das letzte Stück ist, ein Leben abzuziehen, wenn der Ball unten aus dem Bildschirm fliegt und das Spiel zu beenden, wenn der Spieler keine Leben mehr hat. Wir müssen die Funktion *losedeadball* etwas komplizierter machen - ändere sie wie folgt:
 
-````
+````lua
 function losedeadball()
  if bally>128-ballsize then
   if lives>0 then -- Nächstes Leben
@@ -385,6 +385,6 @@ Du kannst noch ein lustiges Geräusch für *Spiel vorbei* anlegen! Spiele es mit
 
 ### Die neuen Befehle
 
-````
+````lua
 spr(number,x,y) -- Zeichne ein Sprite auf den Bildschirm mit oben links bei x,y
 ````
