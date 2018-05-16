@@ -25,6 +25,7 @@ Ich habe mich in diesem Artikel allerdings für PICO-8 entschieden, weil es hier
 ![Squashy](/uploads/2018/05/squashy/squashy.jpg)
 
 Der folgende Text ist eine Übersetzung aus dem Englischen des Originalartikels von [Alex Mole](https://twitter.com/TheRealMolen) aus dem PICOZINE #1.
+Alex hat netterweise zugestimmt, diese Übersetzung hier zu veröffentlichen. Danke Alex!
 
 Doch bevor wir zu dem Spiel kommen, schauen wir uns ein wenig in PICO-8 um. Wenn du das Programm startest, landest du im Befehls-Modus. Der heisst so, weil du PICO-8 hier über getippte Befehle steuerst. Gib einfach einmal *help* ein und drücke die dicke Eingabetaste. PICO-8 listet alle Befehle (Englisch: *Commands*) auf und gibt dir auch Hinweise, was du sonst noch tun kannst.
 
