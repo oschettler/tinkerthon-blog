@@ -9,7 +9,6 @@ layout: post
 permalink: "/2018/05/ein-spiel-mit-pico-8-entwickeln"
 thumbnail: "/uploads/2018/02/bcbn_212x212.png"
 
-
 categories:
   - Phantasiekonsolen
 tags:
@@ -22,6 +21,8 @@ Heute will ich dir zeigen, wie du auf deinem Computer ein eigenes Spiel entwicke
 Wenn der Preis wirklich ein Problem ist: Es gibt inzwischen ganz viele Nachbauten von PICO-8. Ein sehr guter, kostenloser Nachbau ist [PX8](https://hallucino.itch.io/px8). Eine günstige Alternative ist auch noch [TIC-80](https://tic.computer/). TIC ist ganz cool, weil es das auch für Android-Handies für unterwegs gibt.
 
 Ich habe mich in diesem Artikel allerdings für PICO-8 entschieden, weil es hierfür wirklich am meisten Beispiele, Anleitungen und sogar ein [Fan-Magazin](https://sectordub.itch.io/pico-8-fanzine-1) gibt. Aus diesem Fan-Magazin stammt auch das Beispiel, dass ich dir zeigen möchte. Das Spiel heisst **Squashy** und ist ein einfaches "Tennis"-Spiel.
+
+![Squashy](/uploads/2018/05/squashy/squashy.jpg)
 
 Der folgende Text ist eine Übersetzung aus dem Englischen des Originalartikels von Alex Mole aus dem PICOZINE #1.
 
@@ -165,7 +166,7 @@ Um den Ball von den Seiten zurückprallen zu lassen, müssen wir nur das Vorzeic
 
 Mache ein cooles Geräusch für wenn der Ball die Bildschirmkante berührt; sowas wie das folgende funktioniert:
 
-...
+![bounce-sound](/uploads/2018/05/squashy/bounce-sound.jpg)
 
 Füge eine neue Funktion nach dem Ende von *moveball()* hinzu:
 
@@ -275,7 +276,7 @@ end
 
 Mache ein lustiges Geräusch für wenn er aus dem Bildschirm fällt. So etwas wie das hier funktioniert gut:
 
-...
+![loose-ball](/uploads/2018/05/squashy/looseball-sound.jpg)
 
 Wenn du das mit *run* laufen lässt, solltest du den besten Teil des Spiels haben. Nun müssen wir noch folgendes ergänzen ...
 
@@ -332,9 +333,9 @@ print(message,x,y,col) -- Schreibe eine Nachricht auf den Schirm
 
 Der nächste Puzzle-Stein ist es, die Anzahl Leben des Spielers zu begrenzen. Wir müssen ein *Sprite* (ein kleines Bild) anlegen, um ein Herz anzuzeigen, daher öffnen wir den Sprite Editor in PICO-8, um ein Sprite wie dieses anzulegen:
 
-...
+![heart-sprite.jpg](/uploads/2018/05/squashy/heart-sprite.jpg)
 
-Merke dir in diesem Fall die Sprite Nummer 004!
+Merke dir in diesem Fall die Sprite Nummer 001!
 Nun kannst du eine neue Variable im Kopf der Datei hinzufügen: *lives=3* und diesen Code zum Zeichnen in *_draw()* ergänzen:
 
 ````
