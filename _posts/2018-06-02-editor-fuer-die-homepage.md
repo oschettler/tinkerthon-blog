@@ -18,13 +18,13 @@ tags:
 gallery_title: Screenshots des Tunes-Editor
 gallery:
 - small: /uploads/2018/06/screen-login_100x100.png
-- big: /uploads/2018/06/screen-login.png
+  big: /uploads/2018/06/screen-login.png
 - small: /uploads/2018/06/screen-list_100x100.png
-- big: /uploads/2018/06/screen-list.png
+  big: /uploads/2018/06/screen-list.png
 - small: /uploads/2018/06/screen-editor_100x100.png
-- big: /uploads/2018/06/screen-editor.png
+  big: /uploads/2018/06/screen-editor.png
 - small: /uploads/2018/06/screen-card_100x100.png
-- big: /uploads/2018/06/screen-card.png
+  big: /uploads/2018/06/screen-card.png
 
 ---
 Ein langsamer Feiertag, wir haben uns auf der Suche nach einem Bastelprojekt die [Web-Projekte der Raspberry Pi Foundation](https://projects.raspberrypi.org/en/projects/?software[]=html-css-javascript) angesehen. Sie benutzen [Trinket](https://trinket.io/) als Hoster - sicher nicht verkehrt. Mit dem Revival von Static Websites gibt es inzwischen noch andere Alternativen. Eine sehr kultige Möglichkeit ist s.B. [NeoCities](https://neocities.org/).
