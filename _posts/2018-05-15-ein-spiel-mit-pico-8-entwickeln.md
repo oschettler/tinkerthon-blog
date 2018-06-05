@@ -7,7 +7,7 @@ excerpt: >
 published: 14.05.2018
 layout: post
 permalink: "/2018/05/ein-spiel-mit-pico-8-entwickeln"
-thumbnail: "/uploads/2018/02/bcbn_212x212.png"
+thumbnail: "/uploads/2018/06/lexaloffle-pico8.png"
 
 categories:
   - Phantasiekonsolen
