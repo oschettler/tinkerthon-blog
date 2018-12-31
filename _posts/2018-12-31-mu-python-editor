@@ -1,0 +1,28 @@
+---
+title: MU, ein einfacher Python-Editor
+author: olav
+excerpt: >
+    Mu ist ein einfach zu bedienender Python-Editor, der sich gut für erste Schritte bei Spieleentwicklung oder Physical Computing eignet.
+published: 31.12.2018
+layout: post
+permalink: "/2018/12/mu-python-editor-fuer-spiele-und-physical-computing"
+thumbnail: "/uploads/2018/07/voico_212x212.png"
+
+categories:
+  - Physical Computing
+tags:
+  - Python
+  - PyGameZero
+  - Circuit Python
+  - Circuit Playground Express
+
+---
+Ich habe zwei kleine Python-Programme mit Mu entwickel.
+
+Eine einfache Animation in PyGameZero:
+
+<script src="https://gist.github.com/oschettler/8421294424c03b57b57ca772e761d9e5.js"></script>
+
+Eine RGB-Lampe, bei der sich per Infrarot-Fernsteuerung die Farbe auswählen lässt:
+
+<script src="https://gist.github.com/oschettler/5903ca745239de5d5e9b84cc289c9b08.js"></script>
